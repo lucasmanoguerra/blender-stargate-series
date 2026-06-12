@@ -448,16 +448,14 @@ Mira alrededor.
                           ELI (CONT.)
           Luce diferente. ¿Pintaron?
 
-                          CARTER
-          (recuperándose)
-          Actualizamos el sistema.
-          Hace dos años.
+                           CARTER
+           (recuperándose)
+           Ha pasado mucha agua bajo
+           el puente.
 
-                          ELI
-          (asintiendo)
-          Dos años. Para ustedes.
-          (pausa)
-          Para mí... fueron diez.
+                           ELI
+           (asintiendo)
+           Sí. Para todos.
 
 Silencio. Carter procesa.
 
