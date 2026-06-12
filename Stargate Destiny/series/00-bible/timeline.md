@@ -1,11 +1,5 @@
 # Línea Temporal
 
-## Nota sobre dilatación temporal
-
-No existe dilatación temporal significativa entre la Destiny y la Tierra. El viaje de la Destiny transcurre en tiempo real. Cuando se dice que Eli pasó 10 años, es porque efectivamente pasaron 10 años. La Destiny simplemente ha estado viajando sin parar durante una década.
-
----
-
 ## Eventos previos (canon)
 
 | Fecha | Evento | Fuente |

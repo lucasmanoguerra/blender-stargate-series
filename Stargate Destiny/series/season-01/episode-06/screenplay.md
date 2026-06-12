@@ -60,8 +60,8 @@ Carter entra.
           Marca un punto en el
           espacio-tiempo que se
           mueve. Una nave viajando
-          a velocidades relativistas.
-          Para conectarnos,
+           a velocidades FTL imposibles
+           de predecir. Para conectarnos,
           necesitamos estabilizar el
           agujero de gusano en un
           blanco móvil.
