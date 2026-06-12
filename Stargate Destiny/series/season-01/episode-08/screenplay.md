@@ -1,31 +1,61 @@
-# STARGATE: DESTINY — Episodio 8: "El Precio del Conocimiento"
+# STARGATE: DESTINY — Episodio 8: "SG-D — Primera Misión"
 
 **Duración estimada**: 44 min
+**Tipo**: Relleno/Equipo — Primer planeta. Desarrollo de personajes.
 
 ---
 
 ## COLD OPEN
 
-### ESC 1 — EXT. QUINTO NODO — ESPACIO
+### ESC 1 — INT. DESTINY - SALA DE COMPUERTAS — DÍA (NAVE)
 
-El quinto nodo es diferente. No es una estructura ni un cristal.
+El equipo SG-D está equipado. Uniformes tácticos. Armas. Equipo de exploración.
 
-Es una NAVE. Una nave Curadora completa. Pero muerta. Flota sin luces, sin señales.
+Chen da las últimas instrucciones.
 
-La Destiny se acerca.
+                          CHEN
+          Protocolo estándar. No
+          tocamos nada sin guantes.
+          No respiramos sin filtro.
+          Y si hay señales de
+          civilización activa,
+          retrocedemos y evaluamos.
 
-                         ELI (V.O.)
-          (en off)
-          Esto no es un nodo. Es
-          una tumba. Algo ocurrió
-          aquí. Algo que mató a
-          una nave de los Curadores.
+                          HAWKINS
+          (cargando una P-90)
+          Entendido.
 
-La nave muerta es enorme. Brazos rotos. Secciones abiertas. Como un animal fossilizado en el espacio.
+                          PETROVA
+          (ajustando su equipo)
+          ¿Y si hay vida inteligente?
 
-                         ELI (V.O.) (CONT.)
-          Y dentro... está el
-          quinto fragmento.
+                          CHEN
+          Depende. Si es amigable,
+          hablamos. Si no...
+
+                          HAWKINS
+          (palmeando el arma)
+          Hablamos después.
+
+Eli entra. Lleva un equipo minimalista. Wilson flota a su lado.
+
+                          ELI
+          ¿Están listos?
+
+                          CHEN
+          (sorprendido)
+          ¿Vienes?
+
+                          ELI
+          (pausa)
+          Ocho años sin pisar un
+          planeta. Necesito
+          estirar las piernas.
+
+Chen sonríe.
+
+                          CHEN
+          Bienvenido al equipo.
 
 **CORTE A NEGRO. TÍTULO: STARGATE: DESTINY**
 
@@ -33,669 +63,427 @@ La nave muerta es enorme. Brazos rotos. Secciones abiertas. Como un animal fossi
 
 ## ACTO UNO
 
-### ESC 2 — INT. DESTINY - PUENTE — DÍA (NAVE)
+### ESC 2 — EXT. PLANETA DESCONOCIDO - LLANURA — DÍA
 
-Eli explica.
+El Stargate del planeta se activa. El equipo emerge.
 
-                         ELI
-          El cristal dorado nos
-          llevó aquí. Pero no
-          esperaba encontrar una
-          nave muerta.
+El planeta es hermoso. Cielo violáceo. Hierba azulada. Dos lunas en el cielo.
 
-                         PETROVA
-          (analizando)
-          Los sensores muestran
-          actividad. Muy débil.
-          Algo dentro sigue
-          funcionando.
+                          PETROVA
+          (maravillada)
+          Oxígeno respirable.
+          Gravedad 0.9 G.
+          Temperatura: 22 grados.
+          Es perfecto.
 
-                         CHEN
-          ¿El fragmento?
-
-                         ELI
-          (pausa)
-          O algo que lo protege.
-
-                         SHEPPARD
-          (levantándose)
-          Bueno. Vamos a echar un
-          vistazo.
-
-                         CHEN
-          (firme)
-          Yo también voy.
-
-                         ELI
-          Y yo.
-
-                         SHEPPARD
-          (mirando a Eli)
-          ¿Seguro?
-
-                         ELI
-          Es mi nave. Mi misión.
-          Y si hay un fragmento
-          ahí dentro, quiero verlo.
-
-Sheppard asiente. Sin discutir.
-
-[BLENDER] Nave Curadora muerta: diseño orgánico, superficies rotas, luces muertas. La Destiny pequeña al lado. Escala masiva.
-
----
-
-### ESC 3 — INT. NAVE CURADORA - ENTRADA
-
-Eli, Sheppard y Chen entran por una abertura en el casco.
-
-El interior es oscuro. Biológico. Las paredes parecen costillas.
-
-                         SHEPPARD
-          (linterna en mano)
-          Esto no es tecnología.
-          Esto es un cuerpo.
-
-                         ELI
-          (observando)
-          Las naves de los Curadores
-          son orgánicas. Crecen.
-          Esta... murió.
-
-                         CHEN
-          (alertado)
-          ¿Murió o la mataron?
-
-Eli no responde.
-
----
-
-### ESC 4 — INT. NAVE CURADORA - CÁMARA CENTRAL
-
-Una sala amplia. En el centro: UN CUERPO.
-
-No es humano. Pero tiene forma humanoide. Brazos. Piernas. Cabeza.
-
-Pero está petrificado. Convertido en piedra.
-
-Y en su pecho: UN CRISTAL. Similar a los otros fragmentos. Pero NEGRO.
-
-                         SHEPPARD
-          (tocando el cuerpo)
-          ¿Es un Curador?
-
-                         ELI
-          (examinando)
-          Creo que sí. Es... uno
-          de ellos. En forma física.
-
-                         CHEN
-          ¿Está muerto?
-
-                         ELI
-          (tocando el cristal negro)
-          No. Está... dormido. En
-          un estado entre la vida
-          y la muerte.
-
-                         SHEPPARD
-          (preocupado)
-          Eli. No toques eso.
-
-Eli ya lo está tocando.
-
----
-
-### ESC 5 — INT. VISIÓN
-
-Eli está en un espacio negro. Una voz habla. Diferente a El Coro. Más fría. Más sola.
-
-                         VOZ NEGRA
-          Finalmente. Alguien
-          llegó.
-
-                         ELI
+                          HAWKINS
           (mirando alrededor)
-          ¿Eres el Curador?
+          Demasiado perfecto.
 
-                         VOZ NEGRA
-          Fui un Curador. Ahora
-          soy un recuerdo. Un
-          fragmento de lo que
-          fui.
+                          ELI
+          (saliendo al sol)
+          (cierra los ojos)
+          Sol. Sol de verdad.
 
-                         ELI
-          ¿Qué pasó aquí?
+Los demás lo miran. Eli está de pie, cara al sol, ojos cerrados.
 
-                         VOZ NEGRA
+                          ELI (CONT.)
+          Ocho años sin sentir el
+          sol.
+
+                          PETROVA
+          (tocada)
+          ¿Cómo es?
+
+                          ELI
+          (sonrisa)
+          Como renacer.
+
+--- 
+
+### ESC 3 — EXT. PLANETA - BOSQUE — DÍA
+
+El equipo avanza por un bosque de plantas altas y delgadas. Colores vivos.
+
+Wilson explora adelante, transmitiendo imágenes.
+
+                          CHEN
+          (a Eli)
+          ¿Siempre llevas el kino
+          contigo?
+
+                          ELI
+          (asintiendo)
+          Wilson es mi copiloto.
+          Mi terapeuta. Y mi único
+          amigo durante ocho años.
+
+                          HAWKINS
+          (interesado)
+          ¿Le pusiste Wilson?
+
+                          ELI
+          Como el balón de Tom Hanks
+          en Náufrago. Necesitaba
+          alguien con quien hablar.
+
+                          HAWKINS
+          (asintiendo)
+          Buena película.
+
+                          ELI
+          La vi cuarenta y dos veces
+          en la Destiny. Tenía copias
+          en los archivos.
+
+--- 
+
+### ESC 4 — EXT. PLANETA - CLARO — DÍA
+
+El equipo encuentra RUINAS. No Ancient. Más antiguas.
+
+Eli se acerca. Toca la piedra.
+
+                          ELI
+          (fascinado)
+          Esto es anterior a los
+          Antiguos. Mucho anterior.
+
+                          PETROVA
+          (tomando muestras)
+          La erosión indica miles de
+          años. Tal vez millones.
+
+                          CHEN
+          ¿Civilización indígena?
+
+                          PETROVA
+          (examinando)
+          No lo sé. Pero estas marcas
+          son similares a las de los
+          cristales que encontramos.
+
+                          ELI
+          (realización)
+          Los Curadores. Estuvieron
+          aquí.
+
+--- 
+
+### ESC 5 — EXT. RUINAS — DÍA
+
+El equipo explora las ruinas. Hawkins encuentra una ENTRADA.
+
+                          HAWKINS
+          Señor. Aquí.
+
+Chen se acerca. La entrada está sellada con un mecanismo similar al de la Destiny.
+
+                          CHEN
+          (a Eli)
+          ¿Puedes abrirlo?
+
+Eli se acerca. Examina el mecanismo.
+
+                          ELI
+          (tocando el panel)
+          Es igual que las puertas
+          de la nave. Los Antiguos
+          copiaron el diseño.
+
+Toca el panel en una secuencia. La puerta se ABRE.
+
+                          ELI (CONT.)
+          (sonrisa)
+          Ocho años abriendo puertas
+          en la Destiny. Esto fue
+          fácil.
+
+--- 
+
+### ESC 6 — INT. RUINAS - CÁMARA INTERIOR — DÍA
+
+El interior está oscuro. Hawkins ilumina.
+
+En el centro: UNA ESFERA. Similar a la del nodo, pero más pequeña.
+
+                          PETROVA
+          (sin aliento)
+          Es igual.
+
+                          ELI
+          (acercándose)
+          Es un terminal. Un nodo de
+          datos.
+
+Wilson flota hacia la esfera. Se conecta.
+
+                          ELI (CONT.)
+          Wilson está leyendo.
+
+La esfera EMITE LUZ. Una proyección aparece en el aire.
+
+Muestra un MAPA. Un mapa del universo conocido por los Curadores.
+
+                          CHEN
+          (impresionado)
+          ¿Qué es?
+
+                          ELI
+          (mirando el mapa)
+          Es su mundo. Su imperio.
+          Donde estuvieron.
+
+El mapa muestra miles de sistemas. Todos conectados.
+
+                          ELI (CONT.)
           (pausa)
-          Me rebelé. Cuando los
-          Curadores decidieron
-          sellar a "Ella" en el
-          vacío, yo me opuse.
-          Creí que debíamos
-          destruirla. No
-          encarcelarla.
+          Y dónde dejaron de estar.
 
-                         ELI
-          ¿Y qué pasó?
+En el mapa, una sección está OSCURA. Una zona muerta.
 
-                         VOZ NEGRA
-          (triste)
-          Me vencieron. Me
-          condenaron a flotar aquí.
-          Mi nave murió. Mi cuerpo
-          se petrificó. Pero mi
-          conciencia sobrevivió
-          en el fragmento.
+                          ELI (CONT.)
+          Ahí. Ahí es donde
+          desaparecieron.
 
-                         ELI
-          ¿Por qué me cuentas
-          esto?
+--- 
 
-                         VOZ NEGRA
-          Porque ustedes van al
-          vacío. Y necesitan saber
-          lo que encontrarán allí.
-          "Ella" no es un ser.
-          "Ella" es un código.
-          Un código incompleto.
-          Que busca completarse.
+### ESC 7 — EXT. PLANETA - CLARO — ATARDECER
 
-                         ELI
-          (comprendiendo)
-          El código fuente. "Ella"
-          es... una versión del
-          código fuente. Una que
-          los Curadores encontraron
-          y sellaron.
+El equipo ha establecido un campamento temporal. Cielo violáceo. Silencio.
 
-                         VOZ NEGRA
-          (confirmando)
-          Y si ustedes completan
-          el código... "Ella"
-          despertará.
+Eli está sentado solo. Mira el atardecer.
 
----
+Petrova se sienta a su lado.
 
-## ACTO DOS
+                          PETROVA
+          ¿En qué piensas?
 
-### ESC 6 — INT. NAVE CURADORA - CÁMARA CENTRAL
-
-Eli abre los ojos. Sheppard lo sostiene.
-
-                         SHEPPARD
-          (preocupado)
-          ¿Qué viste?
-
-                         ELI
-          (débil)
-          Vi el precio. El precio
-          del conocimiento. Los
-          Curadores no protegen el
-          código fuente. Protegen
-          lo que el código fuente
-          puede crear.
-
-                         CHEN
-          ¿Qué puede crear?
-
-                         ELI
+                          ELI
           (pausa)
-          Un nuevo universo. Un
-          reemplazo para este. Y
-          "Ella" es el código
-          que lo haría posible.
+          En lo pequeño que soy. En
+          lo grande que es todo esto.
 
-                         SHEPPARD
-          (procesando)
-          Entonces, si llegamos al
-          final y completamos el
-          código...
-
-                         ELI
-          ...reemplazamos el
-          universo. Todo lo que
-          existe. Desaparece.
-
----
-
-### ESC 7 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-Eli informa a Carter.
-
-                         CARTER
-          (desde la pantalla)
-          ¿Estás diciendo que el
-          código fuente es un arma
-          de destrucción cósmica?
-
-                         ELI
-          No un arma. Una
-          herramienta. Una que
-          permite reescribir la
-          realidad. Pero usarla
-          significa destruir lo
-          que existe.
-
-                         CARTER
-          (pausa)
-          ¿Y "Ella"?
-
-                         ELI
-          "Ella" es la que sabe
-          cómo usarla. Los
-          Curadores la sellaron
-          para proteger el
-          universo actual.
-
-                         DANIEL
-          (presente)
-          Pero si los Curadores
-          están divididos... algunos
-          quieren que "Ella"
-          despierte.
-
-                         ELI
+                          PETROVA
           (asiente)
-          Y nosotros estamos
-          siguiendo el mapa que
-          ellos nos pusieron.
+          Es abrumador.
 
-                         SHEPPARD
-          (con calma)
-          Entonces estamos siendo
-          usados.
+                          ELI
+          (mira el cielo)
+          Ocho años en la nave.
+          Mirando las estrellas.
+          Y nunca me acostumbré a
+          lo grandes que son.
+
+                          PETROVA
+          (sonrisa)
+          Yo tampoco.
+
+--- 
+
+### ESC 8 — EXT. CAMPAMENTO — NOCHE — PRESENTE
+
+Chen y Hawkins preparan la cena. Raciones militares.
+
+                          HAWKINS
+          (cocinando)
+          ¿Sabes qué echo de menos?
+
+                          CHEN
+          ¿Café?
+
+                          HAWKINS
+          (sonrisa)
+          También. Pero echo de menos
+          la lluvia. El olor a tierra
+          mojada.
+
+                          CHEN
+          (pausa)
+          Nunca lo había pensado.
+
+                          HAWKINS
+          (mirando el cielo)
+          En el espacio, todo es
+          seco. Metálico. Muerto.
+          Aquí hay vida.
+
+                          CHEN
+          (asiente)
+          Por eso estamos aquí.
+
+--- 
+
+### ESC 9 — EXT. RUINAS — NOCHE
+
+Eli regresa a las ruinas solo. Wilson lo guía.
+
+Entra en la cámara de la esfera.
+
+La esfera está inactiva.
+
+                          ELI
+          (a la esfera)
+          ¿Qué pasó con ustedes?
 
 Silencio.
 
----
-
-### ESC 8 — INT. SGC - DESPACHO DE CARTER — DÍA
-
-Carter, sola. Mira fotos de su equipo.
-
-Llama a la Destiny.
-
-                         CARTER
-          (a la pantalla)
-          Eli. Quiero que reúnas
-          al equipo. Tomen una
-          votación.
-
-                         ELI
-          (sorprendido)
-          ¿Una votación?
-
-                         CARTER
-          Esta misión ya no es
-          militar. Es filosófica.
-          La humanidad debe decidir
-          si quiere continuar. No
-          yo. No el IOA. Ustedes.
-
-Pausa.
-
-                         CARTER (CONT.)
-          Porque si seguimos,
-          sabemos lo que puede
-          pasar. Y si paramos...
-          también sabemos lo que
-          perdemos.
-
----
-
-## ACTO TRES
-
-### ESC 9 — INT. DESTINY - COMEDOR — DÍA (NAVE)
-
-El equipo está reunido.
-
-                         CHEN
-          (abriendo la discusión)
-          No soy científico. Soy
-          un soldado. Pero entiendo
-          cuando algo es demasiado
-          peligroso.
-
-                         PETROVA
-          (firme)
-          Soy científica. Toda mi
-          vida he buscado respuestas.
-          Pero si la respuesta
-          significa el fin de todo...
-          (pausa)
-          ...no quiero saberla.
-
-                         HAWKINS
-          (con calma)
-          Yo solo sigo órdenes. Pero
-          esta vez no hay órdenes.
-          Hay una elección.
-
-                         SHEPPARD
-          (recostado)
-          He visto mucho. Demasiado.
-          Y algo aprendí: no todo
-          lo que puedes saber,
-          debes saberlo.
-
-                         DANIEL
-          (reflexivo)
-          Pero también aprendí que
-          el miedo no es una razón
-          para detenerse. Los
-          Antiguos tuvieron miedo.
-          Y mira cómo terminaron.
-          Desaparecieron.
-
-                         ELI
-          (último)
-          Pasé diez años solo en
-          esta nave. Diez años
-          preguntándome por qué
-          estaba aquí. Por qué
-          la nave me mantuvo vivo.
-          (pausa)
-          Creo que ahora lo sé.
-          No fue la nave. Fue el
-          código. El código me
-          quería aquí. Ahora.
-
-                         CHEN
-          (grave)
-          ¿Estás diciendo que el
-          código fuente te eligió?
-
-                         ELI
-          (pausa)
-          Creo que sí.
-
----
-
-### ESC 10 — INT. DESTINY - COMEDOR — CONTINUACIÓN
-
-Votación.
-
-                         CHEN
-          Voto continuar. Pero
-          bajo protesta.
-
-                         PETROVA
-          Voto detenernos. Esto es
-          demasiado.
-
-                         HAWKINS
-          Voto continuar. No me
-          gusta dejar las cosas
-          a medias.
-
-                         SHEPPARD
-          Voto continuar. Pero con
-          una condición: si en
-          cualquier momento
-          sentimos que vamos a
-          desatar algo, paramos.
-
-                         DANIEL
-          Voto continuar. Por los
-          Antiguos. Por los que
-          no pudieron.
-
-                         ELI
-          (pausa)
-          Voto continuar. Porque
-          si no lo hacemos nosotros,
-          alguien más lo hará.
-          Y esa persona podría
-          no tener nuestro
-          criterio.
-
-
-
-
-Todos miran a la cámara. A Carter.
-
-                         CARTER (V.O.)
-          (desde la pantalla)
-          Entonces continuamos.
-          Pero recuerden: el
-          precio del conocimiento
-          es la responsabilidad.
-          Y ahora todos somos
-          responsables.
-
----
-
-## ACTO CUATRO
-
-### ESC 11 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-Eli procesa los datos del fragmento negro.
-
-                         ELI
-          El Curador rebelde me
-          dio algo. Una ubicación.
-          El lugar exacto donde
-          "Ella" está prisionera.
-
-                         PETROVA
-          (mirando el mapa)
-          Está... dentro de la
-          zona muerta. En el centro
-          exacto.
-
-                         ELI
-          (asiente)
-          No es una zona muerta.
-          Es una prisión. Y la
-          prisionera está en el
-          medio.
-
-                         CHEN
-          ¿Y los fragmentos? ¿Los
-          otros nodos?
-
-                         ELI
-          (pausa)
-          Los fragmentos no son
-          para nosotros. Son para
-          ella. Cada fragmento
-          que tocamos... la está
-          despertando.
-
-                         SHEPPARD
-          (comprendiendo)
-          El mapa no era para
-          guiarnos a nosotros.
-          Era para que nosotros
-          lo activáramos para
-          ella.
-
-                         ELI
-          (grave)
-          Hemos estado haciendo
-          su trabajo todo este
-          tiempo.
-
----
-
-### ESC 12 — INT. SGC - SALA DE CONTROL — DÍA
-
-Carter procesa la información.
-
-                         MCKAY
-          (desde su consola)
-          Entonces, si dejan de
-          recolectar fragmentos...
-
-                         CARTER
-          ...ella no despierta.
-          Pero tampoco llegamos
-          al código fuente.
-
-                         MCKAY
-          (pausa)
-          ¿Y si destruimos los
-          fragmentos?
-
-                         CARTER
-          (mirándolo)
-          ¿Podemos hacer eso?
-
-                         MCKAY
-          (pensando)
-          Tal vez. Si sobrecargamos
-          los cristales con energía
-          inversa... podríamos
-          romper su estructura.
-
-                         CARTER
-          (pausa)
-          Prepara un equipo. Vamos
-          a intentarlo.
-
----
-
-## ACTO CINCO
-
-### ESC 13 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-Eli recibe las instrucciones de Carter.
-
-                         ELI
-          (sorprendido)
-          ¿Destruir los fragmentos?
-          ¿Y el código fuente?
-
-                         CARTER (V.O.)
-          Si despertar a "Ella"
-          significa el fin del
-          universo, el código
-          fuente no vale la pena.
-
-                         ELI
-          (pausa)
-          Pero General... si
-          destruimos los fragmentos,
-          nunca sabremos la verdad.
-          Nunca entenderemos por
-          qué existe el universo.
-
-                         CARTER (V.O.)
-          (firme)
-          Y viviremos para
-          contarlo.
-
-                         ELI
-          (largo silencio)
-          (a la consola)
-          Destiny. Prepara
-          descarga de energía
-          inversa en los
-          fragmentos almacenados.
-
-                         PETROVA
-          (alarmada)
-          ¡Eli!
-
-                         ELI
-          (tranquilo)
-          No voy a destruirlos.
-          Pero necesito que Carter
-          crea que lo haré.
-
-                         CHEN
-          (comprendiendo)
-          Vas a seguir adelante.
-          Solo.
-
-                         ELI
-          (asiente)
-          Voy a terminar esto.
-          Con o sin autorización.
-
----
-
-### ESC 14 — INT. DESTINY - PUENTE — CONTINUACIÓN
-
-Eli se prepara.
-
-                         ELI
+                          ELI (CONT.)
           (a Wilson)
-          Tú te quedas. Cuida de
-          ellos.
+          Construyeron todo esto.
+          Un imperio. Una red de
+          información. Y luego...
+          nada.
 
-Wilson parpadea. No obedece. Sigue a Eli.
+Wilson parpadea.
 
-                         ELI (CONT.)
+                          ELI (CONT.)
+          ¿Se extinguieron? ¿Se
+          fueron? ¿O alguien los
+          borró?
+
+La esfera, por un instante, EMITE UN DESTELLO.
+
+Eli se sobresalta.
+
+                          ELI (CONT.)
+          (a Wilson)
+          ¿Viste eso?
+
+Wilson parpadea dos veces.
+
+                          ELI (CONT.)
+          No fue mi imaginación.
+
+--- 
+
+### ESC 10 — INT. DESTINY - PUENTE — DÍA (NAVE)
+
+El equipo ha regresado. Petrova analiza las muestras.
+
+                          PETROVA
+          Las ruinas tienen un
+          millón de años. Tal vez
+          más.
+
+                          CHEN
+          ¿Y la esfera?
+
+                          PETROVA
+          (pausa)
+          No sé cómo decirlo. La
+          esfera... sigue activa.
+          Emite una señal. Muy
+          débil. Pero constante.
+
+                          ELI
+          (interesado)
+          ¿Hacia dónde?
+
+                          PETROVA
+          (señalando un punto
+           en el mapa)
+          Hacia la zona muerta.
+
+Silencio.
+
+                          HAWKINS
+          Algo en la zona muerta
+          está recibiendo la señal.
+
+                          ELI
+          (sombrío)
+          O llamando.
+
+--- 
+
+### ESC 11 — INT. DESTINY - COMEDOR — NOCHE (NAVE)
+
+El equipo cena. Más relajado.
+
+                          HAWKINS
+          (masticando)
+          El planeta tenía buena
+          energía.
+
+                          PETROVA
           (sonrisa)
-          Testarudo.
+          ¿Energía? ¿Eres geólogo
+          ahora?
 
-                         SHEPPARD
-          (entrando)
-          ¿Vas a hacer esto solo?
+                          HAWKINS
+          No. Pero sé cuando un
+          lugar se siente bien.
 
-                         ELI
-          (mirándolo)
-          No. Tú también vienes.
+                          CHEN
+          (a Hawkins)
+          ¿Y cuándo se siente mal?
 
-                         SHEPPARD
+                          HAWKINS
+          (pausa)
+          Cuando hay demasiado
+          silencio.
+
+Eli lo mira. Asiente.
+
+                          ELI
+          (bajo)
+          Lo sé.
+
+--- 
+
+### ESC 12 — INT. DESTINY - PUENTE — NOCHE (NAVE)
+
+Eli está en el puente. Carter aparece en la pantalla.
+
+                          CARTER
+          (desde pantalla)
+          Buen trabajo en el planeta.
+
+                          ELI
           (sonrisa)
-          Esa es la respuesta
-          correcta.
+          Fue un trabajo en equipo.
 
-                         CHEN
-          (entrando)
-          Y yo.
+                          CARTER
+          (sorprendida)
+          ¿Eli Wallace reconociendo
+          el trabajo en equipo?
+          ¿Quién eres y qué hiciste
+          con el verdadero Eli?
 
-                         HAWKINS
-          (entrando)
-          Y yo.
+                          ELI
+          (ríe)
+          Ocho años solo me
+          enseñaron a valorar a
+          la gente.
 
-                         PETROVA
-          (entrando)
-          Alguien tiene que
-          documentarlo.
+                          CARTER
+          (seria)
+          Me alegra que estés bien.
 
-                         DANIEL
-          (entrando)
-          Y alguien tiene que
-          traducirlo.
-
-Eli los mira. Sonríe.
-
-                         ELI
-          Bueno. Parece que no
-          voy solo después de todo.
-
-                         DANIEL
-          Nunca lo estuviste, Eli.
-          Solo que tardamos en
-          llegar.
-
----
-
-### ESC 15 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-La Destiny ajusta el rumbo. Directo al centro de la zona muerta.
-
-Directo hacia "Ella".
-
-En la pantalla, el mapa muestra el punto final. Un punto negro. Absolutamente negro.
-
-                         ELI (V.O.)
-          (en off)
-          El precio del conocimiento
-          es alto. Pero el precio de
-          la ignorancia puede ser
-          más alto.
-
-La nave avanza.
-
-                         ELI (V.O.) (CONT.)
-          Vamos, "Ella".
-          Vamos a verte.
+                          ELI
+          (pausa)
+          Yo también.
 
 **CORTE A NEGRO.**
 
-**CONTINUARÁ...**
+---
+
+### ESC 13 — EXT. PLANETA - RUINAS — AMANECER (IMAGEN CONGELADA)
+
+La imagen del planeta al amanecer. Las ruinas. La esfera.
+
+                          ELI (V.O.)
+          (en off)
+          El primer planeta en ocho
+          años. No fue el último.
+          Pero fue el más
+          importante.
+
+**CORTE A NEGRO.**
+
+**FIN DEL EPISODIO**
+
+---
+
+**Temporada 1 — Episodio 9: "10 Segundos"** — Primer vistazo a la Destiny desde la Tierra. Flashback del primer contacto visual.

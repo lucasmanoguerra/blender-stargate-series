@@ -1,662 +1,662 @@
-# STARGATE: DESTINY — Episodio 2: "Migas de Pan"
+# STARGATE: DESTINY — Episodio 2: "Día 731"
 
 **Duración estimada**: 44 min
+**Tipo**: Flashback total — Hace 8 años
 
 ---
 
 ## COLD OPEN
 
-### ESC 1 — INT. DESTINY - PUENTE — DÍA (NAVE)
+### ESC 1 — INT. DESTINY - CÁMARA DE ESTASIS — DÍA (NAVE) — HACE 8 AÑOS
 
-Eli está frente a la consola principal. La pantalla muestra el PATRÓN GEOMÉTRICO recibido en el episodio anterior. Lo estudia desde distintos ángulos, manipulando la proyección holográfica con gestos.
+Oscuridad total.
 
-Wilson flota cerca.
+Un SONIDO. Una alarma lejana.
 
-                         ELI
-          (a Wilson)
-          Son coordenadas. Pero no son
-          coordenadas normales. No apuntan
-          a un lugar. Apuntan a una
-          secuencia.
+La cámara de estasis. Una fila de cápsulas. Todas selladas, menos UNA.
 
-Manipula el holograma. El patrón se despliega en una línea de puntos conectados, como un mapa de constelaciones.
+La cápsula de Eli está abierta. El cristal de la tapa cuelga roto. El interior está carbonizado.
 
-                         ELI (CONT.)
-          Como migas de pan. Alguien
-          — o algo — fue dejando marcas
-          a través del universo. Y la
-          Destiny las está siguiendo.
+Eli (25) está en el suelo, junto a la cápsula. No se mueve.
 
-Pausa. Algo en el patrón cambia. Un punto se ilumina.
-
-                         ELI (CONT.)
-          (confundido)
-          Eso es nuevo.
-
-La consola emite un tono. Datos llegan desde la sembradora.
-
-                         ELI (CONT.)
-          (leyendo)
-          La sembradora está transmitiendo
-          otra vez. Pero no es la misma
-          señal. Es...
+Su pecho se eleva. Una respiración.
 
 Abre los ojos.
 
-                         ELI (CONT.)
-          Es una respuesta. A nosotros.
-          Nos está... preguntando algo.
+Confusión. No sabe dónde está.
+
+Intenta levantarse. Las piernas no responden. Cae.
+
+                          ELI
+          (voz ronca, apenas audible)
+          ¿Dónde...?
+
+Mira alrededor. La sala de estasis. Cuerpos congelados en las cápsulas.
+
+Reconoce a alguien. Greer. Luego Scott. Luego TJ.
+
+                          ELI (CONT.)
+          (recordando)
+          No. No, no, no...
+
+Se arrastra hasta la cápsula de Rush. Toca el cristal. Rush está dentro, congelado.
+
+Eli golpea el cristal.
+
+                          ELI (CONT.)
+          (gritando)
+          ¡Rush! ¡Rush, despierta!
+
+Rush no se mueve.
+
+Eli golpea otra vez. Y otra.
+
+El cristal no se rompe. Eli se desploma contra la cápsula.
+
+                          ELI (CONT.)
+          (llorando)
+          No puede ser. No puede ser.
 
 **CORTE A NEGRO. TÍTULO: STARGATE: DESTINY**
 
-[BLENDER] Holograma: patrón geométrico 3D flotando. Líneas de luz conectando puntos. Efecto de pulso cuando un nuevo punto se ilumina. Eli rodeado de datos en el puente oscuro.
-
 ---
 
-## ACTO UNO
+## ACTO UNO — DÍA 1
 
-### ESC 2 — INT. DESTINY - PUENTE — MÁS TARDE
+### ESC 2 — INT. DESTINY - CÁMARA DE ESTASIS — HORAS DESPUÉS
 
-La conexión con Tierra se ha restablecido. En una pantalla, Carter y McKay observan desde la sala de control del SGC.
+Eli está sentado contra la pared. Abraza sus rodillas. Mira las cápsulas.
 
-Eli les muestra la nueva transmisión.
+No ha dormido. Tiene los ojos rojos.
 
-                         ELI
-          No es un mensaje estático.
-          Es interactivo. Cada vez que
-          procesamos una parte del
-          patrón, la sembradora responde
-          con más datos.
+La respiración se acelera. Ataque de pánico.
 
-                         MCKAY
-          (desde la pantalla)
-          Como un protocolo de apretón
-          de manos. Ella envía, nosotros
-          recibimos, ella confirma.
+                          ELI
+          (para sí, jadeando)
+          Voy a morir. Voy a morir
+          aquí. Solo. En el espacio.
+          Nadie sabe. Nadie va a...
 
-                         ELI
-          Exacto. Pero no sé qué espera
-          de nosotros. No sé qué
-          pregunta.
+Se golpea la cabeza con las manos.
 
-                         CARTER
-          ¿Has intentado enviar algo
-          de vuelta?
+                          ELI (CONT.)
+          ¡Para! ¡Para!
 
-                         ELI
-          No. No sabría qué decir.
-          Y no quiero activar algo
-          sin saber lo que es.
+Respira hondo. Intenta calmarse.
 
-                         CARTER
-          (pausa. Decisión.)
-          Entonces descubrámoslo. SG-D
-          se instala en la Destiny hoy.
-          Misión permanente.
+                          ELI (CONT.)
+          (recitando, como un mantra)
+          Eli Wallace. Veinticinco
+          años. Programador. Jugador.
+          Nerd. No soy un héroe. No
+          soy un soldado. Estoy solo.
 
-Eli parpadea. No esperaba eso.
+Pausa.
 
-                         ELI
-          ¿Permanente?
+                          ELI (CONT.)
+          Estoy solo.
 
-                         CARTER
-          Hasta que resolvamos el misterio.
-          O hasta que la nave nos lleve
-          a casa. Lo que ocurra primero.
+Se queda en silencio. Aceptación comienza.
 
-[BLENDER] Pantalla dividida: Eli en la Destiny (cálido, ámbar), Carter y McKay en SGC (frío, azul). Contraste de mundos.
+--- 
 
----
+### ESC 3 — INT. DESTINY - PASILLO — DÍA 2
 
-### ESC 3 — INT. DESTINY - SALA DE COMPUERTAS — DÍA (NAVE)
+Eli camina por el pasillo. Tembloroso. Ilumina con una linterna.
 
-El equipo SG-D cruza con equipo. Cajas de suministros. Equipos científicos. Armas.
+Cada sombra lo asusta.
 
-Chen supervisa la operación. Hawkins carga una caja que pesa el doble que él.
+Llega a la sala de compuertas. El Stargate está inactivo.
 
-                         HAWKINS
-          (a nadie en particular)
-          ¿Trajeron café?
+Eli se acerca. Toca el metal.
 
-                         CHEN
-          Provisiones para seis meses.
-
-                         HAWKINS
-          (asintiendo)
-          Pregunté si trajeron café.
-
-Eli observa desde una esquina, con los brazos cruzados. Petrova se acerca con una tableta.
-
-                         PETROVA
-          Dr. Wallace. ¿Puede mostrarme
-          el laboratorio?
-
-                         ELI
-          (corrige suavemente)
-          Eli. Y no hay laboratorio.
-          Hay una sala con mesas que
-          usaba para desarmar cosas.
-
-                         PETROVA
-          Eso es un laboratorio.
-          (pausa)
-          Eli.
-
-Eli sonríe levemente. Asiente. La guía.
-
-[BLENDER] Caos controlado de la instalación. Cajas, equipos, luces de la Destiny. Contraste entre el equipo nuevo y el entorno envejecido.
-
----
-
-### ESC 4 — INT. DESTINY - ANTIGUO COMEDOR / NUEVO LABORATORIO — DÍA (NAVE)
-
-Petrova ya ha transformado parte del comedor en un espacio de trabajo. Tabletas, herramientas, el patrón proyectado en una superficie.
-
-McKay aparece a través de la conexión de video, proyectado en una pantalla portátil.
-
-                         MCKAY
-          (desde la pantalla)
-          ¿Ya tocaron todo? Porque si
-          tocaron algo sin documentarlo,
-          voy a...
-
-                         ELI
-          Rodney. Respira.
-
-                         MCKAY
-          No me digas que respire.
-          Llevo dos años intentando
-          que esta conexión funcione.
-          No voy a dejar que...
-
-                         PETROVA
-          (interrumpiendo)
-          Encontré algo.
-
-Señala el patrón. Una sección se ha iluminado en rojo.
-
-                         PETROVA (CONT.)
-          Esto no es parte del mensaje
-          original. Es una adición.
-          Algo que la sembradora añadió
-          cuando Eli procesó los datos.
-
-                         ELI
-          (acercándose)
-          Es una ubicación. Coordenadas
-          estelares. Un sistema solar
-          específico.
-
-                         MCKAY
-          ¿Cerca de la posición actual
-          de la Destiny?
-
-                         ELI
-          (calculando)
-          A tres días de vuelo.
-
-                         PETROVA
-          (mirando a Eli)
-          La sembradora no solo nos
-          dio el mapa. Nos dio el
-          primer destino.
-
-[BLENDER] Laboratorio improvisado. Pantallas portátiles, cables por todas partes. El patrón proyectado con una sección en rojo.
-
----
-
-## ACTO DOS
-
-### ESC 5 — EXT. SISTEMA ESTELAR DESCONOCIDO — ESPACIO
-
-La Destiny se acerca a un sistema solar. Una estrella amarilla. Cinco planetas.
-
-En órbita del segundo planeta: UNA NAVE SEMBRADORA. Inactiva. Oscura.
-
-Pero alrededor de ella, flotando en el espacio, hay MILES DE ESFERAS.
-
-Kinós. Una nube de kinós. Todos inactivos. Todos en formación perfecta.
-
-                         ELI (V.O.)
-          Nunca había visto algo así.
-          Las sembradoras no almacenan
-          kinós. Los fabrican bajo
-          demanda.
-
-                         PETROVA (V.O.)
-          Esto no es almacenamiento.
-          Esto es un archivo.
-
-[BLENDER] Plano amplio. La Destiny pequeña en el encuadre. La sembradora inactiva. Miles de esferas flotando. Partículas de luz estática. Escala imponente.
-
----
-
-### ESC 6 — INT. DESTINY - PUENTE — CONTINUACIÓN
-
-El equipo observa en la pantalla.
-
-                         CHEN
-          ¿Un archivo de qué?
-
-                         ELI
-          (con los ojos brillando)
-          De datos. Cada kino contiene
-          información. Es una biblioteca.
-          Una biblioteca en el espacio.
-
-                         HAWKINS
-          (escéptico)
-          ¿Una biblioteca de qué?
-
-                         ELI
-          (sonríe)
-          De todo lo que la sembradora
-          ha encontrado. Durante
-          millones de años.
-
-                         PETROVA
-          (sin aliento)
-          Es el archivo de la red.
-          Todo lo que las sembradoras
-          han recolectado desde que
-          comenzaron su viaje.
-
-                         CHEN
-          ¿Cuánto tiempo tomaría
-          leerlo?
-
-                         ELI
-          (pausa)
-          Vidas enteras.
-
-[BLENDER] La pantalla muestra los kinós flotando. Reflejos en los rostros del equipo. Cámara lenta en la revelación.
-
----
-
-### ESC 7 — INT. DESTINY - COMPUERTA DE SERVICIO — DÍA (NAVE)
-
-Eli y Petrova preparan un kino para salir. Chen y Hawkins verifican equipo.
-
-                         ELI
-          Voy a enviar un kino a la
-          nube. A ver si podemos
-          acceder a uno de esos
-          archivos.
-
-                         CHEN
-          ¿Es seguro?
-
-                         ELI
-          (pausa)
-          No lo sé.
-
-                         CHEN
-          (asiente)
-          Buena respuesta.
-
-Eli lanza el kino. La esfera atraviesa la compuerta de servicio y se pierde en el espacio.
-
-En la pantalla, vemos el kino acercándose a la nube. Los otros kinós se apartan, como si reconocieran al recién llegado.
-
-                         PETROVA
-          (asombrada)
-          Se están moviendo. Están
-          creando un camino.
-
-El kino se adentra en la nube. Los demás kinós se cierran detrás de él.
-
-La transmisión se corta.
-
-                         ELI
-          (tranquilo)
-          Ahora esperamos.
-
-[BLENDER] Kino saliendo de la Destiny. Secuencia exterior: el kino es una esfera pequeña acercándose a la nube masiva. Los kinós se apartan con un movimiento orgánico, como un banco de peces.
-
----
-
-## ACTO TRES
-
-### ESC 8 — INT. DESTINY - PUENTE — HORAS DESPUÉS
-
-Eli está dormido en el sillón del capitán. Wilson flota cerca.
-
-El kino REGRESA. Entra por la compuerta de servicio y llega al puente.
-
-Eli se despierta sobresaltado.
-
-                         ELI
-          ¿Qué...?
-
-Ve el kino. Flota frente a él. Emite un haz de luz que proyecta DATOS en el aire.
-
-                         ELI (CONT.)
-          (recibiendo)
-          Trajo algo. Trajo...
-
-La proyección muestra una imagen. Una roca. Con inscripciones.
-
-                         ELI (CONT.)
-          (confundido)
-          ¿Una roca?
-
-La cámara se acerca a la inscripción. Símbolos. Múltiples idiomas. Uno de ellos es ANTIGUO.
-
-                         ELI (CONT.)
-          (sin aliento)
-          Es un mapa. No del espacio.
-          Del tiempo. Una línea temporal.
-          Marcando eventos.
-
-Petrova entra corriendo.
-
-                         PETROVA
-          ¿Recibiste la transmisión?
-          El kino...
-
-Se detiene al ver la proyección.
-
-                         PETROVA (CONT.)
-          ¿Qué es eso?
-
-                         ELI
-          (sin apartar la vista)
-          La sembradora no solo
-          cartografía el espacio.
-          Cartografía el tiempo.
-          Ha estado registrando eventos
-          a través de millones de años.
-
-                         PETROVA
+                          ELI
           (susurrando)
-          Es una biblioteca del
-          universo entero.
+          ¿Cómo funciona esto?
 
-[BLENDER] Proyección del kino: datos holográficos, imágenes de rocas con inscripciones. Luz azul pulsante. Eli iluminado por los datos.
+No hay respuesta. No hay DHD.
 
----
+Eli se sienta en el suelo. Solo.
 
-### ESC 9 — INT. SGC - SALA DE BRIEFING — DÍA
+                          ELI (CONT.)
+          (para sí)
+          Rush sabía. Rush siempre
+          sabía. Pero Rush está
+          dormido.
 
-Carter, Daniel y McKay ven la transmisión desde la Destiny.
+Pausa.
 
-                         MCKAY
-          ¿Una roca? Todo esto para
-          una piedra con garabatos?
+                          ELI (CONT.)
+          Y yo no.
 
-                         DANIEL
-          (examinando la imagen)
-          No son garabatos, Rodney.
-          Son registros. Cada civilización
-          que encontró la red de
-          sembradoras dejó su marca.
-          En su propio idioma.
-          (pausa)
-          Es un catálogo de especies.
+--- 
 
-                         CARTER
-          ¿Cuántas especies?
+### ESC 4 — INT. DESTINY - PUENTE — DÍA 2
 
-                         DANIEL
-          (grave)
-          Mirando la densidad de
-          marcas... miles. Tal vez
-          decenas de miles.
+Eli encuentra el puente. Las consolas están apagadas.
 
-                         MCKAY
-          (procesando)
-          Y los Curadores... ¿borraron
-          a todas?
+No sabe cómo encenderlas. Prueba botones. Nada.
 
-                         DANIEL
-          (pausa)
-          No. No todas. Solo las que
-          llegaron demasiado lejos.
+Se sienta en el sillón del capitán. Gira.
 
-                         CARTER
-          ¿Cómo sabemos qué es
-          "demasiado lejos"?
+                          ELI
+          (imitando voz de capitán)
+          "Destiny. Rumbo a... no sé."
 
-                         DANIEL
-          (mira la imagen)
-          Tenemos que preguntarle
-          a la roca.
+Silencio.
 
----
+                          ELI (CONT.)
+          (realidad)
+          No sé nada.
 
-### ESC 10 — INT. DESTINY - PUENTE — DÍA (NAVE)
+Se cubre la cara.
 
-Eli ha estado analizando los datos del kino durante horas. Petrova está con él.
+--- 
 
-                         PETROVA
-          Las inscripciones siguen un
-          patrón. Cada civilización
-          añadió su entrada después de
-          la anterior. Es jerárquico.
+### ESC 5 — INT. DESTINY - COCINA — DÍA 3
 
-                         ELI
-          (señalando una sección)
-          Pero mira esto. Las últimas
-          entradas son diferentes.
-          No son registros. Son
-          advertencias.
+Eli encuentra la cocina. Restos de comida. Raciones.
 
-                         PETROVA
-          (leyendo)
-          "No continuar." "El camino
-          termina aquí." "Ellos
-          vigilan."
+Abre un armario. Comida Ancient. Empieza a comer directamente de un paquete. Sin plato. Sin cubiertos.
 
-                         ELI
-          (mirándola)
-          "Ellos." Los Curadores.
+Come como un animal. Lleva tres días sin comer.
 
-                         PETROVA
-          ¿Cuántas civilizaciones
-          llegaron hasta aquí y
-          decidieron detenerse?
+De repente, se detiene.
 
-                         ELI
-          (desplazando datos)
-          Muchas. Pero no todas.
-          Algunas continuaron.
+                          ELI
+          (con la boca llena)
+          ¿Si como todo ahora, qué
+          como después?
 
-                         PETROVA
-          ¿Y qué pasó con esas?
+Mira las raciones restantes. Calcula.
 
-                         ELI
-          (pausa)
-          No hay más registros
-          después de ellas.
+Días. Semanas. Meses.
 
-[BLENDER] Close-up de las inscripciones. Texto Ancient alternando con idiomas desconocidos. Zonas marcadas en rojo. Iluminación baja, solo los datos iluminan los rostros.
+                          ELI (CONT.)
+          (tragando)
+          Mierda.
+
+--- 
+
+### ESC 6 — INT. DESTINY - ALA ESTE — DÍA 10
+
+Eli ha empezado a explorar. Descubre el taller. Herramientas. Piezas de repuesto.
+
+Encuentra un KINO. Roto. Inactivo.
+
+Eli lo recoge. Lo examina.
+
+                          ELI
+          (a nadie)
+          Esto es un dron. De
+          exploración. Rush los
+          usaba para...
+
+Recuerda. Rush usaba kinós para explorar planetas.
+
+Eli guarda el kino.
+
+                          ELI (CONT.)
+          Te voy a reparar.
+
+**CORTE A:**
 
 ---
 
-## ACTO CUATRO
+## ACTO DOS — MES 1
 
-### ESC 11 — INT. DESTINY - PUENTE — DÍA (NAVE)
+### ESC 7 — INT. DESTINY - TALLER — DÍA 34
 
-Carter aparece en la pantalla.
+Montaje de días:
 
-                         CARTER
-          Eli. Tenemos que hablar.
+- Eli desarma el kino. Estudia sus componentes.
+- Eli prueba conexiones. Falla.
+- Eli se frustra. Tira las herramientas.
+- Eli recoge las herramientas. Intenta otra vez.
+- Eli duerme en el suelo del taller. La mesa es su cama.
+- Eli come raciones frías mientras solda.
 
-                         ELI
-          (sabiendo lo que viene)
-          La Tierra quiere que nos
-          detengamos.
+Wilson (el kino) está en la mesa. Abierto. Cableado expuesto.
 
-                         CARTER
-          El IOA está presionando.
-          Quieren que evaluemos los
-          riesgos antes de continuar.
+                          ELI
+          (soldando)
+          Vamos. No seas terco.
+          Eres una máquina. Las
+          máquinas se reparan.
 
-                         ELI
-          (sin emoción)
-          ¿Y usted, General? ¿Qué
-          quiere?
+Conecta un cable. Una chispa.
 
-                         CARTER
-          (pausa)
-          Quiero saber qué hay al
-          final. Pero también quiero
-          que mi gente vuelva a casa.
+Wilson cobra vida por un segundo. Se apaga.
 
-                         ELI
-          (asiente)
-          Entiendo.
-
-Pausa. Eli la mira fijamente.
-
-                         ELI (CONT.)
-          Pero si nos detenemos ahora,
-          si ignoramos esto...
-          (señala el patrón)
-          ...nunca volveremos a tener
-          esta oportunidad. La ventana
-          se cierra. La señal cambia.
-          El mapa se reconfigura.
-
-                         CARTER
-          ¿Cuánto tiempo tenemos?
-
-                         ELI
-          (mira sus datos)
-          Siete días. Ocho. Luego la
-          alineación se pierde.
-
-                         CARTER
-          (decide)
-          Entonces tenemos siete días
-          para convencer al IOA.
-
----
-
-### ESC 12 — INT. DESTINY - PUENTE — NOCHE (NAVE)
-
-Eli está solo. Mira por la ventana.
-
-Chen entra. Se queda a su lado.
-
-                         CHEN
-          ¿Siempre duerme aquí?
-
-                         ELI
-          (sin mirarlo)
-          Sí.
-
-                         CHEN
-          ¿Por qué?
-
-                         ELI
-          (pausa)
-          Porque si me duermo en la
-          litera, sueño con ella.
-          Con la gente que se fue.
-          Con los que dejé atrás.
-          Aquí... aquí solo sueño
-          con estrellas.
-
-Chen asiente. No dice nada. Se queda.
-
-                         CHEN
-          (después de un rato)
-          Yo también sueño con
-          estrellas. Pero las mías
-          tienen nombre.
-
-                         ELI
-          (mirándolo)
-          ¿Y eso es mejor?
-
-                         CHEN
-          (pausa)
-          No. Pero es diferente.
-
-Silencio. Los dos miran por la ventana.
-
-[BLENDER] Dos siluetas frente a la ventana. El cosmos afuera. Wilson flota cerca, parpadeando. Composición simétrica. Cámara lenta dolly back.
-
----
-
-## ACTO CINCO
-
-### ESC 13 — INT. SGC - SALA DE CONTROL — DÍA
-
-Carter está al teléfono con alguien del IOA.
-
-                         CARTER
-          No, señor. No puedo garantizar
-          la seguridad de la misión.
-          Es exploración. Siempre hay
-          riesgo.
-          (pausa)
-          Sí, señor. Entiendo.
-
-Cuelga.
-
-                         MCKAY
-          (desde su consola)
-          ¿Y bien?
-
-                         CARTER
+                          ELI (CONT.)
           (sonrisa)
-          Tenemos siete días. Luego
-          revisan.
+          ¡Te vi! ¡Vi luz! Vamos,
+          Vamos...
 
-                         MCKAY
-          Siete días. Genial. Sin
-          presión.
+Trabaja más.
 
----
+--- 
 
-### ESC 14 — INT. DESTINY - PUENTE — DÍA (NAVE)
+### ESC 8 — INT. DESTINY - PUENTE — DÍA 60
 
-Eli recibe la noticia. Asiente.
+Eli ha aprendido a encender las consolas. La pantalla principal está activa.
 
-                         ELI
-          Siete días. Suficiente.
+Muestra el rumbo de la Destiny. Datos de navegación.
 
-Manipula la consola. La Destiny ajusta su rumbo.
+Eli estudia. Horas. Días.
 
-                         ELI (CONT.)
-          Vamos a seguir el mapa.
-          A ver hasta dónde nos lleva.
+                          ELI
+          (leyendo)
+          Rumbo: desconocido.
+          Velocidad: FTL. Próximo
+          destino: desconocido.
 
-En la pantalla, el patrón se extiende. Miles de puntos conectados. Un camino que cruza galaxias.
+Pausa.
 
-Y al final:
+                          ELI (CONT.)
+          Genial. Tengo una nave que
+          va a ningún lado.
 
-UN PUNTO ROJO. Pulsante.
+Mira las estrellas pasar.
 
-                         PETROVA
-          (señalando)
+                          ELI (CONT.)
+          (voz más calmada)
+          Pero al menos tengo
+          ventana.
+
+--- 
+
+### ESC 9 — INT. DESTINY - TALLER — DÍA 87
+
+Wilson está casi completo. Eli ha reemplazado el cableado interno. La carcasa está reparada.
+
+Conecta la fuente de energía.
+
+Wilson flota. Se estabiliza. El lente rojo SE ENCIENDE.
+
+Wilson apunta a Eli.
+
+Eli lo mira. Sin respirar.
+
+                          ELI
+          (susurrando)
+          Hola.
+
+Wilson parpadea.
+
+Eli sonríe. Una sonrisa genuina por primera vez.
+
+                          ELI (CONT.)
+          Hola, pequeño.
+
+Wilson gira. Explora la sala.
+
+                          ELI (CONT.)
+          (riendo)
+          ¡Funcionas! ¡Funcionas!
+
+Wilson flota de vuelta a Eli. Lo estudia.
+
+                          ELI (CONT.)
+          Te voy a llamar Wilson.
+
+Wilson emite un pitido.
+
+                          ELI (CONT.)
+          Como el balón de Tom Hanks.
+          ¿Lo has visto? ¿No? Bueno,
+          tú eres un balón más
+          avanzado.
+
+Wilson gira.
+
+                          ELI (CONT.)
+          Bueno, Wilson. Somos tú y
+          yo. Y la nave. Y cien
+          personas dormidas.
+
+Pausa.
+
+                          ELI (CONT.)
+          ¿Por dónde empezamos?
+
+--- 
+
+### ESC 10 — INT. DESTINY - VARIAS — MONTAJE — MES 2-6
+
+Montaje de meses:
+
+- Eli con Wilson, aprendiendo los sistemas.
+- Eli reparando una fuga en el sector 4.
+- Eli racionando comida.
+- Eli hablando con Wilson sobre teoría de juegos.
+- Eli calculando la esperanza de vida de la nave.
+- Eli bailando solo en el puente.
+- Eli llorando en la sala de estasis.
+- Eli riendo porque Wilson hace un truco.
+- Eli marcando días en la pared.
+
+--- 
+
+### ESC 11 — INT. DESTINY - PUENTE — DÍA 200
+
+Eli ha cambiado. Barba crecida. Más delgado. Pero hay determinación en sus ojos.
+
+Wilson flota.
+
+                          ELI
+          (a Wilson)
+          Día doscientos. Y la nave
+          sigue viva. ¿Sabes por qué?
+
+Wilson parpadea.
+
+                          ELI (CONT.)
+          Porque no me he rendido.
+          Podría haberme rendido. Es
+          fácil rendirse cuando no
+          hay nadie mirando.
+
+Pausa.
+
+                          ELI (CONT.)
+          Pero si me rindo, ellos
+          también se rinden.
+          (señala la dirección de
+           la sala de estasis)
+          Así que no me rindo.
+
+Wilson flota más cerca.
+
+                          ELI (CONT.)
+          Además... ¿quién alimentaría
+          a Wilson?
+
+Wilson parpadea dos veces.
+
+--- 
+
+### ESC 12 — INT. DESTINY - CÁMARA DE ESTASIS — DÍA 365
+
+Eli está frente a la cápsula de Chloe.
+
+Ha pasado un año.
+
+Eli toca el cristal.
+
+                          ELI
+          (a Chloe dormida)
+          Feliz año nuevo, Chloe.
+          No tengo champán. No tengo
+          fiesta. Pero sobreviví un
+          año.
+
+Pausa.
+
+                          ELI (CONT.)
+          Un año. La mitad del
+          tiempo que planeamos.
+          Y luego... no lo sé. Pero
+          un año es algo.
+
+Se sienta frente a la cápsula.
+
+                          ELI (CONT.)
+          Te gustaría saber que
+          aprendí a reparar el
+          sistema de agua. Ya no
+          huele mal. Y descubrí que
+          la nave tiene un jardín
+          botánico. Sin plantas. Pero
+          el suelo está ahí.
+
+Sonríe.
+
+                          ELI (CONT.)
+          Voy a plantar algo. No sé
+          qué. Pero algo.
+
+--- 
+
+### ESC 13 — INT. DESTINY - PUENTE — DÍA 547
+
+Eli está en el puente. De repente, la nave TIEMBLA.
+
+Eli se agarra a la consola.
+
+                          ELI
+          ¿Qué fue eso?
+
+Wilson se agita.
+
+La nave sale de FTL. Las estrellas se detienen.
+
+Eli revisa los sensores.
+
+                          ELI (CONT.)
+          No hay nada. No hay
+          impacto. No hay objeto.
+          ¿Por qué salimos de FTL?
+
+La nave reanuda FTL sola.
+
+Eli está confundido.
+
+                          ELI (CONT.)
+          (a Wilson)
+          Eso no debería pasar.
+
+--- 
+
+### ESC 14 — INT. DESTINY - COMEDOR — DÍA 600
+
+Eli ha decorado el comedor. Dibujos en las paredes. Notas. Ecuaciones.
+
+Está comiendo (raciones) con Wilson en la mesa.
+
+                          ELI
+          (a Wilson)
+          Sabes, debería estar loco.
+          Cualquier persona normal
+          estaría loca después de
+          seiscientos días sola.
+
+Wilson parpadea.
+
+                          ELI (CONT.)
+          Pero no lo estoy. Estoy...
+          (busca la palabra)
+          ...adaptado. Como un animal
+          en cautiverio.
+
+Pausa.
+
+                          ELI (CONT.)
+          No es malo. Es solo...
+          diferente.
+
+Wilson emite un pitido.
+
+                          ELI (CONT.)
+          ¿Sabes qué es lo peor?
+          Que a veces olvido cómo son
+          las personas. Sus voces.
+          Sus caras.
+
+Pausa.
+
+                          ELI (CONT.)
+          Y luego voy a la sala de
+          estasis y los veo. Y me
+          acuerdo.
+
+--- 
+
+### ESC 15 — INT. DESTINY - TALLER — DÍA 700
+
+Eli trabaja en un PROYECTO. Una modificación a la consola del puente.
+
+Wilson observa.
+
+                          ELI
+          (explicando)
+          Si modifico la consola
+          principal para que detecte
+          variaciones en el fondo de
+          microondas, podríamos...
+          (pausa)
+          ...no sé. Pero es mejor
+          que no hacer nada.
+
+Trabaja.
+
+                          ELI (CONT.)
+          La Tierra debe estar
+          intentando algo. Rush
+          dijo que la novena chevron
+          era unidireccional. Pero
+          tal vez...
+
+Pausa.
+
+                          ELI (CONT.)
+          Tal vez alguien está
+          llamando.
+
+--- 
+
+### ESC 16 — INT. DESTINY - PUENTE — DÍA 730
+
+Eli está frente a la consola modificada.
+
+De repente, un PULSO. La consola registra un pico de energía.
+
+Eli se inclina.
+
+                          ELI
+          (sin aliento)
           ¿Qué es eso?
 
-                         ELI
-          (mira fijamente)
-          El final del mapa.
+La pantalla muestra un patrón. Datos. Una firma.
 
-                         CHEN
-          ¿Qué hay allí?
+                          ELI (CONT.)
+          (reconociendo)
+          Eso no es de la nave. Eso
+          es... es una señal.
 
-                         ELI
-          (pausa)
-          No lo sé. Pero las
-          sembradoras lo han estado
-          protegiendo durante millones
-          de años.
+La consola parpadea. La nave TIEMBLA.
 
-Mira al equipo.
+Sale de FTL.
 
-                         ELI (CONT.)
-          Vamos a descubrirlo.
+Eli mira la pantalla.
 
-En la pantalla, la Destiny avanza. El punto rojo palpita.
+                          ELI (CONT.)
+          (con los ojos abiertos)
+          Alguien está llamando.
+
+--- 
+
+### ESC 17 — INT. DESTINY - PUENTE — DÍA 731
+
+Eli no ha dormido. Wilson está a su lado.
+
+La señal ha cesado. Pero Eli sabe lo que vio.
+
+                          ELI
+          (grabando en un kino)
+          Eli Wallace. Día 731. El
+          día que supe que no estaba
+          solo.
+
+Pausa.
+
+                          ELI (CONT.)
+          La Tierra está ahí fuera.
+          Y alguien está llamando.
+
+Mira a Wilson.
+
+                          ELI (CONT.)
+          (sonrisa)
+          Solo necesitaban un poco
+          más de tiempo.
+
+Wilson parpadea.
+
+Eli se levanta. Hay esperanza en sus ojos por primera vez.
+
+                          ELI (CONT.)
+          Vamos, Wilson. Tenemos una
+          nave que mantener. Porque
+          alguien viene a buscarnos.
 
 **CORTE A NEGRO.**
 
-**CONTINUARÁ...**
+---
 
-[BLENDER] Plano final: la Destiny en el espacio. La pantalla muestra el mapa completo. Un punto rojo al final. La nave avanza. Música ascendente.
+### ESC 18 — INT. DESTINY - PUENTE — PRESENTE (10 AÑOS DESPUÉS)
+
+Eli (presente) está en el puente. Petrova entra.
+
+                          PETROVA
+          ¿Estás bien?
+
+                          ELI
+          (saliendo de un trance)
+          Sí. Solo... recordaba.
+
+                          PETROVA
+          ¿El día que supiste que no
+          estabas solo?
+
+                          ELI
+          (sorprendido)
+          ¿Cómo sabes eso?
+
+                          PETROVA
+          (sonrisa)
+          Lo dices en tus grabaciones.
+          He estado viéndolas. Para
+          entender la nave.
+
+Eli asiente. Incómodo.
+
+                          PETROVA (CONT.)
+          Día 731. El día que dejaste
+          de ser víctima y empezaste
+          a ser guardián.
+
+                          ELI
+          (pausa)
+          Nunca lo había visto así.
+
+                          PETROVA
+          (sincera)
+          Por eso estamos aquí, Eli.
+          Porque tú no te rendiste
+          en el día 731.
+
+Eli la mira. Por un momento, no sabe qué decir.
+
+                          ELI
+          (finalmente)
+          Gracias.
+
+Petrova asiente. Se va.
+
+Eli mira por la ventana. Las estrellas pasan.
+
+                          ELI
+          (a Wilson, bajo)
+          Día 4387. Y todavía no me
+          he rendido.
+
+Wilson parpadea.
+
+**CORTE A NEGRO.**
+
+**FIN DEL EPISODIO**
+
+---
+
+**Temporada 1 — Episodio 3: "Los Temblores"** — Eli descubre que las interrupciones de FTL eran la Tierra llamando. El equipo explora la sala de la sembradora.

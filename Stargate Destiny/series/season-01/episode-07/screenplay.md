@@ -1,92 +1,37 @@
-# STARGATE: DESTINY — Episodio 7: "Lo Que Los Antiguos Escondieron"
+# STARGATE: DESTINY — Episodio 7: "Atlantis — La Advertencia"
 
 **Duración estimada**: 44 min
+**Tipo**: Daniel — Archivos ocultos. "Vuelvan."
 
 ---
 
 ## COLD OPEN
 
-### ESC 1 — INT. DESTINY - BASE DE DATOS — DÍA (NAVE)
+### ESC 1 — INT. ATLANTIS - ARCHIVO RESTRINGIDO — NOCHE — HACE 2 AÑOS
 
-La sala de archivos de la Destiny. Terminales antiguas. Polvo.
+La ciudad de Atlantis. Fondeada en la Tierra. Pasillos iluminados con luz azul suave.
 
-Eli y Daniel están frente a una consola. Han estado trabajando durante horas.
+El Dr. DANIEL JACKSON (57, barba, mirada intensa) está en una sala de archivos profunda. Polvo. Terminales Ancient.
 
-                         DANIEL
-          (frotándose los ojos)
-          He revisado todos los
-          archivos desencriptados.
-          Pero hay una carpeta que
-          no puedo abrir.
+Está revisando archivos cuando algo llama su atención.
 
-                         ELI
-          (interesado)
-          ¿Qué tipo de carpeta?
+                          DANIEL
+          (para sí)
+          ¿Qué es esto?
 
-                         DANIEL
-          No tiene nombre. Solo un
-          símbolo. Un círculo con
-          una línea en el centro.
+En la pantalla: UN ARCHIVO SELLADO. El símbolo: un círculo con una línea en el centro.
 
-Eli se acerca.
+Daniel intenta abrirlo. No puede.
 
-                         ELI
-          (reconociéndolo)
-          Ese es el sello de los
-          Altos Consejeros. Los
-          Ancient que lideraron la
-          construcción de la Destiny.
+                          DANIEL (CONT.)
+          (frustrado)
+          ¿Cómo se abre esto?
 
-                         DANIEL
-          ¿Cómo lo sabes?
+Toca la consola. No responde.
 
-                         ELI
-          (señalando la consola)
-          La nave me lo enseñó.
-          Durante los años que pasé
-          solo. Aprendí a leer sus
-          símbolos.
-
-                         DANIEL
-          (impresionado)
-          ¿Puedes abrirlo?
-
-                         ELI
-          (pausa)
-          Puedo intentarlo.
-
-Eli coloca sus manos sobre la consola. Cierra los ojos.
-
-                         ELI (CONT.)
-          Destiny. Reconoce mi
-          autorización. Eli Wallace.
-          Comandante de facto.
-          Acceso solicitado al
-          archivo sellado.
-
-La consola pulsa. Un tono de aceptación.
-
-Los archivos se abren.
-
-                         DANIEL
-          (sin aliento)
-          Lo lograste.
-
-En la pantalla: DATOS. Millones de páginas. Registros de los Antiguos.
-
-                         ELI
-          (leyendo)
-          Esto es... el diario de
-          la construcción de la
-          Destiny. Pero también...
-          (pausa)
-          ...las razones por las
-          que la construyeron.
-
-                         DANIEL
-          (grave)
-          Y por las que nunca
-          hablaron de ello.
+                          DANIEL (CONT.)
+          (a nadie)
+          Necesito a McKay.
 
 **CORTE A NEGRO. TÍTULO: STARGATE: DESTINY**
 
@@ -94,602 +39,537 @@ En la pantalla: DATOS. Millones de páginas. Registros de los Antiguos.
 
 ## ACTO UNO
 
-### ESC 2 — INT. DESTINY - BASE DE DATOS — CONTINUACIÓN
+### ESC 2 — INT. ATLANTIS - ARCHIVO — NOCHE — CONTINUACIÓN
 
-Eli y Daniel revisan los archivos.
+McKay está frente a la consola. Manipula el sistema.
 
-                         ELI
-          (leyendo en voz alta)
-          "Decidimos construir la
-          Destiny no como una nave
-          de exploración, sino como
-          una nave de escape. Si el
-          código fuente era
-          demasiado peligroso, la
-          Destiny llevaría el
-          conocimiento lejos de
-          nosotros. Para que otra
-          especie, en otro tiempo,
-          pudiera decidir."
+                          MCKAY
+          (trabajando)
+          Este archivo está sellado
+          con un cifrado que no he
+          visto antes. No es Ancient
+          estándar. Es...
 
-                         DANIEL
-          (procesando)
-          La Destiny era una
-          cápsula del tiempo. Con
-          el conocimiento que los
-          Antiguos tenían miedo de
-          poseer.
+                          DANIEL
+          (impaciente)
+          ¿Es qué?
 
-                         ELI
-          (desplazando)
-          Y hay más. Aquí describen
-          lo que encontraron cuando
-          llegaron al final del
-          mapa.
-
-                         DANIEL
-          (tenso)
-          ¿Qué encontraron?
-
-                         ELI
-          (pausa. Lee.)
-          "Encontramos el código
-          fuente. Es real. Es la
-          firma de un creador. Pero
-          el creador no es un ser.
-          Es un proceso. Una función
-          que genera universos."
-
-                         DANIEL
-          (susurrando)
-          ¿El Big Bang fue un
-          programa ejecutándose?
-
-                         ELI
-          (asiente)
-          Y alguien — o algo —
-          lo escribió.
-
----
-
-### ESC 3 — INT. SGC - SALA DE BRIEFING — DÍA
-
-Carter, McKay y Sheppard (presente por primera vez) escuchan la transmisión.
-
-                         SHEPPARD
-          (con calma)
-          ¿Entonces estamos diciendo
-          que alguien programó el
-          universo?
-
-                         MCKAY
-          No "alguien". Algo. Una
-          inteligencia anterior al
-          Big Bang. Que existía
-          fuera del tiempo.
-
-                         SHEPPARD
-          (tomando un sorbo de café)
-          Bueno. Eso no es
-          aterrador para nada.
-
-                         CARTER
-          (a la pantalla)
-          Daniel. ¿Los Antiguos
-          encontraron evidencia de
-          quién — o qué — escribió
-          el código?
-
-                         DANIEL (V.O.)
+                          MCKAY
           (pausa)
-          Sí. Pero no lo incluyeron
-          en estos archivos. Lo
-          dejaron en otro lugar.
+          Es más antiguo. Anterior
+          a los Antiguos.
 
-                         CARTER
-          ¿Dónde?
+                          DANIEL
+          (procesa)
+          Los Antiguos guardaron algo
+          de una civilización
+          anterior.
 
-                         DANIEL (V.O.)
-          En Atlantis. En una
-          cámara sellada que nadie
-          ha abierto.
+                          MCKAY
+          (asintiendo)
+          Y lo sellaron con un cifrado
+          que solo ellos conocían.
+          Pero no sé cómo...
 
-                         MCKAY
-          (suspirando)
-          Por supuesto que sí.
+                          DANIEL
+          (repentinamente)
+          Prueba con mi autorización
+          de Ascendido.
 
----
+                          MCKAY
+          (lo mira)
+          ¿Todavía tienes eso?
 
-### ESC 4 — INT. ATLANTIS - CÁMARA SELLADA — DÍA
+                          DANIEL
+          Nunca se sabe cuándo
+          vuelve a ser útil.
 
-Sheppard y McKay están en Atlantis. Frente a una puerta que no han visto antes.
+McKay ingresa el código. La consola parpadea.
 
-                         SHEPPARD
-          (tocando la puerta)
-          ¿Esto siempre estuvo aquí?
+El archivo SE ABRE.
 
-                         MCKAY
-          Sí. Pero los escáneres no
-          lo detectaban. Estaba
-          camuflado. Solo se activó
-          cuando Daniel abrió los
-          archivos de la Destiny.
-
-                         SHEPPARD
-          ¿Cómo entramos?
-
-                         MCKAY
-          (señalando un panel)
-          Necesita el gen ATA.
-          Pero no el normal. Uno
-          específico.
-
-                         SHEPPARD
-          (colocando la mano)
-          Probemos.
-
-La puerta se ilumina. Se abre.
-
-                         SHEPPARD (CONT.)
-          (sonrisa)
-          Todavía lo tengo.
-
-                         MCKAY
-          (entrando)
-          Por supuesto que lo tienes.
-          Porque la vida sería
-          demasiado simple si no.
-
----
-
-### ESC 5 — INT. ATLANTIS - CÁMARA INTERIOR
-
-Una sala pequeña. En el centro: un PEDESTAL. Sobre él, un CRISTAL similar a los nodos.
-
-Pero este es DIFERENTE. Es dorado. Brillante. Como si contuviera luz solar.
-
-                         MCKAY
-          (acercándose)
-          Es un fragmento del código
-          fuente. Pero... más puro.
-          Más original.
-
-                         SHEPPARD
-          ¿Los Antiguos tenían esto
-          todo el tiempo?
-
-                         MCKAY
-          (pausa)
-          Lo tenían. Y nunca lo
-          usaron. Nunca lo
-          investigaron. Lo sellaron
-          y lo escondieron.
-
-                         SHEPPARD
-          ¿Por qué?
-
-                         MCKAY
-          (mirando el cristal)
-          Porque sabían que si
-          alguien lo encontraba,
-          sería tentado a usarlo.
-
----
-
-## ACTO DOS
-
-### ESC 6 — INT. DESTINY - BASE DE DATOS — DÍA (NAVE)
-
-Eli recibe la transmisión de Atlantis.
-
-                         ELI
-          (excitado)
-          Un fragmento original.
-          Eso cambia todo. Los
-          nodos que hemos estado
-          siguiendo son copias.
-          Eso... eso es el original.
-
-                         DANIEL
-          (pensativo)
-          ¿Por qué los Antiguos
-          dejarían una copia en la
-          Destiny y el original en
-          Atlantis?
-
-                         ELI
-          (pausa)
-          Porque querían que la
-          Destiny siguiera el
-          camino. Pero querían que
-          el verdadero conocimiento
-          se quedara en casa.
-
-                         DANIEL
-          (comprendiendo)
-          La Destiny era el señuelo.
-          El verdadero código
-          fuente siempre estuvo en
-          Atlantis.
-
----
-
-### ESC 7 — INT. SGC - SALA DE CONTROL — DÍA
-
-Carter toma una decisión.
-
-                         CARTER
-          (a la pantalla)
-          Traigan el fragmento de
-          Atlantis a la Destiny.
-
-                         MCKAY
+                          MCKAY
           (sorprendido)
-          ¿Estás loca? Si eso es el
-          código fuente original,
-          llevarlo a la nave que lo
-          está buscando es...
+          Funcionó.
 
-                         CARTER
-          ...es necesario. Si los
-          fragmentos de la Destiny
-          están incompletos, el
-          original puede ayudarnos
-          a entender lo que estamos
-          viendo.
+En la pantalla: TEXTO ANCIENT.
 
-                         SHEPPARD
-          (encogiéndose de hombros)
-          Órdenes son órdenes.
-          Preparo el transporte.
+Daniel lee en voz alta.
 
----
+                          DANIEL
+          (leyendo)
+          "A quien encuentre este
+          mensaje: Vuelvan por donde
+          vinieron. No pregunten qué
+          hay más allá."
+
+Silencio.
+
+                          MCKAY
+          (confundido)
+          ¿Eso es todo?
+
+                          DANIEL
+          (serio)
+          No. Hay más.
+
+Sigue leyendo.
+
+                          DANIEL (CONT.)
+          "El camino que han seguido
+          no termina donde esperan.
+          Hay cosas que no deben ser
+          despertadas."
+
+                          MCKAY
+          (preocupado)
+          ¿Qué camino?
+
+                          DANIEL
+          (pausa)
+          La Destiny.
+
+--- 
+
+### ESC 3 — INT. SGC - DESPACHO DE CARTER — NOCHE — HACE 2 AÑOS
+
+Daniel y McKay están con Carter. El ambiente es tenso.
+
+                          CARTER
+          (releyendo el mensaje)
+          "Vuelvan por donde vinieron.
+          No pregunten."
+
+                          DANIEL
+          (asintiendo)
+          Es una advertencia. Directa.
+          De los Antiguos.
+
+                          CARTER
+          (pausa)
+          ¿Por qué sellaron esto?
+
+                          MCKAY
+          Porque sabían que alguien
+          lo encontraría. Sabían que
+          la Destiny seguiría su
+          rumbo. Y sabían que había
+          algo allí que no debía ser
+          descubierto.
+
+                          CARTER
+          (firme)
+          No podemos volvernos.
+          Hay gente ahí fuera.
+
+                          DANIEL
+          (pausa)
+          Lo sé. Pero también sé que
+          los Antiguos no hacían
+          advertencias sin razón.
+
+                          CARTER
+          (decide)
+          Entonces vamos con cuidado.
+          Pero no nos vamos a rendir.
+
+--- 
+
+### ESC 4 — INT. ATLANTIS - ARCHIVO — DÍA — HACE 1 AÑO
+
+Daniel trabaja solo. Ha abierto más archivos relacionados.
+
+En la pantalla: DIAGRAMAS. Estructuras. Una zona del espacio marcada.
+
+                          DANIEL
+          (para sí)
+          "Zona muerta." "Cicatriz."
+          "Estructura en el límite."
+
+Toma notas.
+
+                          DANIEL (CONT.)
+          ¿Qué hay en el límite?
+
+Un archivo se abre automáticamente. Muestra UNA IMAGEN.
+
+Una estructura. Masiva. Geométrica. Con una esfera en el centro.
+
+                          DANIEL (CONT.)
+          (sin aliento)
+          ¿Qué es eso?
+
+--- 
+
+### ESC 5 — INT. ATLANTIS - ARCHIVO — DÍA — PRESENTE
+
+Daniel está en la misma sala. Pero ahora, en la pantalla, ve la TRANSMISIÓN EN VIVO de la Destiny.
+
+La estructura que vio en los archivos... está en la pantalla.
+
+                          DANIEL
+          (al comunicador)
+          Sam. ¿Ves esto?
+
+                          CARTER (V.O.)
+          (por comunicador)
+          Lo vemos. ¿Qué es?
+
+                          DANIEL
+          (tragando saliva)
+          Es lo que los Antiguos
+          nos advirtieron.
+
+--- 
+
+### ESC 6 — INT. DESTINY - PUENTE — PRESENTE — DÍA (NAVE)
+
+Eli observa la estructura en la pantalla.
+
+                          ELI
+          Es una computadora. Del
+          tamaño de una luna. Los
+          Curadores la construyeron.
+
+                          PETROVA
+          ¿Qué hace?
+
+                          ELI
+          (pausa)
+          Procesa información. Toda
+          la información de la
+          galaxia.
+
+Daniel aparece en pantalla desde Atlantis.
+
+                          DANIEL
+          (desde pantalla)
+          Eli. Tenemos que hablar.
+
+                          ELI
+          (sorprendido)
+          Dr. Jackson. ¿Qué hace?
+
+                          DANIEL
+          (serio)
+          Encontré una advertencia.
+          En Atlantis. De los
+          Antiguos. Dice que no
+          preguntemos qué hay más
+          allá.
+
+                          ELI
+          (pausa)
+          ¿Más allá de qué?
+
+                          DANIEL
+          De la estructura. Del
+          mapa. Del camino que están
+          siguiendo.
+
+                          ELI
+          (mira la estructura)
+          ¿Y qué hay más allá?
+
+                          DANIEL
+          No lo sé. Pero los Antiguos
+          nos advirtieron que no
+          preguntáramos.
+
+--- 
+
+### ESC 7 — INT. ATLANTIS - ARCHIVO — CONTINUACIÓN
+
+Daniel manipula la consola. Más datos aparecen.
+
+                          DANIEL
+          (al comunicador)
+          Los archivos mencionan una
+          "zona de silencio". Un
+          lugar donde el universo se
+          detiene.
+
+                          MCKAY (V.O.)
+          (por comunicador)
+          ¿El universo se detiene?
+          Eso no tiene sentido.
+
+                          DANIEL
+          Los Antiguos cartografiaron
+          esta zona. No la
+          atravesaron. Le dieron la
+          vuelta.
+
+                          ELI (V.O.)
+          (por comunicador)
+          ¿Y si no podemos darle la
+          vuelta? La Destiny va en
+          una dirección. No tiene
+          frenos.
+
+Silencio.
+
+--- 
 
 ### ESC 8 — INT. DESTINY - PUENTE — DÍA (NAVE)
 
-Sheppard cruza el portal. Lleva el CRISTAL DORADO en una caja protectora.
+El equipo discute.
 
-                         SHEPPARD
-          (entregándoselo a Eli)
-          Aquí tienes. Un fragmento
-          de Dios. O del programa
-          de Dios. O lo que sea.
-          Cuídalo.
+                          CHEN
+          ¿Vamos a detenernos?
 
-                         ELI
-          (tomando la caja)
-          Lo haré.
+                          ELI
+          (firme)
+          No podemos. La nave va
+          hacia allí. Es su misión.
 
-                         SHEPPARD
-          (mirando alrededor)
-          La última vez que estuve
-          en una nave Ancient, casi
-          muero. Unas quince veces.
+                          PETROVA
+          ¿Y si modificamos el
+          rumbo?
 
-                         ELI
+                          ELI
+          (pausa)
+          Podemos intentarlo. Pero
+          la nave lleva millones de
+          años en este camino. No sé
+          si podemos cambiarlo.
+
+                          HAWKINS
+          (práctico)
+          Entonces prepárense para
+          lo que sea que hay allí.
+
+                          ELI
+          (mira a Hawkins)
+          Eso es lo más sensato que
+          he oído hoy.
+
+--- 
+
+### ESC 9 — INT. ATLANTIS - SALA DEL CONSEJO — DÍA
+
+Carter, Daniel, McKay y representantes del IOA discuten.
+
+                          REPRESENTANTE
+          ¿Una advertencia Ancient?
+          ¿Y recién la encuentran?
+
+                          DANIEL
+          Estaba sellada. Ningún
+          humano la había visto antes.
+
+                          REPRESENTANTE
+          ¿Y sugiere que abandonemos
+          la misión?
+
+                          CARTER
+          (firme)
+          No. Sugiere que tengamos
+          cuidado. Y eso vamos a
+          hacer.
+
+                          MCKAY
+          Además, los Antiguos no
+          siempre tenían razón.
+          Dejaron a los Wraith,
+          después de todo.
+
+                          DANIEL
+          (pausa)
+          Pero esta vez... esta vez
+          lo sellaron. Como si no
+          quisieran que nadie lo
+          encontrara. ¿Por qué?
+
+--- 
+
+### ESC 10 — INT. DESTINY - PUENTE — DÍA (NAVE)
+
+Eli está solo con Wilson. Daniel aparece en la pantalla.
+
+                          DANIEL
+          (desde pantalla)
+          Eli. ¿Puedo hablar contigo?
+
+                          ELI
+          (sorprendido)
+          Claro.
+
+                          DANIEL
+          (pausa)
+          Quiero que sepas que no
+          tienes que seguir este
+          camino. Puedes detener la
+          nave. Puedes esperar.
+
+                          ELI
+          (pausa)
+          ¿Y luego qué? Esperar a
+          que el universo termine?
+
+                          DANIEL
+          No lo sé. Pero no quiero
+          que te conviertas en parte
+          de lo que los Antiguos
+          temían.
+
+                          ELI
+          (sonrisa triste)
+          Dr. Jackson. He pasado ocho
+          años solo en esta nave. He
+          visto cosas que ningún
+          humano ha visto. Y he
+          llegado a una conclusión.
+
+                          DANIEL
+          ¿Cuál?
+
+                          ELI
+          El miedo no es una razón
+          para detenerse.
+
+Daniel lo mira. Asiente lentamente.
+
+                          DANIEL
+          Eres más sabio de lo que
+          crees, Eli.
+
+                          ELI
           (sonrisa)
-          Bienvenido a la Destiny.
+          Ocho años solo dan para
+          pensar.
 
----
+--- 
 
-## ACTO TRES
+### ESC 11 — INT. ATLANTIS - ARCHIVO — NOCHE
 
-### ESC 9 — INT. DESTINY - LABORATORIO — DÍA (NAVE)
+Daniel está solo. Revisa los archivos una vez más.
 
-Eli, Daniel y Petrova examinan el cristal dorado.
+Encuentra algo. Un fragmento que no había visto.
 
-                         PETROVA
-          Es... hermoso. La
-          estructura cristalina es
-          perfecta. Como si fuera
-          un solo cristal continuo.
+                          DANIEL
+          (leyendo)
+          "No pregunten qué hay más
+          allá. Porque la respuesta
+          cambiará todo."
 
-                         ELI
-          (tocándolo)
-          No es un cristal. Es...
-          información solidificada.
-          Luz congelada.
+Se queda en silencio.
 
-                         DANIEL
-          (preparándose)
-          Si lo tocamos, vamos a
-          ver lo que los Antiguos
-          vieron. Y ellos decidieron
-          no seguir investigando.
+                          DANIEL (CONT.)
+          (para sí)
+          ¿Qué respuesta?
 
-                         ELI
-          (pausa)
-          ¿Estás listo?
-
-                         DANIEL
-          No. Pero nunca lo estoy.
-
-Ponen las manos sobre el cristal.
-
----
-
-### ESC 10 — INT. VISIÓN — EL CÓDIGO FUENTE
-
-Eli y Daniel están en un espacio blanco. Infinito.
-
-Frente a ellos: EL CÓDIGO.
-
-No son palabras. No son números. Son FORMAS. Geometrías que existen en dimensiones que no pueden percibir completamente.
-
-                         DANIEL (V.O.)
-          (en off)
-          No es un idioma. Es...
-          la idea antes del idioma.
-          El pensamiento puro.
-
-                         ELI (V.O.)
-          (en off)
-          Es un plano. Un diseño.
-          Alguien diseñó esto.
-
-Una FORMA aparece frente a ellos. No es un ser. Es un PATRÓN. Un patrón que se repite en todo el código.
-
-                         DANIEL (V.O.)
-          (reconociendo)
-          La firma. La marca del
-          creador. Pero...
-
-Se acerca.
-
-                         DANIEL (V.O.) (CONT.)
-          ...no es un creador. Es
-          un... heredero. Algo que
-          recibió el conocimiento
-          de otro.
-
-                         ELI (V.O.)
-          (comprendiendo)
-          El código fuente fue
-          escrito por alguien antes
-          del Big Bang. Pero ese
-          alguien también aprendió
-          de otro.
-
-                         DANIEL (V.O.)
-          (susurrando)
-          ¿Cuántos universos
-          existieron antes de este?
-          ¿Cuántos códigos fuente
-          se escribieron?
-
----
-
-### ESC 11 — INT. DESTINY - LABORATORIO — CONTINUACIÓN
-
-Eli y Daniel se separan del cristal. Ambos jadean.
-
-                         ELI
-          (temblando)
-          No es un código. Es una
-          herencia. Cada universo
-          deja su código fuente para
-          el siguiente.
-
-                         DANIEL
-          (pálido)
-          Este universo es el
-          tercero. Pero el código
-          fuente contiene las firmas
-          de los dos anteriores.
-
-                         PETROVA
-          (horrorizada)
-          ¿Los universos anteriores
-          murieron?
-
-                         DANIEL
-          (pausa)
-          No. Fueron reemplazados.
-          Cada nuevo universo
-          escribe sobre el anterior.
-
-                         ELI
-          (mirando el cristal)
-          Y nosotros tenemos el
-          código del tercer universo
-          en nuestras manos.
-
-                         DANIEL
-          (grave)
-          Y alguien no quiere que
-          lleguemos al cuarto.
-
----
-
-## ACTO CUATRO
+--- 
 
 ### ESC 12 — INT. DESTINY - PUENTE — DÍA (NAVE)
 
-El equipo procesa.
+Eli se conecta con Daniel en videollamada.
 
-                         CHEN
-          (rompiendo el silencio)
-          ¿Cómo sabemos que los
-          Curadores no tienen razón?
-          ¿Cómo sabemos que este
-          conocimiento no nos va a
-          destruir?
+                          ELI
+          Dr. Jackson. He estado
+          pensando. Usted dijo que
+          la advertencia decía:
+          "No pregunten."
 
-                         ELI
-          (pausa)
-          No lo sabemos. Pero la
-          Presencia dijo algo: el
-          conocimiento no destruye.
-          La falta de preparación
-          destruye.
-
-                         DANIEL
+                          DANIEL
           (asintiendo)
-          Los Antiguos estaban
-          preparados para encontrar
-          el código. Pero no estaban
-          preparados para lo que
-          significaba. Tal vez
-          nosotros sí.
+          Sí.
 
-                         SHEPPARD
-          (con calma)
-          O tal vez no. Pero hay
-          una única manera de
-          saberlo.
+                          ELI
+          ¿Y si no es una amenaza?
+          ¿Y si es protección?
 
-                         HAWKINS
+                          DANIEL
+          (confundido)
+          ¿Protección?
+
+                          ELI
+          Los Antiguos nos protegían
+          de algo. No porque fuera
+          malo. Sino porque no
+          estábamos listos.
+
+                          DANIEL
+          (pausa)
+          Tal vez tenían razón.
+
+                          ELI
           (firme)
-          Entonces vamos. Lleguemos
-          al final.
+          Tal vez. Pero si nunca
+          preguntamos, nunca
+          sabremos.
 
----
+Daniel sonríe.
 
-### ESC 13 — INT. DESTINY - PUENTE — NOCHE (NAVE)
+                          DANIEL
+          Cuando tienes razón, Eli,
+          la tienes.
 
-Eli está solo. Mira el cristal dorado.
-
-Wilson flota cerca.
-
-                         ELI
-          (a Wilson)
-          Los Antiguos tuvieron
-          miedo. Construyeron la
-          Destiny para huir.
-          Escondieron el código
-          en Atlantis. Sellaron el
-          conocimiento.
-
-Pausa.
-
-                         ELI (CONT.)
-          Pero yo no tengo miedo.
-          Bueno, sí. Tengo miedo.
-          Pero no es suficiente
-          para detenerme.
-
-Wilson parpadea.
-
-                         ELI (CONT.)
-          Porque si hay algo que
-          aprendí en diez años solo
-          en esta nave... es que el
-          miedo no es una razón
-          para dejar de moverse.
-
----
-
-### ESC 14 — INT. SGC - DESPACHO DE CARTER — NOCHE
-
-Carter habla con Daniel por comunicador.
-
-                         CARTER
-          ¿Crees que estamos
-          haciendo lo correcto?
-
-                         DANIEL
-          (pausa)
-          No lo sé, Sam. Pero creo
-          que estamos haciendo lo
-          que debemos hacer.
-
-                         CARTER
-          (sonrisa triste)
-          Eso es lo que Jack solía
-          decir. Y siempre tenía
-          razón.
-
-                         DANIEL
-          (sonrisa)
-          Jack solía decir muchas
-          cosas. Algunas hasta
-          eran ciertas.
-
-Ríen. Pero la risa es corta.
-
-                         CARTER
-          Cuida de ellos, Daniel.
-
-                         DANIEL
-          (serio)
-          Siempre.
-
----
-
-## ACTO CINCO
-
-### ESC 15 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-Eli se dirige al equipo.
-
-                         ELI
-          He procesado los datos
-          del cristal dorado. El
-          mapa se ha actualizado.
-          El camino es más corto
-          de lo que pensábamos.
-
-                         PETROVA
-          (sorprendida)
-          ¿Más corto?
-
-                         ELI
-          (asiente)
-          El fragmento original
-          contenía un atajo. Un
-          camino directo al quinto
-          nodo. Nos saltamos tres
-          estaciones.
-
-                         CHEN
-          (preocupado)
-          ¿Es seguro?
-
-                         ELI
-          (pausa)
-          Es más seguro que pasar
-          por las estaciones.
-          Porque las estaciones
-          están vigiladas.
-
-                         SHEPPARD
-          (con calma)
-          ¿Vigiladas por?
-
-                         ELI
-          (grave)
-          La facción de los
-          Curadores que quiere
-          detenernos. La que selló
-          a "Ella" en el vacío.
-
-                         HAWKINS
-          (preparándose)
-          Entonces vamos. Cuanto
-          antes lleguemos, mejor.
-
----
-
-### ESC 16 — EXT. LA DESTINY EN EL ESPACIO — DÍA (NAVE)
-
-La Destiny cambia de rumbo. Se dirige hacia una zona del espacio que brilla.
-
-En la distancia: UNA LUZ. Como un faro.
-
-                         ELI (V.O.)
-          (en off)
-          El quinto nodo. El que
-          contiene la clave para
-          entender el código
-          completo.
-
-La nave se acerca.
-
-                         ELI (V.O.) (CONT.)
-          Y el que va a decidir
-          si continuamos... o si
-          todo fue en vano.
+                          ELI
+          Lo sé. Eso es lo peor.
 
 **CORTE A NEGRO.**
 
-**CONTINUARÁ...**
+---
+
+### ESC 13 — INT. SGC - DESPACHO DE CARTER — NOCHE
+
+Carter, Daniel y McKay están juntos.
+
+                          CARTER
+          ¿Cuál es tu instinto,
+          Daniel?
+
+                          DANIEL
+          (pausa)
+          Mi instinto dice que los
+          Antiguos tenían miedo. Y
+          cuando los Antiguos tenían
+          miedo, había razón.
+
+                          MCKAY
+          (serio)
+          Pero también mi instinto
+          dice que Eli tiene razón.
+          Si nunca preguntamos, nunca
+          sabremos.
+
+                          CARTER
+          (decide)
+          Entonces seguimos adelante.
+          Pero con los ojos abiertos.
+
+                          DANIEL
+          (asiente)
+          Y con cuidado.
+
+**CORTE A NEGRO.**
+
+---
+
+### ESC 14 — INT. DESTINY - PUENTE — DÍA (NAVE)
+
+Eli mira la estructura en la pantalla.
+
+Wilson flota a su lado.
+
+                          ELI
+          (a Wilson)
+          Los Antiguos nos dijeron
+          que no preguntáramos.
+          (pausa)
+          Pero ellos ya no están.
+          Y nosotros sí.
+
+Wilson parpadea.
+
+                          ELI (CONT.)
+          Vamos a preguntar.
+
+**CORTE A NEGRO.**
+
+**FIN DEL EPISODIO**
+
+---
+
+**Temporada 1 — Episodio 8: "SG-D — Primera Misión"** — Primer planeta. Desarrollo de personajes. Eli sale de la nave.

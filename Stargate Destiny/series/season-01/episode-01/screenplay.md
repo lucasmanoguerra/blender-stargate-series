@@ -1,1338 +1,1411 @@
 # STARGATE: DESTINY — Episodio 1: "El Último Salto"
 
 **Escrito por**: [Usuario]
-**Fecha**: Post-SGU +2 años (Tierra) / +10 años (Destiny)
+**Fecha**: Post-SGU +10 años
 **Formato**: Guión técnico para producción Blender
-**Duración estimada**: 44 min
+**Duración estimada**: 60 min
 
 ---
 
 ## COLD OPEN
 
-[BLENDER] Nota general: Esta secuencia usa iluminación mínima. Predominan naranjas
-turbios de emergencia y azules fríos de reactivación. Polvo en suspensión constante.
-Render Cycles, 4K.
+[BLENDER] Nota general: Secuencias en la Destiny usan iluminación mínima. Predominan naranjas turbios de emergencia y azules fríos. Polvo en suspensión constante. Render Cycles, 4K.
 
 ---
 
 ### ESC 1 — INT. DESTINY - PUENTE — DÍA (NAVE)
 
-El puente de la Destiny está sumergido en una penumbra casi absoluta. Las consolas,
-apagadas hace años, son siluetas en la oscuridad. Solo un panel de emergencia
-parpadea débilmente, lanzando un pulso ámbar cada tres segundos.
+El puente de la Destiny está sumergido en penumbra. Las consolas, apagadas, son siluetas. Solo un panel de emergencia parpadea en ámbar cada tres segundos.
 
-Polvo minúsculo flota en el aire, visible únicamente cuando cruza el haz del panel.
+Polvo minúsculo flota en el aire.
 
-En el centro del puente, en el sillón del capitán, está ELI WALLACE.
+En el centro, en el sillón del capitán, está ELI WALLACE.
 
-Tiene treinta y dos años pero aparenta cuarenta. Barba espesa y descuidada. Ojos
-hundidos. El mono de la tripulación, remendado docenas de veces con parches de
-distintos materiales, cuelga de su cuerpo delgado.
+Tiene treinta y tres años pero aparenta cincuenta. Barba espesa, canosa, descuidada. Ojos hundidos. El mono de la tripulación — remendado docenas de veces con parches de distintos materiales — cuelga de su cuerpo delgado.
 
-Sostiene un DISPOSITIVO DE GRABACIÓN — una tableta Ancient que ha modificado para
-registrar mensajes. La luz azul del dispositivo ilumina su rostro desde abajo,
-creando sombras profundas en sus pómulos.
+Sostiene un KINO. El lente rojo lo enfoca.
 
-Él mira fijamente la cámara del dispositivo. Parpadea. Respira hondo.
-
-                         ELI (V.O.)
-              (voz grave, cansada)
-          Eli Wallace. Día... 4387.
+                          ELI
+          (voz grave, cansada)
+          Eli Wallace. Día... cuatro
+          mil trescientos ochenta
+          y siete.
 
 Pausa. Busca las palabras.
 
-                         ELI (V.O.)
-          Si alguien escucha esto... funcionó.
-          Llegamos.
+                          ELI (CONT.)
+          Si alguien escucha esto...
+          funcionó. Llegamos.
 
-Se gira ligeramente hacia la ventana del puente. Afuera, un cosmos denso y
-desconocido. Estrellas que ningún humano ha visto antes.
+Se gira hacia la ventana. Afuera, un cosmos denso y desconocido.
 
-                         ELI (V.O.)
-          No sé cuánto tiempo más aguante
-          la nave. Los sistemas de soporte
-          vital están fallando en tres
-          secciones. El núcleo de energía...
-          bueno, digamos que está haciendo
-          ruidos que no me gustan.
+                          ELI (CONT.)
+          No sé cuánto más aguante la
+          nave. Soporte vital fallando
+          en tres secciones. El núcleo
+          de energía hace ruidos que
+          no me gustan.
 
-Sonríe. Una sonrisa cansada, sin alegría.
+Sonríe. Sin alegría.
 
-                         ELI (V.O.)
+                          ELI (CONT.)
           Pero valió la pena. Cada día.
 
-[BLENDER] Plano: Close-up de Eli, iluminado solo por el dispositivo (azul 6500K)
-y el panel ámbar (1800K). Contraste de color en su rostro: frío abajo, cálido
-arriba. Polvo visible en el haz. Cámara: 85mm, f/1.4, DOF superficial.
+[BLENDER] Close-up de Eli, iluminado solo por el kino (rojo) y panel ámbar. Contraste: frío/calor. 85mm, f/1.4, DOF superficial.
 
-De repente, un SONIDO. Un zumbido grave que no estaba antes.
+De repente, un ZUMBIDO grave que no estaba antes.
 
 Eli se detiene. Escucha.
 
-Algo se enciende. Una consola en el lado izquierdo del puente — muerta durante
-años — cobra vida. Luces azules recorren su superficie en una onda. Pantallas
-parpadean, muestran datos, se estabilizan.
+Una consola en el lado izquierdo — muerta durante años — cobra vida. Luces azules recorren su superficie. Pantallas parpadean, se estabilizan, muestran datos.
 
-Eli se pone de pie lentamente. Mira la consola. No hay sorpresa en su rostro.
-Hay algo más: reconocimiento. Como si hubiera estado esperando esto.
+Eli se pone de pie lentamente. Sin sorpresa. Reconocimiento.
 
-                         ELI
+                          ELI
           (susurrando)
           Ya era hora.
 
-[BLENDER] La consola se ilumina con un efecto de "ola" de luz azul (6500K).
-Contraste fuerte con la oscuridad circundante. Whip pan de Eli a la consola.
-Partículas de polvo iluminadas por la nueva fuente.
+[BLENDER] Consola se ilumina con "ola" de luz azul. Contraste fuerte. Whip pan.
 
-                         ELI
-          (al dispositivo)
+                          ELI (CONT.)
+          (al kino)
           Tengo que ir. Algo pasó.
-          Te mantendré informado.
 
-Apaga el dispositivo. La habitación se oscurece ligeramente. Él camina hacia la
-consola activada. Lee los datos.
+Apaga el kino. Camina hacia la consola. Lee los datos. Su expresión cambia.
 
-Su expresión cambia. Algo en esos datos lo ha sorprendido.
-
-                         ELI
+                          ELI (CONT.)
           (casi inaudible)
           No puede ser...
 
-Corte a:
+**CORTE A NEGRO.**
 
----
+--- 
 
-### ESC 2 — INT. DESTINY - CORREDOR PRINCIPAL — DÍA (NAVE)
+### ESC 2 — FLASHBACK — INT. DESTINY - CÁMARA DE ESTASIS — DÍA (NAVE) — HACE 8 AÑOS
 
-Eli camina con paso rápido por un corredor oscuro. A su paso, las luces se
-encienden en cascada — un sensor de movimiento que responde a su presencia.
-Detrás de él, el corredor vuelve a oscurecerse, como si la nave solo quisiera
-iluminar el camino inmediato.
+La cámara de estasis. Una fila de cápsulas. La mayoría están selladas, con cuerpos congelados en su interior.
 
-[BLENDER] Tracking lateral: cámara paralela a Eli, 40mm, steadycam. Luces se
-encienden en secuencia (geometry nodes con proximidad). Polvo en el aire crea
-volumen de luz.
+Una cápsula está ABIERTA. Su tapa de cristal cuelga de una bisagra rota.
 
-PASAJERO — Pared cubierta de marcas. Miles de rayas verticales, agrupadas en
-bloques de diez. Una pared entera. Cada marca es un día.
+Eli (25 años, más joven, barba incipiente, asustado) está sentado en el borde de la cápsula. Respira entrecortadamente. Mira sus manos como si no las reconociera.
+
+A su alrededor, la nave está oscura. Silenciosa. Muerta.
+
+                          ELI (V.O.)
+          (en off, presente)
+          El día que desperté fue el
+          peor día de mi vida.
+
+Eli joven mira el pasillo vacío. Escucha. Nada.
+
+                          ELI JOVEN
+          (susurrando)
+          ¿Hola?
+
+Silencio. Solo el zumbido de los sistemas.
+
+**CORTE A:**
+
+--- 
+
+### ESC 3 — INT. DESTINY - PUENTE — PRESENTE
+
+Eli (presente) está frente a la consola. La pantalla muestra UN PATRÓN DE SEÑAL. No es aleatorio. Es datos.
+
+                          ELI
+          (procesando)
+          No es una transmisión
+          estándar. Es... un protocolo.
+          Un apretón de manos.
+
+En la pantalla, los datos forman una estructura reconocible.
+
+                          ELI (CONT.)
+          (conteniendo la emoción)
+          Eso es tecnología humana.
+          Es... Tierra.
+
+Eli se queda paralizado. Diez años de soledad. Y la Tierra está llamando.
+
+**CORTE A:**
+
+--- 
+
+### ESC 4 — INT. SGC - SALA DE CONTROL — DÍA — HACE 10 AÑOS (FLASHBACK)
+
+La sala de control del Stargate Command. Modernizada. Pantallas curvas. Proyecciones holográficas.
+
+La GENERAL SAMANTHA CARTER (45, uniforme de general, cabello sin canas aún) está al mando.
+
+A su lado, el DR. RODNEY MCKAY (45, arrogancia como escudo) ajusta un panel.
+
+                          MCKAY
+          (sin mirar)
+          La respuesta es no.
+
+                          CARTER
+          No pregunté nada.
+
+                          MCKAY
+          Pero ibas a hacerlo. Siempre
+          haces esa cara antes de
+          preguntar. "¿Podemos
+          estabilizarlo más tiempo?"
+          No. No podemos.
+
+                          CARTER
+          Preparados para el intento
+          número cuarenta y siete.
+
+                          MCKAY
+          Cuarenta y ocho. El cuarenta
+          y siete fue el miércoles
+          pasado y no cuenta.
+
+Un TÉCNICO levanta la voz.
+
+                          TÉCNICO
+          Supergate activa. Anillo
+          girando. Chevrones marcando...
+          siete, ocho, nueve.
+
+La pantalla gigante muestra la SALA DE COMPUERTAS DE LA DESTINY. Vacía. Polvo.
+
+                          MCKAY
+          (sin aliento)
+          ¡Lo logramos! ¡Cuarenta y
+          siete segundos!
+
+                          CARTER
+          (mira fijamente)
+          Es ella. Es la Destiny.
+
+El equipo vitorea. Carter no sonríe.
+
+                          CARTER (CONT.)
+          (para sí)
+          ¿Dónde estás, Eli?
+
+[BLENDER] Sala de control: pantallas holográficas azules. Iluminación fría (5500K). Contrasta con calidez de Destiny en la pantalla.
+
+--- 
+
+### ESC 5 — INT. DESTINY - PASILLO — PRESENTE
+
+Eli camina con paso rápido. Las luces se encienden en cascada a su paso. Detrás de él, vuelven a oscurecerse.
+
+PASAJERO — Una pared cubierta de marcas. Miles de rayas verticales, agrupadas en bloques de diez. Una pared entera. Cada marca es un día.
 
 Eli pasa sin mirarla. Ya no las necesita.
 
 Llega a:
 
----
+--- 
 
-### ESC 3 — INT. DESTINY - SALA DE COMPUERTAS — DÍA (NAVE)
+### ESC 6 — INT. DESTINY - SALA DE COMPUERTAS — PRESENTE
 
-La sala de compuertas está vacía. Silenciosa. Cubierta de polvo.
+La sala de compuertas está vacía. Polvo. Silencio.
 
-El Stargate — más delgado que los de la galaxia Pegasus, con un diseño más
-antiguo, más puro — está inactivo. Sin luz. Sin vida.
+El Stargate — más delgado que los de Pegasus, diseño más antiguo, más puro — está inactivo.
 
 Eli entra. Se detiene frente al gate. Espera.
 
 Un segundo. Dos.
 
-El STARGATE COMIENZA A GIRAR. Lentamente al principio, luego con más velocidad.
-Los chevrones se bloquean: uno, dos, tres... siete, ocho...
+El STARGATE COMIENZA A GIRAR. Lentamente, luego más rápido. Los chevrones se bloquean: uno, dos, tres... siete, ocho...
 
-El noveno chevron. El que solo la Destiny puede marcar.
+El NOVENO CHEVRON. El que solo la Destiny puede marcar.
 
-Se bloquea con un CLANG metálico que resuena en toda la sala.
+Se bloquea con un CLANG metálico que resuena.
 
-El vórtice irrumpe. Azul, blanco, energía pura. Se estabiliza en un plano
-vertical. La sala se inunda de luz.
+El vórtice irrumpe. Azul, blanco, energía pura. Se estabiliza.
 
-Eli lo observa. No hay sorpresa. Hay una sonrisa. Pequeña. Triunfal.
+Eli lo observa. Sonríe. Pequeña. Triunfal.
 
-                         ELI
-          Te dije que no me había olvidado
-          de ti.
+                          ELI
+          Te dije que no me había
+          olvidado de ti.
 
-[BLENDER] Stargate: Versión Destiny. Círculo más delgado, sin DHD en la base.
-Giro con chevrones bloqueándose individualmente (cada uno con destello). Vórtice:
-partículas azules con centro blanco, iluminación dinámica que baña toda la sala.
-Eli en silueta parcial, iluminado por detrás por el vórtice.
+[BLENDER] Stargate versión Destiny. Giro con chevrones bloqueándose individualmente. Vórtice: partículas azules, centro blanco. Eli en silueta.
 
-FUNDE A NEGRO.
-
-TÍTULO PRINCIPAL: STARGATE: DESTINY
+**TÍTULO PRINCIPAL: STARGATE: DESTINY**
 
 ---
 
 ## ACTO UNO
 
-### ESC 4 — INT. SGC - SALA DE CONTROL — DÍA
+### ESC 7 — INT. SGC - SALA DE BRIEFING — DÍA
 
-La sala de control del Stargate Command. Modernizada respecto a la serie original.
-Pantallas delgadas y curvas recubren las paredes. Proyecciones holográficas
-flotan sobre las consolas. Técnicos en uniforme azul oscuro trabajan con
-concentración.
+Sala con mesa ovalada. Proyector holográfico muestra imagen rotativa de la Destiny.
 
-En el centro de la acción, la GENERAL SAMANTHA CARTER. Cincuenta años. Uniforme
-de general impecable. Cabello con ligeras canas. Mirada seria, enfocada.
+Presentes:
+- CARTER, al frente
+- McKAY, desplomado con café
+- MAYOR ALEX CHEN (34, uniforme táctico, mirada inteligente)
+- DRA. LENA PETROVA (38, bata blanca, gafas, expresión seria)
+- SARGENTO JAMES "HAWK" HAWKINS (29, grande, silencioso)
 
-Frente a ella, una pantalla muestra datos de energía en tiempo real. Los números
-fluctúan.
+                          CARTER
+          Cuarenta y ocho segundos.
+          Es nuestro récord. Pero no
+          es suficiente.
 
-A su lado, el DR. RODNEY MCKAY ajusta algo en un pedestal que contiene un ZPM
-MEJORADO — más grande que los ZPM estándar, con un brillo azul más intenso y un
-revestimiento metálico de aleación Asgard en su base.
+Proyecta la Supergate.
 
-                         MCKAY
-          (sin mirar a Carter)
-          La respuesta es no.
-
-                         CARTER
-          No pregunté nada.
-
-                         MCKAY
-          Pero ibas a hacerlo. Siempre
-          haces esa cara antes de preguntar.
-          "¿Podemos estabilizarlo más
-          tiempo?" No. No podemos. A menos
-          que tengas otro ZPM guardado en
-          el bolsillo.
-
-                         CARTER
-          Rodney.
-
-                         MCKAY
-          ¿Qué? Estoy siendo optimista.
-          En serio. Podría haber dicho que
-          ni con otro ZPM.
-
-Carter sonríe ligeramente. No se gira.
-
-                         CARTER
-          Preparados para el intento
-          número cuarenta y siete.
-
-                         MCKAY
-          Cuarenta y ocho. El cuarenta y
-          siete fue el miércoles pasado,
-          y no cuento ese porque el equipo
-          de refrigeración falló antes de
-          empezar.
-
-                         CARTER
-          Cuarenta y ocho, entonces. Todos
-          en posición.
-
-Los técnicos se preparan. McKay coloca sus manos sobre el pedestal del ZPM.
-
-                         TÉCNICO
-          Supergate activa. Anillo girando.
-          Chevrones marcando...
-
-En una pantalla gigante, vemos la SUPERGATE — una estructura de segmentos
-metálicos, más pequeña que la Supergate Ori pero igualmente imponente.
-
-                         TÉCNICO (CONT.)
-          ...siete, ocho, nueve.
-
-El noveno chevron se marca. La energía fluye.
-
-La pantalla muestra la SALA DE COMPUERTAS DE LA DESTINY. Vacía. Polvo. Luces
-apagadas.
-
-                         MCKAY
-          (sin aliento)
-          Lo logramos. Lo logramos.
-          ¡Cuarenta y siete segundos!
-
-                         CARTER
-          (mirando la pantalla)
-          Es ella. Es la Destiny.
-
-El equipo vitorea. Carter no sonríe. Mira fijamente la imagen de la nave vacía.
-
-                         CARTER (CONT.)
-          (para sí)
-          ¿Dónde estás, Eli?
-
-[BLENDER] Sala de control: pantallas holográficas azules, consolas táctiles.
-Iluminación fría (5500K). Contraste con la calidez de la Destiny en pantalla.
-ZPM: emisión azul intensa con partículas. Cámara: 35mm para establecimiento,
-70mm para close-ups de Carter y McKay.
-
----
-
-### ESC 5 — INT. SGC - SALA DE BRIEFING — DÍA
-
-Una sala con una larga mesa ovalada. En el centro, un proyector holográfico
-muestra una imagen rotativa de la Destiny.
-
-Presentes en la mesa:
-
-- CARTER, al frente.
-- McKAY, desplomado en una silla con una taza de café.
-- MAYOR ALEX CHEN, 34, uniforme táctico, postura militar, mirada inteligente.
-- DRA. LENA PETROVA, 38, bata blanca, gafas, expresión seria.
-- SARGENTO JAMES "HAWK" HAWKINS, 29, grande, silencioso, en una esquina.
-
-                         CARTER
-          Cuarenta y ocho segundos. Es
-          nuestro récord. Pero no es
-          suficiente.
-
-Proyecta la imagen de la Supergate.
-
-                         CARTER (CONT.)
+                          CARTER (CONT.)
           El Proyecto Puente tiene un
           objetivo: una conexión estable
           y permanente. No minutos.
-          Días. Semanas. El tiempo que
-          sea necesario.
+          Días. Semanas.
 
-                         CHEN
-          ¿Y el consumo energético?
+                          CHEN
+          ¿El consumo energético?
 
-                         MCKAY
-          (sin levantar la vista del café)
-          Catastrófico. Pero tenemos tres
-          ZPM mejorados, un núcleo de
-          procesamiento Asgard donado
-          personalmente por Thor — que
-          en paz descanse —, la
+                          MCKAY
+          (sin levantar la vista)
+          Catastrófico. Pero tenemos
+          tres ZPM mejorados, un núcleo
+          Asgard donado por Thor — que
+          en paz descanse — y la
           experiencia de haber construido
-          la Supergate, y...
-          (suspira)
-          ...a mí.
+          la Supergate.
 
-                         PETROVA
+                          PETROVA
           ¿Y al otro lado? ¿Qué sabemos
-          del estado de la nave?
+          de la nave?
 
-                         CARTER
+                          CARTER
           Nada. Cada intento nos da una
           ventana demasiado corta para
-          recopilar datos. Sabemos que
-          la nave está ahí. Sabemos que
-          sus sistemas de soporte vital
-          siguen activos — los sensores
-          lo confirman.
+          recopilar datos.
 
-                         HAWKINS
+                          HAWKINS
           ¿Y la tripulación?
 
 Silencio. Carter lo mira.
 
-                         CARTER
+                          CARTER
           No lo sabemos. Las cámaras de
           estasis... no pudimos
-          verificar su estado en las
-          ventanas que tuvimos.
+          verificarlo.
 
-                         CHEN
+                          CHEN
           ¿Cuál es el plan, General?
 
-                         CARTER
-          El plan es simple. Vamos a
-          abrir un agujero de gusano y
-          mantenerlo abierto. Vamos a
-          cruzar. Y vamos a descubrir
-          qué pasó con la Destiny.
+                          CARTER
+          Vamos a abrir un agujero de
+          gusano y mantenerlo abierto.
+          Vamos a cruzar. Y vamos a
+          descubrir qué pasó.
 
-[BLENDER] Briefing: Mesa con proyector holográfico. Iluminación cenital suave.
-Tonos azules. Cámara: planos medios, over-shoulders. La proyección de la Destiny
-flota sobre la mesa.
+--- 
 
----
+### ESC 8 — INT. SGC - CÁMARA DEL ZPM — DÍA
 
-### ESC 6 — INT. SGC - CÁMARA DEL ZPM — DÍA
-
-Una sala más pequeña, llena de equipos. El ZPM mejorado está en el centro,
-conectado a cables gruesos que recorren el suelo y las paredes.
+Sala pequeña, llena de equipos. El ZPM MEJORADO está en el centro — más grande que los estándar, con brillo azul intenso y revestimiento metálico Asgard.
 
 Carter y McKay están solos.
 
-McKay hace ajustes en un panel de control. Sin hablar.
-
-                         CARTER
+                          CARTER
           Rodney. ¿Qué no me estás
           diciendo?
 
-McKay se detiene. Exhala.
+McKay exhala.
 
-                         MCKAY
-          Si esto falla, Sam... no es
-          solo que perdamos la conexión.
-          La retroalimentación energética
-          podría llevarse medio complejo
-          con ella.
+                          MCKAY
+          Si esto falla... la
+          retroalimentación energética
+          podría llevarse medio complejo.
 
-                         CARTER
-          (asiente)
+                          CARTER
           Lo sé.
 
-                         MCKAY
-          Y no es solo eso. El agujero de
-          gusano tiene que apuntar a un
-          destino en movimiento. La Destiny
-          no está estacionaria. Viaja a
-          velocidades que no podemos
-          calcular con precisión porque
-          no sabemos dónde está.
+                          MCKAY
+          Y el agujero de gusano apunta
+          a un destino en movimiento.
+          La nave viaja más rápido de
+          lo que debería. Como si
+          estuviera siendo arrastrada.
 
-                         CARTER
-          Tenemos los datos de los
-          últimos intentos. La trayectoria...
+                          CARTER
+          (pausa)
+          ¿Y si él no está vivo?
 
-                         MCKAY
-          Ha cambiado. Cada vez. La nave
-          se mueve más rápido de lo que
-          debería. Como si estuviera
-          siendo... no sé... arrastrada.
+                          MCKAY
+          (pausa larga)
+          Entonces al menos sabremos
+          que lo intentamos.
 
-Carter procesa esto.
+--- 
 
-                         MCKAY (CONT.)
-          Sam. Baja la voz. ¿Y si él no
-          está vivo?
+### ESC 9 — FLASHBACK — INT. DESTINY - PUENTE — HACE 8 AÑOS — DÍA (NAVE)
 
-                         CARTER
-          (pausa larga. Duele.)
-          Entonces al menos sabremos que
-          lo intentamos.
+Eli joven está solo en el puente. Acaba de descubrir las cámaras de estasis. Tiene una tableta en las manos.
 
-McKay la mira. Asiente lentamente. Vuelve a su trabajo.
+Lee los nombres. Young. Rush. Scott. Greer. Johansen. Armstrong. Riley.
 
-[BLENDER] ZPM mejorado: diseño más robusto que el clásico, con carcasa metálica
-Asgard en la base, cristal azul brillante. Cables de energía gruesos. Iluminación
-fría. Close-ups del ZPM con partículas de energía fluyendo.
+Todos están dormidos.
 
----
+                          ELI JOVEN
+          (voz quebrada)
+          ¿Alguien?
 
-### ESC 7 — EXT. SUPERGATE - TERMINAL DE CONTROL — DÍA
+Silencio.
 
-Una plataforma exterior. El cielo es azul claro. En la distancia, la Supergate
-se eleva: un anillo de segmentos metálicos de proporciones colosales.
+Eli joven se sienta en el suelo. Abraza sus rodillas. Por primera vez, entiende su situación.
 
-Carter, McKay y el equipo SG-D están en la terminal de control. Técnicos
-ultiman los preparativos.
+Está solo. En una nave. Perdido en el universo.
 
-                         MCKAY
+Su respiración se acelera. Ataque de pánico.
+
+**CORTE A:**
+
+--- 
+
+### ESC 10 — EXT. SUPERGATE - TERMINAL DE CONTROL — DÍA
+
+Plataforma exterior. Cielo azul claro. La SUPERGATE se eleva: anillo de segmentos metálicos colosales.
+
+Carter, McKay y SG-D están en la terminal.
+
+                          MCKAY
           (nervioso)
           Bueno. Aquí vamos. ¿Alguien
-          quiere decir algo bonito antes
-          de que posiblemente fríamos
-          media ciudad?
+          quiere decir algo bonito
+          antes de que fría media
+          ciudad?
 
-                         HAWKINS
+                          HAWKINS
           (sin emoción)
           Será un honor servir, señora.
 
-                         MCKAY
-          Eso no es bonito. Eso es
-          militarmente funcional.
+                          MCKAY
+          Eso es militarmente funcional.
 
-                         CARTER
+                          CARTER
           (sonrisa leve)
           Rodney. Actívalo.
 
-McKay asiente. Coloca sus manos sobre el panel.
+McKay coloca sus manos sobre el panel.
 
-                         MCKAY
-          Activando secuencia. Marcar
-          noveno chevron. Conexión
-          estable solicitada.
+                          MCKAY
+          Activando secuencia.
+          Marcando noveno chevron.
+          Conexión estable solicitada.
 
-La Supergate COBRA VIDA. Los segmentos se iluminan en secuencia, un anillo de
-luz azul que gira, se acelera.
+La Supergate COBRA VIDA. Los segmentos se iluminan en secuencia. La energía fluye. El suelo vibra.
 
-La energía fluye. El suelo vibra.
-
-                         TÉCNICO
+                          TÉCNICO (V.O.)
           ¡Conexión estable!
-          ¡No colapsa!
 
-La pantalla muestra la compuerta de la Destiny. Vacía. Polvo. Pero esta vez
-la imagen no parpadea. Se mantiene firme.
+La pantalla muestra la compuerta de la Destiny. Vacía. Polvo. Pero la imagen no parpadea. Se mantiene firme.
 
-                         MCKAY
+                          MCKAY
           (incrédulo)
           Lo logré. Lo logré. Lo...
 
 Una FIGURA emerge de la oscuridad al otro lado del portal.
 
-Todos en la terminal se quedan quietos.
+Todos se quedan quietos.
 
-La figura camina lentamente hacia la luz de la compuerta. Se detiene frente
-al haz. Sonríe.
+La figura camina lentamente hacia la luz. Se detiene frente al haz. Sonríe.
 
-                         ELI (desde el portal)
+                          ELI (desde el portal)
           ¿Se tomaron su tiempo, eh?
 
-[BLENDER] Supergate: anillo de segmentos metálicos iluminados en azul. Escala
-masiva. Partículas de energía fluyendo entre segmentos. Cámara: 24mm, amplio,
-todo en foco para mostrar escala.
+[BLENDER] Supergate: anillo de segmentos iluminados en azul. Escala masiva. Partículas de energía. Cámara: 24mm, amplio, todo en foco.
 
----
+--- 
 
-## ACTO DOS
-
-### ESC 8 — INT. SGC - COMPUERTA / DESTINY - COMPUERTA
-
-A través del portal, el SGC y la Destiny están conectados. Dos mundos separados
-por un plano de luz.
+### ESC 11 — INT. DESTINY - SALA DE COMPUERTAS — CONTINUACIÓN
 
 Eli está frente a la compuerta, del lado de la Destiny.
 
-Carter se acerca a la compuerta, del lado de la Tierra.
+Carter se acerca del lado de la Tierra.
 
 Se miran a través del vórtice.
 
-                         CARTER
+                          CARTER
           (voz quebrada)
           Eli...
 
-                         ELI
+                          ELI
           (sonrisa amplia)
           Hola, General. La veo bien.
           ¿El uniforme nuevo?
 
-                         CARTER
+                          CARTER
           (ríe, casi llora)
           ¿Cómo... cómo estás?
 
-                         ELI
+                          ELI
           (pausa. Honesto.)
           He estado mejor. Pero también
           he estado peor.
 
-Mira alrededor de la sala de control.
+Mira alrededor.
 
-                         ELI (CONT.)
+                          ELI (CONT.)
           Luce diferente. ¿Pintaron?
 
-                         CARTER
+                          CARTER
           (recuperándose)
           Actualizamos el sistema.
           Hace dos años.
 
-                         ELI
+                          ELI
           (asintiendo)
           Dos años. Para ustedes.
           (pausa)
           Para mí... fueron diez.
 
-Silencio. Carter procesa. Todos procesan.
+Silencio. Carter procesa.
 
-                         ELI (CONT.)
+                          ELI (CONT.)
           ¿Van a quedarse ahí mirando
-          o van a cruzar? Hace frío aquí.
-          Y el sistema de calefacción
-          lleva años funcionando a
-          medio gas.
+          o van a cruzar? Hace frío
+          aquí.
 
-[BLENDER] Composición cuidadosa: la compuerta divide el encuadre en dos mitades.
-Lado Tierra: frío, azul, luz blanca. Lado Destiny: cálido, ámbar, polvo en
-suspensión. Cámara: 50mm, f/2.8. Profundidad de campo para mostrar ambos lados.
+[BLENDER] Compuerta divide el encuadre en dos mitades. Lado Tierra: frío, azul. Lado Destiny: cálido, ámbar, polvo.
 
----
+--- 
 
-### ESC 9 — INT. DESTINY - SALA DE COMPUERTAS — DÍA (NAVE)
+### ESC 12 — INT. DESTINY - SALA DE COMPUERTAS — MOMENTOS DESPUÉS
 
 El equipo SG-D cruza el portal. Uno por uno.
 
-Chen es el primero. Mira alrededor, evaluando el entorno tácticamente. Luego
-Petrova, con una tableta, registrando datos. Hawkins, último, con una P-90
-en posición baja pero lista.
+Chen es el primero. Mira alrededor, evaluando tácticamente. Petrova con tableta, registrando. Hawkins último, P-90 en posición baja.
 
-Eli los observa. Hay un leve extrañamiento en su mirada — no está acostumbrado
-a tener gente alrededor.
+Eli los observa con extrañeamiento.
 
-                         CHEN
-          (a Carter, por el comunicador)
-          General. Estamos dentro. La
-          sala de compuertas coincide
-          con los registros. Presencia
-          de polvo, temperatura baja,
-          sistemas en standby.
+                          CHEN
+          (a Carter, comunicador)
+          General. Estamos dentro.
+          Sala de compuertas coincide
+          con registros.
 
-                         ELI
-          (a Chen, con un tono
-           amable pero distante)
+                          ELI
+          (tono amable pero distante)
           Pueden hablar directamente.
           No soy un mueble.
 
-Chen lo mira. Asiente.
+Chen asiente.
 
-                         CHEN
+                          CHEN
           Disculpe. Es el protocolo.
 
-                         ELI
+                          ELI
           (sonrisa)
           Lo sé. Fui yo quien lo
           escribió, hace diez años.
-          Bueno, ayudé.
 
-Eli los guía hacia la salida de la sala.
+Eli los guía.
 
-                         ELI (CONT.)
+                          ELI (CONT.)
           Vengan. Les enseñaré su nuevo
           hogar. Tiene todo lo que una
           persona podría desear:
           oscuridad, frío, y un zumbido
           molesto en el sector siete.
 
-                         PETROVA
+                          PETROVA
           (tomando notas)
           ¿El sector siete?
 
-                         ELI
+                          ELI
           Ahora es el sector ocho.
-          El siete colapsó el año pasado.
+          El siete colapsó el año
+          pasado.
 
-Eli camina delante. Chen y Hawkins intercambian una mirada. Lo siguen.
+Chen y Hawkins intercambian una mirada. Lo siguen.
 
-[BLENDER] Cruce del portal: efecto de ondulación al atravesar el vórtice.
-Participantes iluminados por el azul del agujero de gusano. Cámara: 35mm, captura
-el momento de transición de cada miembro del equipo.
+--- 
 
----
+### ESC 13 — INT. DESTINY - PASILLO — CONTINUACIÓN
 
-### ESC 10 — INT. DESTINY - PASILLO Y COMEDOR — DÍA (NAVE)
+Montaje de exploración.
 
-Montaje de la primera exploración.
+Eli conduce al equipo. Las luces se encienden al pasar.
 
-Eli conduce al equipo a través de pasillos estrechos. Las luces se encienden
-a su paso, pero algunas secciones permanecen a oscuras.
+PASAJERO — La pared de días. Hawkins se detiene. La observa.
 
-Llegan al COMEDOR. Una sala amplia con mesas metálicas empotradas. En una
-esquina, una vela LED está encendida. Hay un plato sucio. Una taza.
+                          HAWKINS
+          (contando mentalmente)
+          ¿Ocho años?
 
-En la pared: LA PARED DE DÍAS.
-
-Miles de marcas. Cada una un día.
-
-Petrova se detiene frente a la pared. Su tableta de datos cuelga a su lado.
-No la usa. Solo mira.
-
-                         PETROVA
-          ¿Son... todos?
-
-                         ELI
+                          ELI
           (sin detenerse)
-          Cada uno.
+          Dos en estasis. Ocho despierto.
 
-                         PETROVA
-          (calculando)
-          Más de cuatro mil.
+                          HAWKINS
+          (sigue caminando)
+          Son muchos días.
 
-                         ELI
-          (desde el fondo del comedor)
-          Cuatro mil trescientos ochenta
-          y siete. Hoy es cuatro mil
-          trescientos ochenta y ocho.
-          Aún no hago la marca.
-
-Hawkins silba, impresionado.
-
-                         HAWKINS
-          (bajo)
-          Diez años. Solo.
-
-                         ELI
-          (corrige suavemente)
-          Diez años. Con la nave.
-          (sonrisa)
-          No es lo mismo.
-
-Una pequeña ESFERA FLOTANTE aparece desde una esquina. Es un KINO, pero
-modificado — tiene parches, una luz que parpadea irregularmente, como si
-cojeara.
-
-Eli lo ve. Sonríe.
-
-                         ELI (CONT.)
-          Ah, llegaste. Les presento a
-          Wilson.
-
-                         CHEN
-          (sin comprender)
-          ¿Wilson?
-
-                         ELI
-          El primer kino que logré
-          reparar. Los otros... no
-          sobrevivieron.
-
-Wilson flota alrededor de Eli, como un perro saludando a su dueño.
-
-                         ELI (CONT.)
-          Habla poco. Pero escucha bien.
-
-[BLENDER] Comedor: Iluminación cálida (vela LED, 2200K). Contraste con el azul
-de los uniformes SG-D. Pared de días: Geometry Nodes que generan miles de marcas
-con profundidad variable. Wilson: kino con textura de reparaciones, luz
-parpadeante, animación de flotación ligeramente inestable.
-
----
-
-### ESC 11 — INT. DESTINY - DORMITORIO DE ELI — DÍA (NAVE)
-
-El antiguo dormitorio común de la tripulación. Literas vacías. Polvo.
-
-Una esquina ha sido convertida en espacio personal. Una manta doblada. Pilas de
-libros — algunos en inglés, otros con escritura Ancient. Dispositivos
-desarmados. Una PLANTA SECA en una maceta.
-
-Eli entra. Chen lo sigue.
-
-                         CHEN
-          (mirando alrededor)
-          Aquí vivió.
-
-                         ELI
-          (corrige, sin drama)
-          Aquí vivo.
-
-                         CHEN
-          (asiente, corrigiendo)
-          Aquí vive.
-
-Pausa. Chen recoge uno de los libros. Es un cuaderno escrito a mano.
-
-                         CHEN (CONT.)
-          ¿Qué es?
-
-                         ELI
-          Mi diario. Los primeros dos
-          años. Después dejé de escribir.
-          No había nada nuevo que decir.
-
-                         CHEN
-          (dejando el cuaderno)
-          ¿Cómo lo hizo? Diez años solo.
-          Sin volverse loco.
-
-                         ELI
-          (piensa. Luego sonríe.)
-          ¿Quién dice que no me volví
-          loco? Solo que encontré una
-          manera productiva de estarlo.
-
-Señala la planta seca.
-
-                         ELI (CONT.)
-          Ella me ayudó. Al principio.
-          Hablaba con ella. Le contaba
-          mis teorías. Luego se murió.
-          Y seguí hablando.
-
-                         CHEN
-          (pausa. Con respeto.)
-          Es... increíble. Lo que hizo.
-
-                         ELI
-          (serio)
-          No fue increíble. Fue
-          necesario. Hay una diferencia.
-
-[BLENDER] Dormitorio: atmósfera íntima y melancólica. Vela LED como única fuente
-de luz cálida. Sombras largas. Primeros planos de detalles: la planta seca, los
-cuadernos, el kino reparado.
-
----
-
-### ESC 12 — INT. SGC - SALA DE CONTROL — DÍA
-
-Carter está en la sala de control, viendo las imágenes que llegan de la
-Destiny a través de la cámara de Chen.
-
-                         TÉCNICO
-          Señal estable. Latencia de
-          cuarenta milisegundos.
-
-                         CARTER
-          (al comunicador)
-          SG-D, aquí Carter. ¿Cómo
-          reciben?
-
-                         CHEN (V.O.)
-          Cinco por cinco, General.
-          Estamos en el dormitorio
-          principal. Eli está con
-          nosotros.
-
-                         CARTER
-          Eli. ¿Puedes oírme?
-
-                         ELI (V.O.)
-          (con eco)
-          Alto y claro, General.
-          La conexión es mejor de lo
-          que esperaba. McKay hizo un
-          buen trabajo.
-
-McKay, que está al lado de Carter, hace una mueca.
-
-                         MCKAY
-          (murmura)
-          "Buen trabajo." Claro. Como
-          si fuera fácil estabilizar
-          un agujero de gusano a través
-          de... ¿cuántas galaxias?
-
-                         CARTER
-          (ignorándolo)
-          Eli. Necesito que lleves a
-          Chen al puente. Quiero ver
-          los registros de navegación.
-
-                         ELI (V.O.)
+                          ELI
           (pausa)
-          Claro. Pero... prepárese,
-          General. Hay cosas que han
-          cambiado. La nave no es la
-          misma que usted recuerda.
+          Los primeros mil son los
+          más difíciles.
 
-Carter frunce el ceño.
+--- 
 
-                         CARTER
-          ¿A qué te refieres?
+### ESC 14 — INT. DESTINY - COMEDOR — DÍA (NAVE)
 
-                         ELI (V.O.)
-          (larga pausa)
-          Es mejor que lo vea usted
-          misma.
+El comedor de la tripulación. Mesas largas. Una pizarra con anotaciones de Eli.
 
-[BLENDER] Sala de control: planos alternados entre Carter en la consola y la
-imagen de la Destiny en pantalla. Luces frías.
+Petrova examina la pizarra. Notación matemática avanzada. Diagramas de la nave.
 
----
+                          PETROVA
+          (impresionada)
+          ¿Usted hizo todo esto?
 
-## ACTO TRES
+                          ELI
+          Tenía tiempo.
 
-### ESC 13 — INT. DESTINY - PUENTE — DÍA (NAVE)
+Chen revisa una consola.
 
-El puente de la Destiny. Más iluminado que antes — Eli ha activado sistemas
-adicionales. Consolas emiten luz azul y ámbar.
+                          CHEN
+          Sistemas de armas?
 
-Eli está frente a una consola principal. Chen, Petrova y Hawkins observan.
+                          ELI
+          No hay. La Destiny no es
+          una nave de guerra. Es de
+          exploración.
 
-                         PETROVA
-          (maravillada)
-          Es... más grande de lo que
-          parecía en los registros.
+                          HAWKINS
+          ¿Defensas?
 
-                         ELI
-          Eso dice todo el mundo.
-          (a la consola)
-          Destiny. Proyectar registro
-          de navegación. Últimos diez
-          años.
+                          ELI
+          Escudos. Pero están al
+          treinta por ciento. Y no
+          tengo idea de cómo
+          repararlos del todo.
 
-La pantalla principal cobra vida. Un MAPA ESTELAR aparece. Puntos de luz
-representan estrellas, galaxias. Una línea roja muestra la trayectoria de
-la Destiny.
+Carter aparece en una pantalla portátil — conexión desde Tierra.
 
-La línea es irregular. Acelera. Cambia de dirección. Se detiene. Acelera de
-nuevo.
+                          CARTER
+          (desde pantalla)
+          SG-D ha establecido base.
+          Eli, necesito que me des
+          un informe completo del
+          estado de la nave.
 
-                         PETROVA
-          (analizando)
-          Eso no es un viaje normal.
-          La nave... ¿estaba siguiendo
-          algo?
-
-                         ELI
-          Exacto. Hace unos siete años,
-          los sistemas de navegación
-          empezaron a recibir señales.
-          Las sembradoras.
-
-                         CHEN
-          ¿Las naves que colocan los
-          Stargates?
-
-                         ELI
-          Las mismas. Pero dejaron de
-          construir. Empezaron a
-          transmitir. Coordenadas.
-          Patrones. Datos.
-
-La pantalla amplía una región del mapa. Miles de puntos de luz conectados
-por líneas tenues, formando una red.
-
-                         ELI (CONT.)
-          Es como si alguien hubiera
-          dejado marcadores. Migas de
-          pan. Y la nave las está
-          siguiendo.
-
-                         HAWKINS
-          ¿Alguien? ¿Quién?
-
-                         ELI
-          (sonrisa críptica)
-          Buena pregunta. Llevo años
-          intentando responderla.
-
-[BLENDER] Puente: holograma 3D del mapa galáctico. Líneas rojas de trayectoria.
-Puntos azules de estrellas. Efecto de zoom y rotación. Eli manipulando con
-gestos. Iluminación de las consolas reflejada en los rostros.
-
----
-
-### ESC 14 — INT. DESTINY - PUENTE — CONTINUACIÓN
-
-Eli amplía una sección del mapa. Una zona donde las líneas convergen.
-
-                         ELI
-          Miren esto. Las sembradoras
-          no solo dejaban coordenadas.
-          Dejaban un patrón.
-
-La pantalla muestra un PATRÓN GEOMÉTRICO. Líneas que se cruzan en ángulos
-imposibles. Formas que parecen tridimensionales pero que no deberían existir
-en tres dimensiones.
-
-                         PETROVA
-          (fascinada)
-          Esto no es geometría estándar.
-          Estas dimensiones... no
-          existen.
-
-                         ELI
-          Existían. Los Antiguos las
-          conocían. Por eso construyeron
-          la Destiny.
-
-                         CHEN
-          (tratando de entender)
-          ¿La Destiny no era solo una
-          nave de exploración?
-
-                         ELI
-          (negando lentamente)
-          No. Era una nave de búsqueda.
-          Los Antiguos sabían que había
-          algo al final de este mapa.
-          Algo que descubrieron en el
-          fondo de microondas del
-          universo. Algo que los asustó
-          tanto que decidieron no
-          investigar más.
+                          ELI
           (pausa)
-          Pero construyeron una nave que
-          sí lo hiciera.
+          General... necesito dormir.
+          Llevo diez años sin dormir
+          tranquilo.
 
-Silencio en el puente.
+Carter lo mira. Asiente.
 
-                         ELI (CONT.)
-          Y nosotros estamos en ella.
+                          CARTER
+          Tómese el tiempo que
+          necesite.
 
-[BLENDER] Patrón geométrico: modelo 3D imposible. Líneas que conectan dimensiones
-extra. Colores: violeta, azul profundo. Reflejos en los rostros de los personajes.
+                          ELI
+          (casi agradecido)
+          Gracias.
 
----
+--- 
 
-### ESC 15 — INT. DESTINY - PUENTE — CONTINUACIÓN
+### ESC 15 — FLASHBACK — INT. DESTINY - TALLER — HACE 7 AÑOS
 
-Una ALERTA suena en la consola. Eli se gira.
+Eli joven (26) está en un taller improvisado. Piezas desarmadas por todas partes. Herramientas Ancient.
 
-                         ELI
-          ¿Qué...?
+En la mesa: un KINO. Roto. Abierto.
 
-La pantalla muestra un punto acercándose. Datos se despliegan rápidamente.
+Eli trabaja con concentración absoluta. Cableado. Soldadura Ancient. Prueba.
 
-                         ELI (CONT.)
-          (sorprendido)
-          Una sembradora. Está aquí.
-          Cerca.
+Conecta el kino a una fuente de energía.
 
-                         PETROVA
-          ¿Activa?
+El kino COBRA VIDA. El lente rojo se enciende.
 
-                         ELI
-          (asiente, incrédulo)
-          Muy activa. Está transmitiendo.
+El kino flota. Se estabiliza. Apunta su lente a Eli.
 
-La sembradora aparece en la pantalla. Una nave Ancient, con forma alargada,
-brazos mecánicos a los lados. Luces recorren su superficie.
+                          ELI JOVEN
+          (sonrisa enorme, primera vez
+           en meses)
+          Hola.
 
-Pero no está construyendo nada. Está... leyendo. Sensor después de sensor,
-iluminándose en secuencia.
+El kino parpadea. Gira.
 
-                         ELI (CONT.)
-          Nunca la había visto hacer
-          esto. Está... recolectando
-          datos.
+                          ELI JOVEN (CONT.)
+          Te voy a llamar Wilson.
+          Como el balón de Tom Hanks.
 
-                         CHEN
-          ¿De qué?
+Wilson emite un pitido. Eli ríe. Por primera vez en mucho tiempo.
 
-                         ELI
-          (mira el patrón en la pantalla)
-          Del camino.
+**CORTE A:**
 
-La sembradora emite una SEÑAL. La Destiny la recibe. La consola procesa.
+--- 
 
-La pantalla muestra un nuevo SÍMBOLO. Desconocido. Complejo. Pulsante.
+### ESC 16 — INT. DESTINY - PUENTE — PRESENTE — NOCHE (NAVE)
 
-                         ELI (CONT.)
-          (susurrando)
-          No es un mensaje.
+La nave está en "noche" — luces atenuadas.
 
-                         PETROVA
-          (sin aliento)
-          Es una dirección.
+Eli está sentado en el sillón del capitán. Wilson flota a su lado.
 
-[BLENDER] Sembradora: modelo Ancient detallado, brazos mecánicos, sensores
-iluminados en secuencia. Señal: ondas de energía visibles viajando hacia la
-Destiny.
+No duerme. Mira por la ventana. Las estrellas pasan.
 
----
-
-## ACTO CUATRO
-
-### ESC 16 — INT. DESTINY - PUENTE / SGC - SALA DE CONTROL
-
-La conexión empieza a fallar. La imagen parpadea. Estática.
-
-                         MCKAY (desde Tierra)
-          ¡El ZPM está sobrecargado!
-          ¡Tengo que cerrarlo!
-
-                         CARTER (desde Tierra)
-          ¡Espera! ¡Dame más tiempo!
-
-                         ELI
-          (a su consola, rápido)
-          ¡Estoy descargando los datos!
-          ¡Necesito treinta segundos!
-
-                         MCKAY
-          ¡No tienes treinta segundos!
-          ¡Tienes diez!
-
-                         ELI
-          (tecleando frenéticamente)
-          ¡Entonces diez!
-
-La estática aumenta. La imagen se distorsiona.
-
-                         CARTER
-          ¡Eli!
-
-                         ELI
-          (gritando)
-          ¡Tengo los datos! ¡Completos!
-          ¡Vuelvan a conectarme cuando
-          puedan!
-
-                         CARTER
-          (antes de que se corte)
-          ¡Lo haremos, Eli! ¡Lo...
-
-**CORTE.**
-
-La pantalla se apaga. Silencio en la Destiny.
-
-Eli se queda mirando la consola vacía. Respira hondo.
-
-                         ELI
-          (para sí)
-          Bueno. Al menos esta vez
-          duró más de un minuto.
-
-Se gira hacia el equipo SG-D, que lo mira.
-
-                         ELI (CONT.)
-          ¿Alguien más tiene hambre?
-          La máquina de comida del
-          comedor aún funciona. Más o
-          menos.
-
-[BLENDER] Efectos de estática: distorsión de la imagen, líneas de interferencia,
-audio que se corta gradualmente. Eli en el silencio posterior.
-
----
-
-### ESC 17 — INT. SGC - SALA DE BRIEFING — DÍA
-
-Unas horas después.
-
-Carter, McKay, Chen, Petrova, Hawkins y un nuevo participante:
-
-El DR. DANIEL JACKSON. Cincuenta y dos años. Vaqueros, camisa, chaqueta de
-cuero. Gafas de lectura en la mano. MIRA el patrón proyectado.
-
-Lleva varios minutos en silencio. Los demás esperan.
-
-                         MCKAY
-          (rompiendo el silencio)
-          ¿Alguien va a decir algo?
-          Porque tengo tres ZPM que
-          revisar y una sobrecarga
-          energética que analizar, así
-          que si pudiéramos...
-
-                         DANIEL
-          (sin apartar la vista)
-          Rodney.
-
-                         MCKAY
-          ¿Qué?
-
-                         DANIEL
-          Cállate un momento.
-
-McKay se calla. Eso solo pasa cuando Daniel lo dice en serio.
-
-Daniel da la vuelta a la mesa. Se acerca al holograma. Lo estudia desde
-otro ángulo.
-
-                         DANIEL (CONT.)
-          ¿De dónde sacaron esto?
-
-                         CARTER
-          La Destiny. Una sembradora lo
-          transmitió justo antes de que
-          la conexión cayera.
-
-                         DANIEL
-          (asiente, como confirmando)
-          Sabía que existía.
-
-Todos lo miran.
-
-                         CARTER
-          ¿Sabías que existía?
-
-                         DANIEL
-          (pausa)
-          Cuando estaba en la biblioteca
-          de los Antiguos... en Atlantis...
-          encontré archivos cifrados.
-          Nunca pude abrirlos. No tenía
-          la clave.
-          (señala el patrón)
-          Esto es la clave.
-
-                         PETROVA
-          ¿Para qué?
-
-                         DANIEL
-          (mira a Carter)
-          Sam. Los Antiguos sabían que
-          había algo en el universo.
-          Algo en la estructura misma
-          de la realidad. Descubrieron
-          un patrón. Una firma. Algo que
-          no debería estar ahí.
-          (pausa)
-          Encontraron esto. Y nunca
-          hablaron de ello.
-
-                         CARTER
-          ¿Nunca?
-
-                         DANIEL
-          (grave)
-          Nunca. Lo cifraron. Lo
-          enterraron. Y construyeron la
-          Destiny para que llegara donde
-          ellos no pudieron.
-
-Silencio absoluto en la sala.
-
-                         DANIEL (CONT.)
-          (mirando el patrón)
-          Los Antiguos ya encontraron
-          esto una vez. Hace milenios.
-          Y decidieron no seguir
-          investigando.
-
-Pausa. Mira a Carter.
-
-                         DANIEL (CONT.)
-          Pregunta es: ¿nosotros vamos
-          a cometer el mismo error?
-
-[BLENDER] Briefing: iluminación baja, foco en el holograma. Daniel en primer
-plano, iluminado desde abajo por el patrón. Sombras dramáticas. Cámara lenta
-push-in hacia Daniel durante su diálogo final.
-
----
-
-### ESC 18 — INT. SGC - PASILLO — ATARDECER
-
-Carter camina sola por un pasillo vacío. Se detiene frente a una ventana.
-Afuera, el sol se pone.
-
-Su reflejo en el cristal. Parece cansada.
-
-Suenan pasos. Daniel se acerca. Se coloca a su lado.
-
-                         DANIEL
-          ¿Vas a dormir algo esta noche?
-
-                         CARTER
-          (sin mirarlo)
-          No.
-
-                         DANIEL
-          Pensé que dirías eso.
-
-Pausa. Miran el atardecer.
-
-                         DANIEL (CONT.)
-          Sam. Sé lo que estás pensando.
-
-                         CARTER
-          (sonrisa triste)
-          ¿Ah, sí?
-
-                         DANIEL
-          Estás pensando que si abrimos
-          esa puerta, no podemos cerrarla.
-          Que hay cosas que la humanidad
-          no está preparada para saber.
-          Que tal vez los Antiguos tenían
-          razón al callar.
-
-                         CARTER
-          (pausa)
-          Y si tengo razón, ¿qué?
-
-                         DANIEL
-          (sonríe)
-          Entonces estarías siendo
-          sensata. Y esa es una de las
-          razones por las que eres una
-          buena líder.
-
-Pausa.
-
-                         DANIEL (CONT.)
-          Pero también sé que eres
-          científica. Y que la curiosidad
-          nunca se jubila.
-
-Carter lo mira. Sonríe levemente.
-
-                         CARTER
-          Maldito arqueólogo.
-
-                         DANIEL
-          (riendo)
-          Siempre.
-
-[BLENDER] Pasillo: luz cálida del atardecer entrando por la ventana. Siluetas
-de Carter y Daniel. Cámara: plano medio, lento. Atmósfera contemplativa.
-
----
-
-## ACTO CINCO
-
-### ESC 19 — INT. DESTINY - PUENTE — NOCHE (NAVE)
-
-Eli está solo en el puente. Las luces están bajas. La pantalla principal
-está apagada.
-
-Él se sienta en el sillón del capitán. Wilson flota cerca, parpadeando.
-
-                         ELI
+                          ELI
           (a Wilson)
-          Bueno. Se fueron.
+          Se fueron.
 
 Wilson parpadea.
 
-                         ELI (CONT.)
-          Pero volverán. Lo sé.
+                          ELI (CONT.)
+          Dormir, quiero decir. No
+          puedo. Mi cerebro se
+          acostumbró a estar alerta.
+          Cada ruido podía ser el
+          fin.
 
-Mira por la ventana. El espacio exterior es un manto de estrellas densas.
-En la distancia, algo brilla. Una luz que no parpadea como las estrellas.
+Wilson emite un tono suave.
 
-                         ELI (CONT.)
-          (susurrando)
-          Te dije que volverían.
+                          ELI (CONT.)
+          Ahora hay gente. Y no sé si
+          eso es mejor o peor.
 
 Pausa.
 
-                         ELI (CONT.)
-          Ahora solo tenemos que
-          terminar lo que empezaste.
+                          ELI (CONT.)
+          Oye. ¿Tú crees que todavía
+          soy la misma persona?
 
-La cámara se aleja lentamente. Eli en el sillón, pequeño frente a la
-inmensidad de la ventana. La Destiny avanza. La luz en la distancia se
-acerca lentamente.
+Wilson no responde. Solo flota.
 
-[BLENDER] Plano final: cámara dolly out desde Eli. Composición: Eli en el
-centro, pequeño, la ventana gigante detrás. Estrellas afuera. Una luz
-brillante en lontananza. Música ambiental. Fundido lento.
+                          ELI (CONT.)
+          Yo tampoco lo sé.
 
----
+--- 
 
-### ESC 20 — EXT. LA ESTRUCTURA - ESPACIO (CLIFFHANGER)
+### ESC 17 — INT. DESTINY - SALA DE ESTASIS — PRESENTE
 
-**Flash fugaz.** Duración: 3 segundos.
+Eli lleva a Chen y Petrova a la sala de estasis.
 
-LA ESTRUCTURA.
+Las cápsulas están alineadas. Dentro: Young, Rush, Greer, Scott, Chloe, Johansen, Riley, y el resto de la tripulación.
 
-No es una construcción. No es un edificio ni una nave.
+Congelados. Como estatuas.
 
-Es algo que ha crecido.
+                          PETROVA
+          (fascinada y horrorizada)
+          ¿Todos...?
 
-Formas orgánicas en una escala imposible. Brazos de materia que se extienden
-como ramas de coral cósmico. Luces internas que pulsan con un ritmo lento,
-antiguo.
+                          ELI
+          Todos. Ciento y pico.
+          (señala una cápsula vacía)
+          Esa era la mía. Se dañó
+          cuando la Tierra intentó
+          contactar por primera vez.
+          El sistema de estasis falló.
+          Me despertó.
 
-En el centro: UN ANILLO. Del tamaño de una estrella. Una puerta.
+                          CHEN
+          ¿Y no pudiste repararla?
 
-Algo en la Estructura se mueve. Algo despierta.
+                          ELI
+          (pausa)
+          No. Y después de un tiempo...
+          dejé de intentarlo. Tal vez
+          no quería dormir.
+
+                          CHEN
+          ¿Por qué?
+
+                          ELI
+          (mira a la cápsula)
+          Porque si dormía, dejaba de
+          vigilar. Y si dejaba de
+          vigilar, la nave moría. Y
+          todos ellos con ella.
+
+Petrova mira a Eli con una mezcla de respeto y tristeza.
+
+                          PETROVA
+          Usted los mantuvo vivos.
+          Durante diez años.
+
+                          ELI
+          (corrige, suave)
+          Los mantuve vivos. No es
+          lo mismo que vivirlos.
+
+--- 
+
+### ESC 18 — INT. SGC - DESPACHO DE CARTER — NOCHE
+
+Carter está en su despacho. Mira fotos en su pantalla. Fotos del equipo original de la Destiny.
+
+Eli. Rush. Young. Scott. Chloe. Greer. TJ.
+
+La puerta se abre. Entra DANIEL JACKSON (57, barba, mirada arqueológica).
+
+                          DANIEL
+          ¿No vas a dormir?
+
+                          CARTER
+          (sonrisa cansada)
+          En un rato.
+
+Daniel se sienta frente a ella.
+
+                          DANIEL
+          Lo lograste, Sam. Lo
+          lograste.
+
+                          CARTER
+          (pausa)
+          No pude durante diez años,
+          Daniel. Diez años de
+          intentos. De fracasos. De
+          gente que me dijo que lo
+          dejara.
+
+                          DANIEL
+          Y no lo dejaste.
+
+                          CARTER
+          (mira la foto de Eli)
+          Eli lleva ocho años solo.
+          Ocho años. Y la primera
+          palabra que me dijo fue
+          "¿Se tomaron su tiempo?"
+
+                          DANIEL
+          Eso es muy Eli.
+
+                          CARTER
+          (casi llora)
+          No sé cómo va a estar.
+          Psicológicamente.
+          Ocho años. Solo.
+
+                          DANIEL
+          (pausa)
+          Es un superviviente, Sam.
+          Como tú. Van a estar bien.
+
+Carter asiente. No está segura.
+
+--- 
+
+### ESC 19 — FLASHBACK — INT. DESTINY - PUENTE — HACE 6 AÑOS
+
+Eli (27) está en el puente. Wilson flota. Han pasado cuatro años desde que despertó.
+
+Eli habla con Wilson como si fuera una persona.
+
+                          ELI
+          (explicando algo)
+          ...y entonces los Antiguos
+          lanzaron la Destiny hace
+          millones de años, antes de
+          los Stargates. Una nave de
+          exploración. Sin rumbo fijo.
+          Pero con un propósito:
+          recopilar datos.
+
+Wilson parpadea.
+
+                          ELI (CONT.)
+          ¿Sabes qué es lo más loco?
+          Que no hay nadie más. No
+          he encontrado señales de
+          otras civilizaciones en
+          todo este tiempo. Es como
+          si estuviéramos en medio
+          de la nada.
+
+Pausa.
+
+                          ELI (CONT.)
+          O tal vez ellas nos están
+          evitando.
+
+--- 
+
+### ESC 20 — INT. DESTINY - PUENTE — PRESENTE — DÍA (NAVE)
+
+Eli está frente a la consola. Analiza la señal de la Tierra.
+
+Petrova entra con café de la Tierra. Le ofrece una taza.
+
+                          ELI
+          (toma la taza, huele)
+          Café. Café de verdad.
+
+                          PETROVA
+          (sonrisa)
+          El Sargento Hawkins trajo
+          veinte kilos.
+
+                          ELI
+          (bebe, cierra los ojos)
+          Dios. Me había olvidado de
+          esto.
+
+Pausa. Disfruta el momento.
+
+                          ELI (CONT.)
+          (serio de repente)
+          La señal que mandaron...
+          no fue un accidente, ¿verdad?
+
+                          PETROVA
+          No. Fue el resultado de diez
+          años de trabajo.
+
+                          ELI
+          Diez años. Intentándolo.
+
+                          PETROVA
+          Sí.
+
+                          ELI
+          (pausa)
+          ¿Por qué? Quiero decir...
+          ¿por qué ahora? Después de
+          tanto tiempo.
+
+                          PETROVA
+          (sincera)
+          Porque no se rindieron.
+          El General Carter no se
+          rindió. El Dr. McKay no se
+          rindió. Y el Dr. Jackson
+          encontró algo... en los
+          archivos de Atlantis.
+
+Eli la mira, interesado.
+
+                          ELI
+          ¿Qué encontró?
+
+                          PETROVA
+          Dice que prefiere
+          mostrárselo usted mismo.
+          Dijo que no se lo cree
+          si lo oye de otra persona.
+
+Eli procesa. Asiente lentamente.
+
+--- 
+
+### ESC 21 — INT. DESTINY - SALA DE ESTASIS — NOCHE (NAVE)
+
+Eli está solo frente a la cápsula de RUSH.
+
+Nicholas Rush está congelado. Su rostro en reposo parece estar planeando algo incluso dormido.
+
+                          ELI
+          (a Rush, como si pudiera
+           oírlo)
+          Se conectaron. Después de
+          todo. Lograron lo que tú
+          querías.
+
+Pausa.
+
+                          ELI (CONT.)
+          Y yo sigo aquí. Ocho años
+          después. Como el perro
+          guardián.
+
+Wilson flota junto a él.
+
+                          ELI (CONT.)
+          (a Wilson)
+          ¿Sabes qué es lo peor?
+          Que a veces pienso que fue
+          mejor así. Que si hubiera
+          estado Rush, habría tomado
+          el control. Y yo... yo solo
+          quería sobrevivir.
+
+Se sienta en el suelo.
+
+                          ELI (CONT.)
+          Y ahora hay gente otra vez.
+          Y no sé si quiero compartirla.
+
+--- 
+
+### ESC 22 — INT. DESTINY - COMEDOR — DÍA (NAVE)
+
+El equipo ha improvisado un comedor funcional. Hawkins cocina algo en una estufa portátil. Chen revisa mapas. Petrova escribe.
+
+Eli entra. Se detiene. Observa la escena.
+
+Gente. Ruido. Vida.
+
+                          HAWKINS
+          (sin mirar)
+          ¿Tiene hambre, señor?
+
+                          ELI
+          (sorprendido por el "señor")
+          Uh... sí. Sí, creo que sí.
+
+Hawkins le sirve un plato de algo caliente. Eli se sienta. Mira la comida.
+
+                          ELI (CONT.)
+          (a Hawkins)
+          ¿De dónde sacaste esto?
+
+                          HAWKINS
+          Raciones militares.
+          Mejores que lo que
+          venden en la máquina
+          del SGC.
+
+Eli prueba. Por primera vez en la escena, su rostro se suaviza.
+
+                          ELI
+          (masticando)
+          Está bueno.
+
+                          HAWKINS
+          (asintiendo)
+          Lo sé.
+
+--- 
+
+### ESC 23 — INT. DESTINY - PUENTE — DÍA (NAVE)
+
+Carter aparece en la pantalla. Su rostro es serio.
+
+                          CARTER
+          Eli. Tenemos que hablar
+          sobre algo.
+
+                          ELI
+          (tenso)
+          Dígame.
+
+                          CARTER
+          La conexión que establecimos
+          no es permanente. Es una
+          ventana. La Superge consume
+          una cantidad enorme de
+          energía. Tenemos horas, no
+          días.
+
+                          ELI
+          (pausa)
+          ¿Cuántas horas?
+
+                          CARTER
+          Doce. Tal vez catorce si
+          McKay optimiza los ZPM.
+
+                          ELI
+          (procesa)
+          Doce horas. Después de diez
+          años. Doce horas.
+
+                          CARTER
+          Lo sé. Es...
+
+                          ELI
+          (interrumpe, firme)
+          Entonces no perdamos tiempo.
+          ¿Qué necesitan de mí?
+
+                          CARTER
+          (sorprendida por su
+           profesionalismo)
+          Necesito que me des todo
+          lo que has aprendido de
+          la nave. Sistemas, datos,
+          rutas. Y necesito que
+          decidas qué quieres hacer.
+
+                          ELI
+          (mirada directa)
+          ¿Qué quiere decir?
+
+                          CARTER
+          Puedes volver con nosotros.
+          Ahora. En estas doce horas.
+          O puedes quedarte.
+
+Silencio. Eli mira por la ventana.
+
+                          ELI
+          (voz baja)
+          No lo sé.
+
+--- 
+
+### ESC 24 — INT. SGC - SALA DE CONTROL — DÍA
+
+Carter y McKay trabajan contrarreloj. Técnicos corren de un lado a otro.
+
+                          MCKAY
+          La estabilidad del agujero
+          de gusano está decayendo.
+          El ZPM tres está
+          sobrecalentándose.
+
+                          CARTER
+          ¿Cuánto tiempo nos queda?
+
+                          MCKAY
+          (calculando)
+          Ocho horas. Nueve si hacemos
+          un milagro.
+
+                          CARTER
+          Entonces haz el milagro,
+          Rodney.
+
+                          MCKAY
+          (para sí)
+          Claro. Por qué no. Pida
+          otra cosa, ¿la luna?
+
+--- 
+
+### ESC 25 — FLASHBACK — INT. DESTINY - TALLER — HACE 3 AÑOS
+
+Eli (30) ha envejecido. Barba larga. Más delgado. Trabaja en una consola.
+
+Wilson está a su lado.
+
+De repente, la nave TIEMBLA. Un estremecimiento recorre el casco.
+
+Eli se queda quieto. Escucha.
+
+El temblor cesa.
+
+                          ELI
+          (a Wilson)
+          Otra vez.
+
+Wilson parpadea.
+
+                          ELI (CONT.)
+          No sé qué es. Los sensores
+          no registran nada. No hay
+          impacto. No hay tormenta.
+          Pero la nave tiembla.
+
+Anota algo en una tableta.
+
+                          ELI (CONT.)
+          Es la décima vez este año.
+          Cada vez que pasa, la
+          Destiny sale de FTL.
+
+Pausa.
+
+                          ELI (CONT.)
+          No me gusta.
+
+**CORTE A:**
+
+--- 
+
+### ESC 26 — INT. DESTINY - PUENTE — PRESENTE
+
+Eli está frente a la consola. Petrova a su lado.
+
+                          ELI
+          Los temblores. Las veces
+          que la nave salía de FTL
+          sin razón aparente.
+
+                          PETROVA
+          ¿Sí?
+
+                          ELI
+          (revelación)
+          Eran ustedes. Cada vez que
+          la Tierra intentaba conectar
+          el Stargate, la Destiny
+          respondía. Salía de FTL.
+          Como si recibiera una señal.
+
+                          PETROVA
+          (procesa)
+          La nave está programada
+          para detenerse cuando
+          recibe un intento de
+          conexión.
+
+                          ELI
+          Exacto. La Tierra llevaba
+          años llamando. Y la Destiny
+          contestaba... sin que yo lo
+          supiera.
+
+                          PETROVA
+          ¿Cuántas veces?
+
+                          ELI
+          (mira la consola)
+          Ciento diecisiete veces.
+
+Pausa. Eli sonríe con amargura.
+
+                          ELI (CONT.)
+          Ciento diecisiete veces
+          que la Tierra llamó. Y yo
+          nunca supe que era ella.
+
+--- 
+
+### ESC 27 — INT. DESTINY - ALA NORTE — DÍA (NAVE)
+
+Eli guía a Chen por un sector dañado.
+
+                          ELI
+          Aquí fue donde el sistema
+          de oxígeno falló. Pasé tres
+          semanas durmiendo en el
+          puente porque no podía
+          respirar aquí.
+
+                          CHEN
+          ¿Y cómo lo reparaste?
+
+                          ELI
+          (señalando)
+          Tomé piezas del sector
+          doce. Las adapté. No es
+          perfecto, pero funciona.
+
+                          CHEN
+          (mirando alrededor)
+          Hiciste todo esto solo.
+
+                          ELI
+          (sincero)
+          No tuve opción.
+
+--- 
+
+### ESC 28 — INT. DESTINY - PUENTE — PRESENTE
+
+El equipo está reunido. Carter en la pantalla.
+
+                          CARTER
+          La ventana se cierra en
+          seis horas. Eli... ¿qué
+          decidiste?
+
+Todos miran a Eli.
+
+                          ELI
+          (mira a Wilson)
+          No puedo irme.
+
+                          PETROVA
+          ¿Por qué?
+
+                          ELI
+          Porque si me voy y la
+          conexión falla, la nave
+          sigue. Y la tripulación
+          sigue. Y yo soy el único
+          que sabe cómo mantenerla
+          viva.
+
+                          CHEN
+          Podemos aprender.
+
+                          ELI
+          (mira a Chen)
+          No en seis horas.
+
+Pausa.
+
+                          ELI (CONT.)
+          Me quedo. Pero ustedes
+          pueden ir y volver. Tienen
+          la tecnología ahora.
+
+                          CARTER
+          (desde la pantalla)
+          No es tan simple. La
+          Superge no se puede activar
+          sin preparación. Días de
+          trabajo cada vez.
+
+                          ELI
+          (pausa)
+          Entonces... ¿cuándo vuelven?
+
+Silencio incómodo.
+
+                          MCKAY
+          (desde la pantalla)
+          Teóricamente, si
+          estabilizamos la conexión...
+
+                          CARTER
+          (interrumpe)
+          Rodney. No prometas lo que
+          no podemos cumplir.
+
+McKay calla.
+
+                          ELI
+          (asiente)
+          Entiendo.
+          (pausa)
+          Bueno. Entonces tenemos
+          seis horas. Usémoslas bien.
+
+--- 
+
+### ESC 29 — INT. DESTINY - VARIAS — MONTAJE
+
+Montaje de las últimas horas de conexión:
+
+- Eli muestra a Petrova los sistemas de navegación.
+- Eli enseña a Chen las rutas de escape.
+- Eli entrega a Hawkins un kino modificado.
+- Carter y Eli hablan en privado.
+
+                          CARTER (V.O.)
+          (durante montaje)
+          No voy a abandonarte aquí.
+
+                          ELI (V.O.)
+          No me abandona. Vuelve.
+          Lo sé.
+
+                          CARTER (V.O.)
+          ¿Cómo lo sabes?
+
+                          ELI (V.O.)
+          (pausa)
+          Porque usted nunca se ha
+          rendido. En diez años, no
+          se rindió. No va a empezar
+          ahora.
+
+--- 
+
+### ESC 30 — INT. DESTINY - SALA DE COMPUERTAS — PRESENTE
+
+El equipo se prepara para regresar. Hawkins carga equipo. Petrova tiene una tableta llena de datos.
+
+Eli está frente a la compuerta. Wilson en su hombro.
+
+                          CHEN
+          (extiende la mano)
+          Eli. Gracias.
+
+Eli estrecha su mano.
+
+                          ELI
+          Cuida de ella.
+
+                          CHEN
+          Lo haré.
+
+Petrova se acerca. Dudando.
+
+                          PETROVA
+          Dr. Wallace... Eli.
+          Volveremos. No es un adiós.
+
+                          ELI
+          (sonrisa)
+          Lo sé. Es un "hasta luego".
+          Como dice Wilson.
+
+Petrova sonríe. Le da un abrazo rápido. Eli se queda rígido — no está acostumbrado al contacto físico.
+
+Hawkins se acerca. Le da una bolsa.
+
+                          HAWKINS
+          Café. Para los días malos.
+
+                          ELI
+          (conmovido)
+          Gracias, Sargento.
+
+                          HAWKINS
+          (asintiendo)
+          Vuelvo con más.
+
+Hawkins cruza el portal.
+
+Chen es el último. Mira a Eli.
+
+                          CHEN
+          ¿Seguro?
+
+                          ELI
+          No. Pero es lo correcto.
+
+Chen asiente. Cruza.
+
+Eli se queda solo frente al portal.
+
+Carter aparece en la pantalla.
+
+                          CARTER
+          Eli... nos veremos pronto.
+          Te lo prometo.
+
+                          ELI
+          (sonrisa triste)
+          Lo sé, General. Siempre
+          cumple sus promesas.
+
+El vórtice se desvanece.
+
+Eli está solo otra vez.
+
+La sala de compuertas queda en silencio.
+
+Wilson flota a su lado.
+
+                          ELI
+          (a Wilson, con calma)
+          Bueno. Seis horas menos
+          la próxima vez.
+
+Wilson parpadea.
+
+                          ELI (CONT.)
+          Vamos. Tenemos trabajo.
+
+Eli se gira. Camina hacia la salida. Las luces se encienden a su paso.
 
 **CORTE A NEGRO.**
 
-[BLENDER] Planos ultra-wide. Escala masiva. Colores imposibles: violeta,
-verde esmeralda, negro profundo. Partículas de luz fluyendo hacia el centro.
-La Estructura respira. Efectos de distorsión del espacio a su alrededor.
-
 ---
 
-### ESC 21 (POST-CRÉDITOS) — INT. STARGATE COMMAND - SALA DEL GATE — NOCHE
+### ESC 31 — POST-CRÉDITOS — INT. ATLANTIS - ARCHIVO RESTRINGIDO — NOCHE
 
-La sala del Stargate está vacía. Mantenimiento de rutina. Técnicos en la
-sala de control revisando datos.
+Daniel Jackson está solo en una sala de archivos. Frente a él, una consola Ancient muestra un archivo sellado.
 
-Sin previo aviso, el STARGATE SE ACTIVA. Sin que nadie lo haya marcado.
+El archivo tiene un símbolo: UN CÍRCULO CON UNA LÍNEA EN EL CENTRO.
 
-Los chevrones se bloquean solos. Uno tras otro.
+Daniel respira hondo. Lo abre.
 
-El vórtice explota. Pero no es azul.
+La pantalla muestra texto Ancient. Daniel lee en voz baja.
 
-**ES NEGRO.**
+                          DANIEL
+          (leyendo)
+          "A quien encuentre este
+          mensaje: Vuelvan por donde
+          vinieron. No pregunten qué
+          hay más allá."
 
-Sin luz interior. Un agujero de oscuridad absoluta.
+Daniel se queda paralizado. El mensaje parpadea.
 
-Algo atraviesa el portal. No se ve qué es. Solo una sombra que cruza el
-umbral y desaparece en las sombras de la sala.
-
-El Stargate se apaga.
-
-Silencio.
-
-Los técnicos se miran, sin comprender.
+                          DANIEL (CONT.)
+          "No pregunten."
 
 **CORTE A NEGRO.**
 
 **FIN DEL EPISODIO**
 
-[BLENDER] Stargate con vórtice negro: partículas oscuras, sin luz, sin reflejo.
-Sombra emerge: apenas un cambio en la iluminación, un movimiento. Difícil de
-ver. Intencionalmente ambiguo.
-
 ---
 
-## FIN DEL EPISODIO 1
-
----
-
-**Temporada 1 — Episodio 2: "Migas de Pan"** — El equipo SG-D se instala
-permanentemente en la Destiny. Eli revela que las naves sembradoras llevan
-años cartografiando un camino. McKay y Eli chocan científicamente. El
-patrón geométrico comienza a descifrarse.
+**Temporada 1 — Episodio 2: "Día 731"** — Flashback total. Eli despierta de estasis. Pánico. Aceptación. Construye a Wilson. Dos años de soledad.

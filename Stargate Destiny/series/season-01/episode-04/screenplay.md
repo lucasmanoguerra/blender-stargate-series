@@ -1,682 +1,505 @@
-# STARGATE: DESTINY — Episodio 4: "El Primer Encuentro"
+# STARGATE: DESTINY — Episodio 4: "La Pared de Días"
 
 **Duración estimada**: 44 min
+**Tipo**: Personaje — Eli procesa ira. SG-D explora.
 
 ---
 
 ## COLD OPEN
 
-### ESC 1 — EXT. ZONA MUERTA - ESTRUCTURA — ESPACIO
+### ESC 1 — INT. DESTINY - PASAJERO — DÍA (NAVE)
 
-Donde la zona muerta termina, la galaxia comienza.
+La PARED DE DÍAS. Miles de marcas. Ocho años de soledad.
 
-Y en el límite exacto entre ambas, flota UNA ESTRUCTURA.
+Eli está frente a ella. Solo. Con un objeto afilado.
 
-No es el Centinela. Es más grande. Mucho más grande.
+Hace una nueva marca. La número 4388.
 
-Formas geométricas que se extienden kilómetros en cada dirección. Superficies que parecen metal negro, pero que se mueven lentamente, como placas tectónicas.
+Se queda mirando la pared. Años de su vida. Reducidos a rayas.
 
-En el centro: una ESFERA. Del tamaño de una luna. Lisa. Perfecta. Sin marcas.
+                          ELI
+          (para sí)
+          Ocho años. Dos mil
+          novecientos veinte días.
+          Setenta mil horas.
 
-                         ELI (V.O.)
-          (en off)
-          Lo llamamos "El Nodo".
-          Porque conecta el vacío
-          con el resto de la galaxia.
-          Como una puerta. Pero no
-          una que puedas atravesar.
+Pausa.
 
-La esfera, por un momento, emite un destello. Breve. Intencional.
+                          ELI (CONT.)
+          ¿Y qué tengo para mostrar?
 
-                         ELI (V.O.) (CONT.)
-          Algo vive ahí dentro.
+Golpea la pared con el puño.
+
+                          ELI (CONT.)
+          (gritando)
+          ¿¡QUÉ!?
+
+Silencio. Solo el eco.
 
 **CORTE A NEGRO. TÍTULO: STARGATE: DESTINY**
-
-[BLENDER] Plano amplio. La estructura masiva en el borde de la zona muerta. Geometrías imposibles. La esfera lisa en el centro, destellando. Contraste: oscuridad atrás, estrellas adelante.
 
 ---
 
 ## ACTO UNO
 
-### ESC 2 — INT. DESTINY - PUENTE — DÍA (NAVE)
+### ESC 2 — INT. DESTINY - COMEDOR — DÍA (NAVE)
 
-El equipo observa la estructura en la pantalla.
+El equipo desayuna. Eli está sentado solo, en una esquina. No come.
 
-                         PETROVA
-          No emite señales de radio.
-          No hay comunicaciones. No
-          hay calor. Es...
+Petrova se acerca.
 
-                         ELI
-          ...fría. Como un cadáver.
+                          PETROVA
+          ¿No tienes hambre?
 
-                         CHEN
-          ¿Está muerta?
+                          ELI
+          (sin mirarla)
+          No.
 
-                         ELI
-          No. Las placas se mueven.
-          La esfera destella. Está
-          activa. Pero no para
-          comunicarse.
+                          PETROVA
+          Llevas tres días sin comer
+          bien.
 
-                         PETROVA
-          ¿Para qué, entonces?
+                          ELI
+          (cortante)
+          He pasado ocho años sin
+          comer bien. No me voy a
+          morir.
 
-                         ELI
-          (pausa)
-          Para procesar. Es una
-          computadora. Del tamaño
-          de una luna.
+Petrova no se ofende. Se sienta.
 
-                         HAWKINS
+                          PETROVA
+          ¿Quieres hablar?
+
+                          ELI
+          No.
+
+Pausa.
+
+                          PETROVA
+          Te voy a hablar igual.
+
+Eli la mira.
+
+                          PETROVA (CONT.)
+          Estás enojado. Tienes
+          derecho. Estuviste solo
+          ocho años. Te perdiste
+          cosas. Personas. Tiempo.
+
+                          ELI
+          (tono duro)
+          ¿Y qué sabes tú de tiempo?
+
+                          PETROVA
+          (calmada)
+          Nada. Pero sé de ira.
+          He visto lo que hace.
+
+Eli la mira. No responde.
+
+--- 
+
+### ESC 3 — INT. DESTINY - ALA SUR — DÍA (NAVE)
+
+Chen y Hawkins exploran un sector sellado.
+
+Hawkins fuerza una puerta. Se abre con un chirrido metálico.
+
+                          HAWKINS
+          (iluminando)
+          Parece un almacén.
+
+El interior está lleno de CONTENEDORES. Diseño Ancient.
+
+Chen abre uno. Dentro: CRISTALES DE DATOS.
+
+                          CHEN
           (silbido bajo)
-          ¿Qué clase de datos necesita
-          procesar una computadora
-          de ese tamaño?
+          Esto es un archivo. Un
+          archivo enorme.
 
-                         ELI
-          (mirando la pantalla)
-          Toda la información de la
-          galaxia. Cada civilización.
-          Cada planeta. Cada señal.
-          Es el archivo central de
-          los Curadores.
+                          HAWKINS
+          (abriendo otro)
+          Hay docenas.
 
----
+                          CHEN
+          (sonrisa)
+          Daniel se va a volver loco.
 
-### ESC 3 — INT. SGC - SALA DE BRIEFING — DÍA
-
-Carter, Daniel y McKay observan la transmisión.
-
-                         DANIEL
-          (fascinado)
-          ¿Una computadora del tamaño
-          de una luna?
-
-                         MCKAY
-          Eso es... ineficiente.
-          ¿Para qué necesitas tanto
-          espacio físico?
-
-                         DANIEL
-          Rodney, no es una computadora
-          como las nuestras. Es un
-          cerebro. Un cerebro cultivado.
-
-                         MCKAY
-          (procesando)
-          ¿Un cerebro orgánico del
-          tamaño de una luna?
-
-                         DANIEL
-          Los Antiguos teorizaron
-          sobre esto. Cuando una
-          civilización asciende,
-          a veces deja atrás...
-          pensadores. Inteligencias
-          que no pueden ascender
-          pero que tampoco mueren.
-
-                         CARTER
-          ¿Estás diciendo que hay
-          algo consciente ahí dentro?
-
-                         DANIEL
-          (pausa)
-          Algo que ha estado pensando
-          durante millones de años.
-          Sí.
-
----
+--- 
 
 ### ESC 4 — INT. DESTINY - PUENTE — DÍA (NAVE)
 
-Eli recibe la teoría de Daniel.
+Eli está en su consola. Chen entra con un cristal de datos.
 
-                         ELI
-          (asintiendo)
-          Tiene sentido. La esfera
-          no recibe señales. Emite.
-          Como si estuviera...
-          soñando.
+                          CHEN
+          Encontramos esto en el ala
+          sur. Parecen archivos
+          Ancient.
 
-                         PETROVA
-          ¿Soñando?
+                          ELI
+          (sin interés)
+          Los he visto. Hay cientos.
+          La mayoría están
+          corruptos.
 
-                         ELI
-          Procesando información
-          almacenada. Repasando
-          recuerdos. Como hace un
-          cerebro cuando duerme.
+                          CHEN
+          ¿Has intentado leerlos?
 
-                         CHEN
-          ¿Y si despierta?
+                          ELI
+          (pausa)
+          No. No tuve tiempo. Estaba
+          ocupado manteniendo la nave
+          viva.
+
+Chen detecta el resentimiento.
+
+                          CHEN
+          (paciente)
+          Ahora tienes ayuda.
+
+                          ELI
+          (mira a Chen)
+          Sí. Ahora tengo ayuda.
+          Ocho años después.
+
+--- 
+
+### ESC 5 — INT. DESTINY - LABORATORIO — DÍA (NAVE)
+
+Petrova ha instalado un lector de cristales. El primer cristal está insertado.
+
+En la pantalla: DATOS. Estructura compleja.
+
+                          PETROVA
+          (leyendo)
+          No es texto. Es...
+          matemáticas.
+
+                          ELI
+          (acercándose, interés
+           a pesar de sí mismo)
+          ¿Qué tipo de matemáticas?
+
+                          PETROVA
+          Ecuaciones de campo.
+          Pero no las conozco. Son
+          anteriores a los Antiguos.
+
+                          ELI
+          (procesa)
+          Anteriores. Como los
+          Curadores.
+
+                          PETROVA
+          ¿Los qué?
+
+                          ELI
+          (pausa)
+          Los constructores de las
+          sembradoras. Los que
+          vinieron antes de los
+          Antiguos. Los encontré en
+          los registros de la nave.
+
+                          PETROVA
+          (fascinada)
+          ¿Hay registros de ellos?
+
+                          ELI
+          Fragmentos. Nombres.
+          Símbolos. No sé mucho
+          más.
+
+--- 
+
+### ESC 6 — INT. DESTINY - CÁMARA DE ESTASIS — DÍA (NAVE)
+
+Eli está solo. Frente a la cápsula de RUSH.
+
+                          ELI
+          (a Rush)
+          ¿Sabes qué es lo peor?
+          Que no fue difícil. Ocho
+          años. Podría haber sido
+          fácil si hubiera aceptado
+          que estaba solo.
+
+Pausa.
+
+                          ELI (CONT.)
+          Pero nunca lo acepté.
+          Siempre pensé que iban a
+          venir. Y vinieron. Pero
+          tardaron ocho años.
+
+Golpea la cápsula.
+
+                          ELI (CONT.)
+          (ira)
+          ¿Dónde estabas, Rush?
+          ¿Dónde estaba tu maldito
+          plan? "Yo siempre tengo un
+          plan." Pues tu plan me dejó
+          ocho años solo.
+
+Se aparta. Respira.
+
+                          ELI (CONT.)
+          Y ahora estás dormido.
+          Como si nada.
+
+--- 
+
+### ESC 7 — INT. SGC - SALA DE CONTROL — DÍA
+
+Carter y McKay revisan datos.
+
+                          MCKAY
+          La conexión se mantiene
+          estable. Pero el consumo
+          es brutal.
+
+                          CARTER
+          ¿Cuánto tiempo podemos
+          mantenerla?
+
+                          MCKAY
+          (calculando)
+          Con los tres ZPMs...
+          teóricamente, indefinido.
+          Pero en la práctica, los
+          ZPMs se degradan. Seis
+          meses. Tal vez un año.
+
+                          CARTER
+          Suficiente.
+
+                          MCKAY
+          ¿Para qué?
+
+                          CARTER
+          Para traerlos a casa.
+
+--- 
+
+### ESC 8 — INT. DESTINY - COMEDOR — NOCHE (NAVE)
+
+Eli no duerme. Está en el comedor, mirando una taza de café frío.
+
+Hawkins entra. Se sienta frente a él sin hablar.
+
+Silencio largo.
+
+                          HAWKINS
+          (finalmente)
+          Mi padre se fue cuando yo
+          tenía siete años.
 
 Eli lo mira.
 
-                         ELI
-          No lo sé. Pero necesito
-          saberlo.
+                          HAWKINS (CONT.)
+          Mi madre trabajaba. Yo
+          cuidaba a mis hermanos.
+          No tuve infancia. Durante
+          años estuve enojado.
 
----
-
-## ACTO DOS
-
-### ESC 5 — INT. DESTINY - COMPUERTA DE SERVICIO — DÍA (NAVE)
-
-Eli prepara un equipo para acercarse a la estructura.
-
-                         CHEN
-          (firme)
-          Yo voy contigo.
-
-                         ELI
-          (negando)
-          Es muy peligroso. No sé
-          qué va a pasar.
-
-                         CHEN
-          Por eso voy contigo.
-          No discutas.
-
-Eli lo mira. Asiente.
-
-                         ELI
-          Tráete a Wilson. Necesito
-          alguien sensato.
-
-Chen sonríe levemente.
-
-[BLENDER] Equipamiento. Trajes espaciales. Wilson flotando. Preparativos. Iluminación de la Destiny reflejada en los cascos.
-
----
-
-### ESC 6 — EXT. ESTRUCTURA - SUPERFICIE — ESPACIO
-
-Eli y Chen flotan hacia la superficie de la esfera. La estructura es lisa. Perfecta.
-
-Eli toca la superficie.
-
-Inmediatamente, la superficie cambia. Se vuelve transparente. Como si estuvieran mirando a través de hielo.
-
-Debajo: luz. Un interior inmenso. Lleno de... conexiones. Como neuronas.
-
-                         CHEN
-          (por comunicador)
-          ¿Estás viendo esto?
-
-                         ELI
-          (asombrado)
-          Es un cerebro. Estamos en
-          la superficie de un cerebro.
-
-La superficie se abre. Un pasaje.
-
-                         CHEN
-          No. No vamos a entrar ahí.
-
-                         ELI
-          (mirando el pasaje)
-          Chen. Esto es lo que
-          vinimos a encontrar.
-          No podemos detenernos ahora.
-
-                         CHEN
-          (pausa. Resignado.)
-          Si muero aquí, te odiaré
-          eternamente.
-
-                         ELI
-          (entrando)
-          Justo.
-
----
-
-### ESC 7 — INT. ESTRUCTURA - INTERIOR
-
-Flotan a través de un pasaje que parece un capilar. Paredes translúcidas. Líquido brillante fluye alrededor.
-
-Llegan a una CÁMARA. En el centro: una FORMA.
-
-No es sólida. Es una agitación en el aire. Una presencia que deforma la luz a su alrededor.
-
-                         PRESENCIA
-          (sin voz. Directo en
-           la mente de Eli y Chen)
-          Hace eones que no recibo
-          visitas.
-
-Eli y Chen se miran.
-
-                         PRESENCIA (CONT.)
-          No tengan miedo. Si
-          quisiera dañarlos, lo
-          habría hecho cuando
-          entraron en la zona muerta.
-
-                         ELI
-          (en voz alta)
-          ¿Usted... nos observó?
-
-                         PRESENCIA
-          Todo lo que entra en la
-          zona es observado. Es mi
-          función.
-
-                         CHEN
-          ¿Quién eres?
-
-                         PRESENCIA
-          (pausa larga)
-          Fui el último de mi especie.
-          Cuando los Curadores vinieron,
-          mi civilización eligió no
-          resistir. Elegimos ser
-          preservados. Yo soy la
-          preservación.
-
-                         ELI
-          ¿Eres... el archivo?
-
-                         PRESENCIA
-          Soy más que un archivo.
-          Soy la conciencia de mi
-          especie. Millones de años
-          de pensamiento. De arte.
-          De ciencia. De preguntas.
-
-                         CHEN
-          ¿Y nos darás esa información?
-
-                         PRESENCIA
-          No. La información no se
-          da. Se merece. Demuéstrenme
-          que están listos.
-
-[BLENDER] La Presencia: efecto visual de luz deformada, partículas que vibran, una forma que no termina de definirse. La cámara distorsiona cerca de ella. Iluminación bioluminiscente.
-
----
-
-## ACTO TRES
-
-### ESC 8 — INT. ESTRUCTURA - CÁMARA DE LA PRESENCIA
-
-                         PRESENCIA
-          Les haré tres preguntas.
-          Si responden correctamente,
-          les daré lo que buscan.
-          El camino hacia el origen.
-
-                         ELI
-          (tragando saliva)
-          Pregunta.
-
-                         PRESENCIA
-          Primera: ¿Qué es más
-          importante? ¿El
-          conocimiento o la
-          supervivencia?
-
-Eli y Chen se miran.
-
-                         ELI
+                          ELI
           (pausa)
-          La supervivencia. Sin ella,
-          el conocimiento no tiene
-          significado.
+          ¿Y qué hiciste?
 
-                         PRESENCIA
+                          HAWKINS
+          Me alisté. Aprendí a
+          pelear. Aprendí a dejar
+          ir.
+
+                          ELI
+          ¿Funcionó?
+
+                          HAWKINS
           (pausa)
-          Incorrecto.
+          Todavía estoy aprendiendo.
 
-El corazón de Eli se detiene.
+Eli asiente. Por primera vez, hay conexión.
 
-                         PRESENCIA (CONT.)
-          Pero es la respuesta que
-          esperaba. La mayoría de las
-          especies responde "conocimiento".
-          Son las que mueren primero.
+--- 
 
-                         CHEN
-          (confundido)
-          ¿Entonces...?
+### ESC 9 — INT. DESTINY - LABORATORIO — DÍA (NAVE)
 
-                         PRESENCIA
-          No hay respuesta correcta.
-          La pregunta es si tienen el
-          valor de responder con
-          honestidad. Pasaron.
+Petrova ha descifrado parte del cristal.
 
-                         ELI
-          (exhalando)
-          Okay. Siguiente.
+                          PETROVA
+          Es un mapa. Un mapa de
+          regiones del espacio que
+          los Antiguos nunca
+          exploraron.
 
-                         PRESENCIA
-          Segunda: ¿Qué harían si al
-          final del camino encuentran
-          algo que no debería existir?
+                          ELI
+          (interesado)
+          ¿Por qué no la exploraron?
 
-                         ELI
-          (sin dudar)
-          Lo documentaríamos. Lo
-          estudiaríamos. Y decidiríamos
-          juntos si compartirlo con
-          nuestra civilización.
+                          PETROVA
+          (señalando)
+          Porque estas regiones están
+          marcadas como "peligro".
+          Algo las hizo inaccesibles.
 
-                         PRESENCIA
-          (pausa)
-          ¿Y si compartirlo destruyera
-          todo lo que conocen?
+                          ELI
+          (leyendo)
+          "Zonas muertas."
 
-                         ELI
-          (pausa)
-          Entonces no lo compartiríamos.
-          Pero nunca dejaríamos de
-          estudiarlo.
+                          PETROVA
+          ¿Qué?
 
-                         PRESENCIA
-          (aprobación)
-          Buena respuesta.
+                          ELI
+          (señalando el mapa)
+          Las cicatrices del espacio.
+          Donde no hay materia. Donde
+          no hay luz.
 
----
+                          PETROVA
+          ¿Los Antiguos las conocían?
 
-### ESC 9 — INT. ESTRUCTURA - CÁMARA DE LA PRESENCIA — CONTINUACIÓN
+                          ELI
+          (asintiendo)
+          Las cartografiaron. Pero
+          nunca las estudiaron. Les
+          tenían miedo.
 
-                         PRESENCIA
-          Tercera: ¿Están dispuestos
-          a no volver?
-
-Silencio.
-
-                         CHEN
-          (firme)
-          No.
-
-                         PRESENCIA
-          (interesada)
-          Explícate.
-
-                         CHEN
-          Vine aquí para hacer mi
-          trabajo y volver a casa.
-          Si no vuelvo, mi familia
-          no sabrá qué pasó. Mis
-          hijos crecerán sin padre.
-          Y no voy a permitir eso.
-          Ni por todo el conocimiento
-          del universo.
-
-                         PRESENCIA
-          (pausa larga)
-          Eres la primera persona
-          en millones de años que
-          me da esa respuesta.
-
-Tenso silencio.
-
-                         PRESENCIA (CONT.)
-          Esa es la respuesta
-          correcta.
-
-La Presencia se expande. La cámara se llena de luz.
-
-                         PRESENCIA (CONT.)
-          Les daré lo que buscan.
-          Pero recuerden: el camino
-          hacia el origen está
-          vigilado. Hay algo peor
-          que los Curadores.
-
-                         ELI
-          ¿Algo peor?
-
-                         PRESENCIA
-          Lo que ellos protegen.
-          De eso sí deben tener
-          miedo.
-
----
-
-## ACTO CUATRO
+--- 
 
 ### ESC 10 — INT. DESTINY - PUENTE — DÍA (NAVE)
 
-Eli y Chen regresan. Eli lleva DATOS. Muchos.
+Eli procesa la información. Wilson flota.
 
-Descarga la información en la consola. El patrón GEOMÉTRICO se expande. Más puntos. Más conexiones. El camino se vuelve más claro.
-
-                         PETROVA
-          (asombrada)
-          Esto cambia todo. El mapa
-          no termina en el centro
-          del universo. Atraviesa
-          el centro. Y continúa.
-
-                         ELI
-          (sonrisa)
-          El mapa nunca terminaba.
-          Solo empezaba.
-
-                         HAWKINS
-          ¿Hasta dónde llega?
-
-                         ELI
-          (pausa)
-          Hasta el origen. Hasta
-          donde empezó todo.
-
-                         CHEN
-          (a Carter, en privado)
-          General. La Presencia nos
-          dio datos. Pero también
-          una advertencia.
-
-                         CARTER (V.O.)
-          ¿Qué clase de advertencia?
-
-                         CHEN
-          (mira a Eli)
-          Que hay algo peor que los
-          Curadores. Algo que ellos
-          están protegiendo.
-
----
-
-### ESC 11 — INT. DESTINY - PUENTE — NOCHE (NAVE)
-
-Eli está solo. Mira los datos.
-
-Wilson flota.
-
-                         ELI
+                          ELI
           (a Wilson)
-          Dijo "algo peor". Algo que
-          los Curadores protegen.
-          ¿Qué puede ser peor que
-          una civilización que borra
-          especies enteras?
+          Los Antiguos le tenían
+          miedo a algo. Los Antiguos.
+          Que construyeron naves que
+          cruzaban galaxias. Que
+          casi ascendieron.
 
 Wilson parpadea.
 
-                         ELI (CONT.)
-          Tal vez los Curadores no
-          son el enemigo. Tal vez
-          son... guardianes. Y lo
-          que guardan sí es el enemigo.
+                          ELI (CONT.)
+          ¿Qué podría asustarlos?
 
-La pantalla muestra el mapa. El punto rojo al final.
+Pausa.
 
-                         ELI (CONT.)
-          ¿Qué hay ahí, Wilson?
-          ¿Qué estamos yendo a
-          encontrar?
+                          ELI (CONT.)
+          Y lo que asustaba a los
+          Antiguos... está en el
+          camino de la Destiny.
 
-Wilson flota más cerca. Como si escuchara.
+--- 
 
-                         ELI (CONT.)
-          Sea lo que sea... no
-          podemos dejar de mirar.
+### ESC 11 — INT. DESTINY - SALA DE ESTASIS — NOCHE (NAVE)
 
----
+Eli entra. Pero esta vez no va a hablar con Rush.
 
-### ESC 12 — INT. SGC - SALA DE CONTROL — NOCHE
+Se sienta en el suelo. En el centro de la sala. Rodeado de las cápsulas.
 
-Carter está sola. Mira la transmisión de la Destiny en la pantalla.
+                          ELI
+          (a todos ellos)
+          Estuve enojado. Ocho años
+          de enojo. Pero no era con
+          ustedes. Era conmigo.
 
-Daniel entra.
+Pausa.
 
-                         DANIEL
-          ¿No duermes?
-
-                         CARTER
-          (sin mirarlo)
-          No. Estoy pensando en lo
-          que dijo esa... presencia.
-
-                         DANIEL
-          ¿Qué algo peor los espera?
-
-                         CARTER
-          (asiente)
-          Los Antiguos también
-          llegaron hasta aquí. Y
-          decidieron no continuar.
-          ¿Qué vieron que los detuvo?
-
-                         DANIEL
-          (pausa)
-          Tal vez no se detuvieron.
-          Tal vez fueron detenidos.
-
-                         CARTER
-          (mirándolo)
-          ¿Por los Curadores?
-
-                         DANIEL
-          (niega lentamente)
-          No. Tal vez por lo que los
-          Curadores protegen.
-
-Carter lo mira. El miedo cruza su rostro.
-
-[BLENDER] Sala de control vacía. Carter y Daniel. Luz de las pantallas iluminando sus rostros. Composición íntima.
-
----
-
-## ACTO CINCO
-
-### ESC 13 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-Eli se dirige al equipo.
-
-                         ELI
-          He procesado los datos. La
-          Presencia nos dio la
-          ubicación de algo.
-          Algo que los Antiguos nunca
-          encontraron.
-
-                         CHEN
-          ¿Qué es?
-
-                         ELI
-          Un atajo. Un pliegue en
-          el espacio que nos lleva
-          directamente al siguiente
-          nodo. Nos ahorra meses de
-          viaje.
-
-                         PETROVA
-          ¿Un agujero de gusano?
-
-                         ELI
-          Algo similar. Pero no fue
-          construido. Es natural.
-          Un punto donde el espacio
-          es delgado.
-
-                         HAWKINS
-          ¿Delgado cómo?
-
-                         ELI
-          (pausa)
-          Delgado como papel. Y al
-          otro lado... está la mitad
-          del camino.
-
-                         CHEN
-          ¿Riesgos?
-
-                         ELI
-          (pausa)
-          Nunca lo hemos intentado.
-          Los datos de la Presencia
-          dicen que es seguro. Pero
-          ella también dijo que
-          confiar en datos antiguos
-          es peligroso.
-
-                         CHEN
-          (mirando el mapa)
-          ¿Cuánto tiempo perdemos
-          si vamos por la ruta larga?
-
-                         ELI
-          Seis meses.
-
-                         CHEN
-          (decide)
-          Tomamos el atajo.
-
-                         ELI
-          (asiente)
-          Preparando rumbo.
-
----
-
-### ESC 14 — EXT. PLIEGUE — ESPACIO
-
-La Destiny se aproxima a... nada.
-
-Luego, el espacio se DISTORSIONA. Un punto se curva. La luz se dobla. Una abertura aparece.
-
-                         ELI (V.O.)
-          (en off)
-          Ahora.
-
-La Destiny entra en el pliegue.
-
-**CORTE A NEGRO.**
+                          ELI (CONT.)
+          Por no ser suficiente. Por
+          no poder reparar la cápsula.
+          Por no poder alcanzar la
+          consola que los despertara.
 
 Silencio.
 
-Tres segundos.
+                          ELI (CONT.)
+          Pero lo hice. Los mantuve
+          vivos. Todos ustedes.
 
----
+Mira a su alrededor.
 
-### ESC 15 — EXT. LA OTRA MITAD — ESPACIO
+                          ELI (CONT.)
+          Y ahora van a despertar.
+          Todos. Les prometo.
 
-La Destiny emerge.
+--- 
 
-Frente a ella: una parte del universo que nadie ha visto jamás.
+### ESC 12 — INT. DESTINY - PUENTE — DÍA (NAVE)
 
-Las estrellas son diferentes. Más densas. Más brillantes. Una nebulosa gigante envuelve todo en tonos violeta y azul.
+El equipo está reunido. Eli está diferente. Más tranquilo.
 
-Y en el centro:
+                          ELI
+          Quiero disculparme. He
+          estado... ausente.
 
-LA ESTRUCTURA. Visto fugazmente en el cliffhanger del Episodio 1.
+                          CHEN
+          Tienes derecho.
 
-Pero ahora es real. Está ahí. Más grande que cualquier cosa que hayan visto.
+                          ELI
+          No. Tengo derecho a estar
+          enojado. Pero no a tratarlos
+          mal. Ustedes no tuvieron
+          nada que ver.
 
-                         ELI (V.O.)
-          (en off, susurrando)
-          Llegamos.
+                          PETROVA
+          (sonrisa)
+          Aceptamos la disculpa.
 
-La Estructura palpita. Como si hubiera sentido su llegada.
+                          HAWKINS
+          (asintiendo)
+          Sí, señor.
+
+Eli sonríe. Débil. Genuina.
+
+                          ELI
+          Bueno. Tenemos una nave que
+          explorar. Un mapa que
+          descifrar. Y un montón de
+          cristales que leer.
+
+                          CHEN
+          ¿Por dónde empezamos?
+
+                          ELI
+          (mira la pantalla)
+          Por las zonas muertas. Por
+          lo que los Antiguos temían.
 
 **CORTE A NEGRO.**
 
-**CONTINUARÁ...**
+---
 
-[BLENDER] Transición: espacio normal → distorsión → negro → EMERGENCIA en la nueva región. Nebulosa violeta. Estrellas densas. La Estructura al fondo. Música épica que corta a silencio.
+### ESC 13 — INT. DESTINY - PASAJERO DE LA PARED — NOCHE (NAVE)
+
+Eli está frente a la pared de días. Solo.
+
+Saca el objeto afilado.
+
+Hace una nueva marca. Día 4389.
+
+Pero esta vez, no se va. Dibuja algo más: UNA LÍNEA HORIZONTAL. Debajo de todas las marcas. Como un cierre.
+
+                          ELI
+          (para sí)
+          Ocho años. Terminaron.
+
+Guarda el objeto. Mira la pared.
+
+                          ELI (CONT.)
+          Ahora empieza algo nuevo.
+
+Se gira. Se va.
+
+La pared queda. Marcas del pasado. Y una línea que lo cierra todo.
+
+**CORTE A NEGRO.**
+
+**FIN DEL EPISODIO**
+
+---
+
+**Temporada 1 — Episodio 5: "Proyecto Fénix"** — La lucha de 10 años de Carter con el IOA. Flashback de la batalla burocrática.

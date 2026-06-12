@@ -1,701 +1,513 @@
-# STARGATE: DESTINY — Episodio 3: "El Silencio"
+# STARGATE: DESTINY — Episodio 3: "Los Temblores"
 
 **Duración estimada**: 44 min
+**Tipo**: Flashback + Presente
 
 ---
 
 ## COLD OPEN
 
-### ESC 1 — EXT. EL VACÍO — ESPACIO
+### ESC 1 — INT. DESTINY - PUENTE — PRESENTE — DÍA (NAVE)
 
-La Destiny navega. Pero el fondo de estrellas... se está desvaneciendo.
+Eli está frente a la consola. Petrova, Chen y Hawkins observan.
 
-Las estrellas se vuelven más escasas. Luego desaparecen.
+En la pantalla: UNA GRÁFICA. Líneas de actividad. Ciento diecisiete picos.
 
-La nave entra en una ZONA de oscuridad absoluta. No hay estrellas. No hay luz. No hay nada.
+                          ELI
+          Esto es un registro de
+          cada vez que la Destiny
+          salió de FTL sin razón
+          aparente en los últimos
+          ocho años.
 
-Solo la Destiny, iluminándose a sí misma en medio de la nada.
+                          PETROVA
+          ¿Y la razón no aparente?
 
-                         ELI (V.O.)
-          (en off, grabación)
-          Día 4387. Nota adicional:
-          hemos entrado en una región
-          del espacio donde no hay
-          estrellas. No me refiero a
-          "pocas estrellas". Me refiero
-          a ninguna. Cero. Nada.
+                          ELI
+          (pausa)
+          Yo creía que eran fallos.
+          Averías. Problemas
+          técnicos. Pasé años
+          tratando de reparar algo
+          que no estaba roto.
 
-Silencio absoluto. Solo el zumbido de la nave.
+                          CHEN
+          ¿Y qué eran?
 
-                         ELI (V.O.) (CONT.)
-          Los sensores no registran
-          nada. Las comunicaciones
-          están muertas. Hasta la
-          conexión subespacial con
-          la Tierra ha caído.
+Eli toca la consola. La pantalla DETECTA un nuevo pico. En ese mismo instante, la nave TIEMBLA.
 
-Pausa larga.
+                          ELI
+          (señalando la pantalla)
+          Eso.
 
-                         ELI (V.O.) (CONT.)
-          Estamos solos. De verdad.
+Todos sienten la vibración. Cesan.
+
+                          ELI (CONT.)
+          Eso es la Tierra llamando.
 
 **CORTE A NEGRO. TÍTULO: STARGATE: DESTINY**
-
-[BLENDER] Plano exterior de la Destiny. El espacio alrededor es NEGRO absoluto. Sin estrellas. Sin galaxias. La nave es el único objeto iluminado. Atmósfera de vacío total.
 
 ---
 
 ## ACTO UNO
 
-### ESC 2 — INT. DESTINY - PUENTE — DÍA (NAVE)
+### ESC 2 — FLASHBACK — INT. DESTINY - COMEDOR — HACE 6 AÑOS — DÍA (NAVE)
 
-El equipo está reunido. Hay tensión.
+Eli (27) está comiendo. Wilson flota.
 
-                         PETROVA
-          No hay nada. Los telescopios
-          no detectan luz. Los sensores
-          de partículas no registran
-          nada. El fondo de microondas...
+De repente, la nave TIEMBLA. Eli deja caer la comida.
+
+                          ELI
+          (frustrado)
+          ¡Otra vez!
+
+Wilson se agita.
+
+Eli corre al puente.
+
+--- 
+
+### ESC 3 — FLASHBACK — INT. DESTINY - PUENTE — HACE 6 AÑOS — CONTINUACIÓN
+
+Eli revisa los sensores. Nada. Como siempre.
+
+                          ELI
+          (golpea la consola)
+          ¿Qué es? ¿Qué está pasando?
+
+La consola muestra datos. Eli los analiza.
+
+                          ELI (CONT.)
+          (confundido)
+          No hay impacto. No hay
+          campo de energía. No hay
+          nada. La nave solo...
+          para.
+
+Wilson flota cerca.
+
+                          ELI (CONT.)
+          Es como si algo la
+          detuviera. Algo externo.
+
+Pausa. Reflexiona.
+
+                          ELI (CONT.)
+          O interno. Un protocolo
+          que no conozco.
+
+Empieza a investigar.
+
+--- 
+
+### ESC 4 — INT. DESTINY - PUENTE — PRESENTE — DÍA (NAVE)
+
+Eli muestra los datos a SG-D.
+
+                          ELI
+          Cada temblor coincide con
+          un intento de conexión
+          desde la Tierra. No lo
+          sabía antes. No tenía
+          manera de saberlo.
+
+                          PETROVA
+          ¿Cómo lo sabes ahora?
+
+                          ELI
+          (sonrisa irónica)
+          Porque ahora tengo los
+          datos de los dos lados. La
+          Tierra registró cada
+          intento. Yo registré cada
+          temblor. Son idénticos.
+
+Chen procesa.
+
+                          CHEN
+          ¿Ciento diecisiete veces
+          en ocho años?
+
+                          ELI
+          Sí. El primer temblor fue
+          hace ocho años. El día que
+          desperté.
+
+                          HAWKINS
           (pausa)
-          ...es plano. No hay
-          radiación de fondo.
-
-                         CHEN
-          ¿Cómo es posible?
-
-                         PETROVA
-          No lo es. Debería haber
-          radiación del Big Bang
-          en todas direcciones.
-          Aquí no.
-
-                         HAWKINS
-          (mirando por la ventana)
-          Es como si alguien hubiera
-          borrado todo.
-
-                         ELI
-          (desde su consola)
-          Eso es exactamente lo que
-          pasó.
-
-Todos lo miran.
-
-                         ELI (CONT.)
-          La zona muerta. Las
-          encontré en los registros
-          de la Destiny. Los Antiguos
-          las cartografiaron hace
-          millones de años. Las
-          llamaban... "cicatrices".
-
-                         PETROVA
-          ¿Cicatrices?
-
-                         ELI
-          Zonas donde algo eliminó
-          toda la materia. No solo
-          planetas. Luz. Radiación.
-          Partículas. Todo.
-
-                         CHEN
-          (grave)
-          ¿Qué clase de arma hace eso?
-
-                         ELI
-          (pausa)
-          No es un arma. Es un borrado.
-          Los Curadores lo hicieron.
-          Para eliminar cualquier
-          rastro de las civilizaciones
-          que llegaron demasiado lejos.
-
-[BLENDER] Puerto oscuro. La única luz viene de las consolas. El equipo en penumbra. La ventana muestra pure blackness.
-
----
-
-### ESC 3 — INT. DESTINY - PUENTE — CONTINUACIÓN
-
-                         HAWKINS
-          ¿Cuánto mide esta zona?
-
-                         ELI
-          (consultando)
-          Doscientas horas luz de
-          diámetro. Un sistema solar
-          entero... borrado.
-
-                         PETROVA
-          (horrorizada)
-          Mil millones de años de
-          evolución. Eliminados.
-
-                         CHEN
-          ¿Hay más?
-
-                         ELI
-          (asiente)
-          Docenas. Cruza la galaxia
-          como un camino de tierra
-          quemada. Y estamos
-          navegando por el centro.
-
-                         HAWKINS
-          (tranquilo)
-          Bueno. Al menos sabemos
-          que vamos por buen camino.
-
-Eli lo mira, sorprendido.
-
-                         ELI
-          ¿Cómo?
-
-                         HAWKINS
-          Si los Curadores borraron
-          esto para esconder algo,
-          significa que estamos
-          yendo hacia ese algo.
-
-                         PETROVA
-          (procesando)
-          Tiene sentido. La zona
-          muerta no es un obstáculo.
-          Es una señal.
+          ¿El día que su cápsula
+          falló?
 
-                         ELI
-          (mirando a Hawkins)
-          Eres más inteligente de lo
-          que aparentas.
+                          ELI
+          (realización)
+          No falló. La señal de la
+          Tierra... interfirió con
+          el sistema de estasis. Me
+          despertó.
 
-                         HAWKINS
-          (encogiéndose de hombros)
-          A veces.
+                          PETROVA
+          El primer intento de
+          conexión de la Tierra te
+          despertó.
 
----
+                          ELI
+          (largo silencio)
+          Ellos me despertaron. Sin
+          saberlo.
 
-### ESC 4 — INT. DESTINY - PUENTE — HORAS DESPUÉS
+--- 
 
-El equipo empieza a sentir los efectos del vacío.
+### ESC 5 — FLASHBACK — INT. DESTINY - PUENTE — HACE 4 AÑOS
 
-Hawkins está irritable. Petrova no puede concentrarse. Chen está anormalmente callado.
+Eli (29) está frente a una consola que ha modificado extensamente. Hay diagramas por todas partes.
 
-Eli lo nota.
+Wilson observa.
 
-                         ELI
-          Es la falta de referencia
-          visual. El cerebro humano
-          no está diseñado para
-          procesar este nivel de
-          vacío. Es como estar en
-          una habitación sin paredes.
+                          ELI
+          (a Wilson)
+          He estado rastreando los
+          temblores. Hay un patrón.
 
-                         PETROVA
-          (frotándose las sienes)
-          Tengo dolor de cabeza.
-          Desde que entramos aquí.
+Wilson parpadea.
 
-                         CHEN
-          (tenso)
-          Yo también. Y no puedo
-          dormir.
+                          ELI (CONT.)
+          No son aleatorios. Son
+          regulares. Cada pocos
+          meses. Como si alguien
+          estuviera...
 
-                         ELI
-          (asiente)
-          Es el silencio. No solo
-          visual. Las comunicaciones
-          están muertas. No hay
-          ruido de fondo cósmico.
-          Es... silencio absoluto.
+Pausa.
 
-                         HAWKINS
-          (contenido)
-          Necesito hacer algo.
-          Cualquier cosa.
+                          ELI (CONT.)
+          ...llamando.
 
-                         ELI
-          (pausa)
-          Hay un compartimento de
-          observación. Tiene un
-          cristal que da al exterior.
-          Si miras fijamente el vacío
-          el tiempo suficiente...
-          (pausa)
-          ...empiezas a ver cosas.
+Se queda en silencio.
 
-                         CHEN
-          (alerta)
-          ¿Cosas?
+                          ELI (CONT.)
+          Eso es ridículo. No hay
+          nadie.
 
-                         ELI
-          Tu cerebro intenta llenar
-          el vacío. Crea patrones
-          donde no los hay. Sombras.
-          Formas. A veces... rostros.
+Pero no puede ignorar la idea.
 
-Silencio incómodo.
+--- 
 
-[BLENDER] Efectos de iluminación que simulan el malestar: luces parpadeantes, ángulos incómodos. Primeros planos de los rostros con ojeras, irritabilidad.
+### ESC 6 — FLASHBACK — INT. DESTINY - TALLER — HACE 4 AÑOS — NOCHE (NAVE)
 
----
+Eli no puede dormir. Trabaja en un nuevo proyecto: un SENSOR de señales subespaciales.
 
-## ACTO DOS
-
-### ESC 5 — INT. DESTINY - COMPARTIMENTO DE OBSERVACIÓN — DÍA (NAVE)
+Wilson flota cerca.
 
-Una sala pequeña con un cristal enorme que da al exterior. Oscuridad total fuera.
+                          ELI
+          (para sí)
+          Si la Tierra está llamando,
+          tiene que haber una señal.
+          Algo que pueda detectar.
 
-Eli está sentado, mirando al vacío. Wilson flota a su lado.
+Trabaja febrilmente.
 
-Chen entra.
+                          ELI (CONT.)
+          Rush habría sabido cómo.
+          Rush construyó el
+          intercambiador de
+          comunicaciones. Rush...
 
-                         CHEN
-          ¿Ves algo?
+Se detiene.
 
-                         ELI
-          (sin mirarlo)
-          Espera.
+                          ELI (CONT.)
+          (frustrado)
+          Siempre Rush. Siempre el
+          maldito Rush.
 
-Pasan segundos. Chen mira. Nada.
+Tira la herramienta.
 
-Luego, una forma. Apenas visible. Una silueta que se mueve en la oscuridad.
+                          ELI (CONT.)
+          (a Wilson)
+          No soy Rush. No soy un
+          genio. Solo soy un
+          programador que está solo
+          en una nave.
 
-                         CHEN
-          (alerta)
-          ¿Qué es eso?
+Wilson flota frente a él.
 
-                         ELI
-          (tranquilo)
-          No lo sé. Pero aparece
-          siempre en el mismo lugar.
-          Como si estuviera esperando.
+                          ELI (CONT.)
+          (más calmado)
+          Pero soy el único que hay.
 
-La silueta se desvanece.
+Recoge la herramienta. Sigue trabajando.
 
-                         ELI (CONT.)
-          Desapareció.
+--- 
 
-                         CHEN
-          ¿Qué crees que es?
+### ESC 7 — INT. DESTINY - PUENTE — PRESENTE
 
-                         ELI
-          (pausa)
-          Una posibilidad: es un
-          efecto psicológico.
-          Alucinación inducida por
-          el vacío.
-          (pausa)
-          Otra posibilidad: hay algo
-          ahí fuera. Algo que solo
-          se ve cuando no hay nada
-          más que ver.
+Eli termina su explicación.
 
-[BLENDER] Cristal gigante. Fuera: oscuridad absoluta. La silueta: apenas una forma más oscura moviéndose, como una sombra en la sombra. Cámara: 85mm, intentando enfocar algo que no está.
+                          ELI
+          Construí un sensor de
+          señales subespaciales.
+          Nunca detectó nada.
 
----
-
-### ESC 6 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-Petrova está revisando datos.
-
-                         PETROVA
-          Encontré algo. Los sensores
-          de gravedad detectan una
-          anomalía. Muy pequeña. Pero
-          está ahí.
-
-                         ELI
-          (acercándose)
-          ¿Dónde?
-
-                         PETROVA
-          (señalando)
-          A quinientos metros.
-          Fuera de la nave.
-
-                         ELI
-          (procesando)
-          ¿Qué tipo de anomalía?
-
-                         PETROVA
-          Como un... pliegue. Como si
-          el espacio estuviera
-          doblado sobre sí mismo.
-
-                         ELI
-          (algo encaja)
-          No es un pliegue. Es una
-          puerta.
-
-                         PETROVA
-          (sin entender)
-          ¿Una puerta?
-
-                         ELI
-          (excitado)
-          Los Antiguos hablaban de
-          algo llamado "pliegues de
-          observación". Puntos donde
-          el espacio se curva para
-          permitir observar sin ser
-          visto. Es tecnología de
-          los Curadores.
-
-                         CHEN
-          ¿Alguien nos está mirando?
-
-Eli no responde. Mira la pantalla.
-
-                         ELI
-          (tranquilo)
-          No "alguien". Algo.
-
----
-
-### ESC 7 — INT. DESTINY - PUENTE — CONTINUACIÓN
-
-La consola emite una alerta.
-
-                         ELI
-          (mirando)
-          La anomalía se está moviendo.
-
-                         PETROVA
-          ¿Hacia nosotros?
-
-                         ELI
-          (pausa)
-          Nos está rodeando.
-
-Múltiples anomalías aparecen en la pantalla. Una docena. Rodeando la Destiny.
-
-                         CHEN
-          (a Hawkins)
-          Todos en posición de defensa.
-
-                         HAWKINS
-          (preparando armas)
-          Afirmativo.
-
-                         ELI
-          (observando)
-          Esperen. No están atacando.
-          Están... observando.
-
-Las anomalías se mantienen a distancia. Pasan minutos.
-
-Luego, una a una, comienzan a alejarse.
-
-                         ELI (CONT.)
-          Se van.
-
-                         PETROVA
+                          PETROVA
           ¿Por qué?
 
-                         ELI
+                          ELI
           (pausa)
-          Porque vieron lo que
-          necesitaban ver. Nos
-          evaluaron. Y decidieron
-          que no valía la pena.
+          Porque la Tierra no usaba
+          comunicaciones subespaciales.
+          Usaban el Stargate. Y el
+          Stargate no emite señal
+          detectable desde aquí.
 
-                         CHEN
-          (sombrío)
-          ¿Eso es bueno o malo?
+                          CHEN
+          ¿Entonces cómo los temblores?
 
-                         ELI
-          (mirando la oscuridad)
-          No lo sé. Pero significa
-          que estamos en el lugar
-          correcto.
+                          ELI
+          La nave detecta el intento
+          de conexión. Es un protocolo
+          de seguridad. La Destiny
+          está programada para
+          detenerse si alguien marca
+          el noveno chevron.
 
----
+                          PETROVA
+          (procesa)
+          Los Antiguos querían que la
+          nave esperara. Por si
+          alguien llegaba.
 
-## ACTO TRES
+                          ELI
+          (sonrisa amarga)
+          Y yo pensaba que eran fallos.
+          Ocho años pensando que la
+          nave se estaba rompiendo.
+          Cuando en realidad...
 
-### ESC 8 — INT. DESTINY - PUENTE — DÍA (NAVE)
+                          HAWKINS
+          (completa)
+          ...lo estaban intentando.
 
-Días después. El equipo está más afectado.
+Eli asiente.
 
-Hawkins está haciendo flexiones en una esquina, obsesivamente. Petrova tiene los ojos rojos de no dormir. Chen bebe café y mira fijamente una pared.
+--- 
 
-Eli entra.
+### ESC 8 — FLASHBACK — INT. DESTINY - CÁMARA DE ESTASIS — HACE 3 AÑOS
 
-                         ELI
-          Tengo algo. La Destiny
-          detectó una masa al
-          frente. Pequeña. Sólida.
+Eli (30) entra en la sala de estasis. Wilson lo sigue.
 
-                         CHEN
-          (sin reaccionar)
-          ¿Un planeta?
+Se detiene frente a la cápsula de TJ (Dra. Johansen).
 
-                         ELI
-          No. Más pequeño. Como un
-          asteroide. Pero los sensores
-          dicen que no es natural.
+                          ELI
+          (a TJ dormida)
+          TJ. Otra vez. El temblor
+          número cincuenta y dos.
 
-                         PETROVA
-          (despertando)
-          ¿Construido?
+Se sienta.
 
-                         ELI
-          (asiente)
-          Como un... puesto de
-          observación. Un centinela.
+                          ELI (CONT.)
+          Cada vez pienso que esta
+          vez va a pasar algo. Que
+          alguien va a aparecer.
+          Pero no.
 
-                         HAWKINS
-          (sin dejar las flexiones)
-          ¿De los Curadores?
+Pausa.
 
-                         ELI
-          Eso creo. Y creo que
-          deberíamos investigarlo.
+                          ELI (CONT.)
+          Tal vez no están llamando.
+          Tal vez es otro ruido. Otra
+          cosa que no entiendo.
 
-                         CHEN
-          (finalmente reaccionando)
-          ¿Estás loco? Estamos en
-          medio del vacío, sin
-          comunicación con Tierra,
-          rodeados de anomalías que
-          nos observan, ¿y quieres
-          que abordemos una estación
-          enemiga?
+Mira sus manos.
 
-                         ELI
-          (tranquilo)
-          Sí.
+                          ELI (CONT.)
+          Tal vez estoy solo de
+          verdad.
 
-                         CHEN
-          ¿Por qué?
+--- 
 
-                         ELI
-          Porque si estamos en el
-          lugar correcto, esta
-          estación tiene información
-          sobre cómo salir de aquí.
+### ESC 9 — INT. DESTINY - PUENTE — PRESENTE
 
-Silencio. Chen lo mira largamente.
+Petrova estudia los datos con atención.
 
-                         CHEN
-          (a Hawkins)
-          Prepara el equipo.
+                          PETROVA
+          Mira esto. Los temblores
+          no son iguales. Aumentan
+          en frecuencia.
 
----
-
-### ESC 9 — EXT. CENTINELA — ESPACIO
-
-Una estructura pequeña. Orgánica. Como un caparazón de insecto gigante.
-
-La Destiny se acerca lentamente.
-
-[BLENDER] El Centinela: diseño biomecánico, superficie texturizada como exoesqueleto, luces frías que pulsan rítmicamente. La Destiny pequeña a su lado.
-
----
-
-### ESC 10 — INT. CENTINELA — INTERIOR
-
-Eli, Chen y Hawkins cruzan a la estructura. El interior es... extraño.
-
-No hay gravedad artificial como la conocen. Hay algo que tira de ellos en direcciones cambiantes.
-
-Las paredes son suaves, húmedas. Como tejido vivo.
-
-                         HAWKINS
-          (tocando una pared)
-          Esto no es metal.
-
-                         ELI
-          (mirando alrededor)
-          No. Es orgánico. Creció.
-          No lo construyeron.
-
-                         CHEN
-          ¿Respira?
-
-                         ELI
-          (pausa)
-          Sí. Creo que sí.
-
-Un PULSO recorre las paredes. Una luz se enciende al final del pasillo.
-
-                         ELI (CONT.)
-          Nos está guiando.
-
-                         CHEN
-          ¿Adónde?
-
-                         ELI
-          (camina hacia la luz)
-          A ver lo que nos quiere
-          mostrar.
-
-[BLENDER] Interior orgánico. Paredes que parecen tejido. Iluminación bioluminiscente. Luz pulsante. Efecto de gravedad cambiante (cámara inclinada, desorientación visual).
-
----
-
-### ESC 11 — INT. CENTINELA - CÁMARA CENTRAL
-
-Una sala circular. En el centro, un OBJETO flota.
-
-Parece un cristal. Pero está vivo. Pulso de luz interna.
-
-                         ELI
+                          ELI
           (acercándose)
-          Es un registro. Como los
-          kinós, pero... más antiguo.
-          Mucho más antiguo.
+          ¿Qué?
 
-                         CHEN
-          (previniéndolo)
-          Eli...
+                          PETROVA
+          Al principio: uno cada
+          seis meses. Luego uno cada
+          tres. Luego uno al mes.
 
-                         ELI
-          Si quisieran matarnos, ya
-          lo habrían hecho. Esto es
-          una invitación.
+                          ELI
+          (leyendo los datos)
+          La Tierra estaba mejorando.
+          Cada vez se acercaban más.
 
-Toca el cristal.
+                          CHEN
+          Hasta que lo lograron.
 
-INMEDIATAMENTE, imágenes inundan su mente. Vemos fragmentos:
-
-- Una galaxia joven.
-- Una civilización construyendo algo enorme.
-- La Estructura. En crecimiento.
-- Los Curadores. Miles de ellos. Observando.
-- Y luego: UN MENSAJE.
-
-                         VOZ (V.O.)
-          (en coro, muchas voces)
-          Este es el registro de los
-          que vinieron antes. Los que
-          vieron el fin del camino.
-          Los que decidieron no
-          continuar.
-
-Eli retira la mano. Jadea.
-
-                         ELI (CONT.)
-          (sin aliento)
-          Era un registro. De la
-          última civilización que
-          llegó hasta aquí.
-
-                         PETROVA
-          (por comunicador)
-          ¿Qué viste?
-
-                         ELI
+                          ELI
           (pausa)
-          Vi cómo terminan los que
-          continúan.
+          Hasta que lo lograron.
 
-                         HAWKINS
-          ¿Y cómo terminan?
+--- 
 
-                         ELI
-          (mira el cristal)
-          No terminan. Desaparecen.
-          Son absorbidos. Por los
-          Curadores. Para siempre.
+### ESC 10 — FLASHBACK — INT. DESTINY - TALLER — HACE 1 AÑO
 
----
+Eli (32) está mayor. Barba larga y canosa. Trabaja en una consola abierta.
 
-## ACTO CUATRO
+De repente, la nave TIEMBLA. Más fuerte que nunca.
 
-### ESC 12 — INT. DESTINY - PUENTE — DÍA (NAVE)
+Wilson cae al suelo.
 
-De vuelta en la Destiny. Eli está callado.
+Eli se agarra a la mesa.
 
-                         CHEN
-          (a Carter, por comunicador
-           restablecido parcialmente)
-          General. Hemos encontrado
-          un registro. La civilización
-          anterior llegó hasta aquí.
-          Y los Curadores los...
+                          ELI
+          (asustado)
+          ¡¿Qué?!
 
-                         CARTER (V.O.)
-          (estática)
-          ...Recibido. Tenemos...
-          (estática)
-          ...que evaluar la situación.
+Las luces parpadean. Los sistemas fluctúan.
 
-                         ELI
-          (interrumpiendo)
-          La situación es que estamos
-          en el camino correcto. Y que
-          hay un precio por seguir
-          adelante.
+Luego, silencio.
 
-                         CARTER (V.O.)
-          (estática)
-          ...comprendo. Pero...
-          (estática)
-          ...no podemos rendirnos
-          ahora.
+Eli respira hondo. Recoge a Wilson.
 
-                         ELI
-          (sorprendido)
-          ¿General?
+                          ELI (CONT.)
+          (a Wilson)
+          Ese fue diferente. Más
+          fuerte.
 
-                         CARTER (V.O.)
-          (estática, pero firme)
-          ...esa civilización decidió
-          no continuar. Y desapareció
-          de todas formas. Nosotros
-          vamos a continuar. Porque
-          si vamos a desaparecer,
-          que sea yendo hacia
-          adelante. No hacia atrás.
+Wilson parpadea débilmente.
 
-Eli procesa. Asiente.
+                          ELI (CONT.)
+          Algo está cambiando.
 
-                         ELI
-          (a la consola)
-          Destiny. Rumbo al final
-          de la zona muerta. Máxima
-          velocidad.
+--- 
 
----
+### ESC 11 — INT. DESTINY - PUENTE — PRESENTE
 
-### ESC 13 — EXT. LÍMITE DE LA ZONA MUERTA — ESPACIO
+Eli mira los datos finales.
 
-La Destiny emerge de la oscuridad.
+                          ELI
+          El último temblor fue hace
+          tres meses. El más fuerte.
+          Después de ese... la
+          conexión.
 
-Frente a ella: ESTRELLAS. Miles. Una galaxia llena de luz.
+                          PETROVA
+          El intento que funcionó.
 
-Detrás: la nada absoluta.
+                          ELI
+          (asentimiento)
+          Ciento diecisiete intentos.
+          Ocho años. Y finalmente...
+          (pausa, emocionado)
+          ...finalmente llegaron.
 
-La nave cruza la frontera entre la oscuridad y la luz.
+Silencio. Hawkins habla.
 
-[BLENDER] Transición gradual. De negro puro a aparecer una estrella, luego otra, luego un campo estelar completo. La Destiny iluminándose por la luz de las estrellas. Contraste dramático.
+                          HAWKINS
+          Ciento diecisiete veces.
+          Eso es... persistencia.
 
----
-
-### ESC 14 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-Las comunicaciones se restablecen. La pantalla muestra a Carter.
-
-                         CARTER
-          ¿Pueden vernos?
-
-                         ELI
+                          ELI
           (sonrisa)
-          Sí, General. Salimos del
-          otro lado.
+          Eso es Carter.
 
-                         CARTER
-          (aliviada)
-          Bienvenidos de vuelta.
+--- 
 
-                         ELI
-          (mirando la galaxia
-           frente a ellos)
-          No, General. Recién estamos
-          empezando.
+### ESC 12 — INT. SGC - DESPACHO DE CARTER — DÍA
 
-En la pantalla: el PATRÓN GEOMÉTRICO se actualiza. Más puntos se iluminan. El camino continúa.
+Carter está hablando con Eli por pantalla.
+
+                          ELI
+          (desde la pantalla)
+          Ciento diecisiete veces.
+          No sabía que eran ustedes.
+
+                          CARTER
+          (pausa)
+          Tampoco sabíamos que tú
+          estabas despierto.
+
+                          ELI
+          Me despertaron. El primer
+          intento. La señal interfirió
+          con mi cápsula de estasis.
+
+Carter palidece.
+
+                          CARTER
+          (voz queda)
+          Te despertamos nosotros.
+
+                          ELI
+          Sin querer. Pero sí.
+
+                          CARTER
+          Eli... lo siento. Si
+          hubiera sabido...
+
+                          ELI
+          (la interrumpe)
+          General. Si no me hubieran
+          despertado, la nave estaría
+          muerta. Todos estarían
+          muertos. Me despertaron
+          porque tenían que hacerlo.
+          No fue un error. Fue...
+          destino.
+
+Carter lo mira. Hay lágrimas en sus ojos.
+
+                          CARTER
+          Sigues siendo el mismo
+          Eli.
+
+                          ELI
+          (sonrisa)
+          No. Soy mejor.
 
 **CORTE A NEGRO.**
 
-**CONTINUARÁ...**
+--- 
+
+### ESC 13 — INT. DESTINY - PUENTE — MÁS TARDE
+
+Eli está solo con Wilson.
+
+                          ELI
+          (a Wilson)
+          Ciento diecisiete temblores.
+          Y yo pensaba que la nave se
+          estaba desmoronando.
+
+Wilson parpadea.
+
+                          ELI (CONT.)
+          Pero eran ellos. Todo el
+          tiempo. Llamando.
+
+Mira por la ventana.
+
+                          ELI (CONT.)
+          Ocho años sin saber que no
+          estaba solo.
+
+Pausa.
+
+                          ELI (CONT.)
+          Y ahora lo sé.
+
+Sonríe. Por primera vez, la sonrisa llega a sus ojos.
+
+**CORTE A NEGRO.**
+
+**FIN DEL EPISODIO**
+
+---
+
+**Temporada 1 — Episodio 4: "La Pared de Días"** — Eli procesa su ira. SG-D explora la nave. Secretos en los archivos Ancient.

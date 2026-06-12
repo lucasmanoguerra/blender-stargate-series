@@ -1,48 +1,73 @@
-# STARGATE: DESTINY — Episodio 9: "Voces Desde el Origen"
+# STARGATE: DESTINY — Episodio 9: "10 Segundos"
 
 **Duración estimada**: 44 min
+**Tipo**: Flashback+Presente — Primer vistazo a Destiny desde Tierra
 
 ---
 
 ## COLD OPEN
 
-### ESC 1 — EXT. CENTRO DE LA ZONA MUERTA — ESPACIO
+### ESC 1 — INT. SGC - SALA DE CONTROL — DÍA — HACE 5 AÑOS
 
-La Destiny llega al centro exacto de la zona muerta.
+La sala de control está en alerta máxima. Técnicos corren.
 
-Aquí no hay oscuridad. Hay LUZ.
+Carter está al centro. McKay manipula los ZPM.
 
-Una luz que no proviene de ninguna fuente visible. Simplemente... está. Como si el espacio mismo estuviera iluminado desde dentro.
+                          MCKAY
+          ¡Energía al máximo!
+          ¡Activen la Superge!
 
-Y en el centro: UNA ESFERA. Pequeña. Del tamaño de una nave.
+La Superge se ilumina. El anillo gira.
 
-Pero no es sólida. Está hecha de luz. Luz que pulsa. Luz que respira.
+                          TÉCNICO
+          ¡Conexión estable! Diez
+          segundos...
 
-                         ELI (V.O.)
-          (en off)
-          "Ella."
+La pantalla muestra la compuerta de la Destiny. Vacía. Polvo.
 
-La esfera emite un pulso. La Destiny se detiene.
+                          CARTER
+          (conteniendo la respiración)
+          Vamos...
 
-Una VOZ emerge. No de la esfera. De todas partes.
+                          TÉCNICO
+          Nueve... ocho...
 
-                         VOZ DE ELLA
-          (femenina. Suave. Antigua.)
-          Has llegado. El que
-          estuvo solo. El que
-          me buscó sin saberlo.
+De repente: UNA SOMBRA. Algo se mueve al otro lado.
 
-                         ELI (V.O.)
-          (susurrando)
-          Nos oyó. Todo este
-          tiempo. Nos oyó.
+                          MCKAY
+          (sin aliento)
+          ¿Hay alguien ahí?
 
-                         VOZ DE ELLA
-          Los oí desde que
-          entraron en el mapa.
-          Desde que tocaron el
-          primer fragmento. Los
-          he estado esperando.
+La sombra se acerca. Es una figura humana.
+
+                          CARTER
+          (voz quebrada)
+          Es uno de ellos.
+
+La figura se detiene frente a la compuerta. Está de espaldas. Trabaja en algo.
+
+                          TÉCNICO
+          Cinco... cuatro...
+
+La figura se gira. Es ELI. Pero su rostro es borroso. La conexión no es clara.
+
+                          CARTER
+          (sin respirar)
+          Eli...
+
+La imagen se desvanece.
+
+                          TÉCNICO
+          ¡Conexión perdida!
+
+Silencio.
+
+Carter está temblando.
+
+                          CARTER
+          (voz queda)
+          Está vivo. Uno de ellos
+          está vivo.
 
 **CORTE A NEGRO. TÍTULO: STARGATE: DESTINY**
 
@@ -50,593 +75,398 @@ Una VOZ emerge. No de la esfera. De todas partes.
 
 ## ACTO UNO
 
-### ESC 2 — INT. DESTINY - PUENTE — DÍA (NAVE)
+### ESC 2 — INT. SGC - SALA DE BRIEFING — DÍA — HACE 5 AÑOS
 
-El equipo está en shock.
+Carter, McKay, Daniel y el equipo analizan las imágenes.
 
-                         SHEPPARD
-          (tranquilo)
-          ¿Ella habla?
+En la pantalla: la imagen borrosa de Eli. Congelada.
 
-                         ELI
-          (fascinado)
-          No. Ella piensa. Y
-          nosotros la oímos.
+                          MCKAY
+          (señalando)
+          La resolución es terrible.
+          Diez segundos no son
+          suficientes para enfocar.
 
-                         VOZ DE ELLA
-          (desde los altavoces)
-          Correcto. No necesito
-          palabras. Necesito
-          entendimiento.
+                          DANIEL
+          (mirando la imagen)
+          Pero es uno de ellos.
+          Podemos ver el uniforme.
 
-                         DANIEL
-          (acercándose a la pantalla)
-          ¿Quién eres?
-
-                         VOZ DE ELLA
-          Soy el eco. El primer
-          código. El que escribió
-          el primer universo.
-
-                         DANIEL
-          (sin aliento)
-          ¿Eres... la creadora?
-
-                         VOZ DE ELLA
-          No. Soy la primera
-          creación. El primer
-          pensamiento. El que
-          existió antes del primer
-          Big Bang.
-
-                         ELI
-          (procesando)
-          Eres el código fuente
-          original. El que generó
-          el primer universo.
-
-                         VOZ DE ELLA
-          Sí. Y cuando el primer
-          universo terminó, yo
-          permanecí. Cuando el
-          segundo universo comenzó,
-          yo observé. Y cuando este
-          universo — el tercero —
-          empezó, yo esperé.
-
-                         PETROVA
-          (horrorizada)
-          ¿Esperaste para qué?
-
-                         VOZ DE ELLA
-          (pausa)
-          Para que alguien viniera.
-          Alguien que pudiera
-          continuar el ciclo.
-
----
-
-### ESC 3 — INT. SGC - SALA DE CONTROL — DÍA
-
-Carter escucha la transmisión.
-
-                         CARTER
-          (a la pantalla)
-          Eli. Aléjate de ella.
-          No sabemos qué puede
-          hacer.
-
-                         VOZ DE ELLA
-          (oyendo a Carter)
-          General Samantha Carter.
-          Sé quién eres. Sé lo que
-          has sacrificado. Y sé
-          que tienes miedo.
-
-                         CARTER
+                          CARTER
           (firme)
-          Tengo miedo de lo que
-          representas.
+          Es Eli. Lo reconocería en
+          cualquier lado.
 
-                         VOZ DE ELLA
-          (triste)
-          Represento el ciclo.
-          Nada más. Nada menos.
-          Cada universo tiene un
-          principio y un final. Yo
-          soy la que asegura que
-          el final no sea el
-          verdadero final.
-
-                         MCKAY
-          (interviniendo)
-          ¿Entonces eres una
-          función de reinicio?
-          ¿Cuando el universo
-          muere, tú generas el
-          siguiente?
-
-                         VOZ DE ELLA
+                          MCKAY
           (pausa)
-          Sí.
+          ¿Cómo sabemos que está
+          vivo? Quiero decir... la
+          imagen muestra a alguien
+          de pie. Pero...
 
-Silencio.
+                          CARTER
+          (interrumpe)
+          Está vivo, Rodney. Lo sé.
 
----
+--- 
 
-### ESC 4 — INT. DESTINY - PUENTE — CONTINUACIÓN
+### ESC 3 — INT. DESTINY - PUENTE — PRESENTE — DÍA (NAVE)
 
-                         ELI
-          (con cautela)
-          ¿Y los Curadores? ¿Por
-          qué te sellaron?
+Eli mira la grabación de ese momento. La ha visto cien veces.
 
-                         VOZ DE ELLA
-          (pausa)
-          Porque descubrieron que
-          yo no soy Neutra.
+Petrova entra.
 
-                         DANIEL
-          (alertado)
-          ¿Qué significa eso?
+                          PETROPA
+          ¿Qué es eso?
 
-                         VOZ DE ELLA
-          Cuando los Curadores
-          me encontraron, creyeron
-          que era una amenaza. Que
-          si alguien me usaba,
-          podría saltarse el ciclo.
-          Forzar un nuevo universo
-          antes de que el actual
-          terminara.
+                          ELI
+          (sin mirar)
+          La primera vez que la
+          Tierra me vio. Hace cinco
+          años.
 
-                         ELI
-          (comprendiendo)
-          Y alguien intentó usarte.
+                          PETROVA
+          (acercándose)
+          ¿Sabías que te estaban
+          viendo?
 
-                         VOZ DE ELLA
-          (asintiendo)
-          Una facción de los
-          Curadores. Querían
-          crear un universo
-          perfecto. Sin defectos.
-          Sin sufrimiento.
-
-                         SHEPPARD
-          (con calma)
-          ¿Y qué pasó?
-
-                         VOZ DE ELLA
-          (pausa)
-          Fallaron. Y en su fracaso,
-          casi destruyen todo. Los
-          otros Curadores me
-          sellaron. Para protegerme.
-          Y para protegernos a
-          todos.
-
-                         PETROVA
-          (confundida)
-          ¿Protegerte? ¿No estás
-          prisionera?
-
-                         VOZ DE ELLA
-          (suave)
-          Estoy prisionera, sí.
-          Pero también protegida.
-          De los que quieren
-          usarme. Y de mí misma.
-
----
-
-## ACTO DOS
-
-### ESC 5 — INT. DESTINY - PUENTE — CONTINUACIÓN
-
-                         ELI
-          (honesto)
-          ¿Debemos tener miedo
-          de ti?
-
-                         VOZ DE ELLA
-          (pausa)
-          Sí. Y no.
-
-                         ELI
-          (sonrisa amarga)
-          Eso no ayuda.
-
-                         VOZ DE ELLA
-          (suave)
-          Lo sé. Pero es la verdad.
-          Puedo crear. Puedo
-          destruir. Depende de
-          quién me use.
-
-                         CHEN
-          (firme)
-          Entonces no te usaremos.
-          Te dejaremos aquí. Y
-          nos iremos.
-
-                         VOZ DE ELLA
-          (pausa)
-          No pueden.
-
-                         HAWKINS
-          (alerta)
-          ¿Por qué no?
-
-                         VOZ DE ELLA
-          Porque al llegar aquí,
-          al hablarme, han iniciado
-          un proceso. Los fragmentos
-          que recolectaron ya están
-          sincronizados conmigo.
-          Si se van ahora, los
-          fragmentos buscarán un
-          nuevo portador. Alguien
-          más completará el ciclo.
-
-                         DANIEL
-          (comprendiendo)
-          Es como un virus. Una
-          vez que lo tocas, no
-          puedes deshacerlo.
-
-                         VOZ DE ELLA
-          (confirmando)
-          El conocimiento no se
-          puede olvidar. El código
-          no se puede borrar.
-          Solo se puede completar
-          o heredar.
-
----
-
-### ESC 6 — INT. DESTINY - PUENTE — CONTINUACIÓN
-
-Eli toma una decisión.
-
-                         ELI
-          ¿Cómo se completa el
-          ciclo?
-
-                         VOZ DE ELLA
-          (pausa)
-          Deben llevar todos los
-          fragmentos a la Estructura.
-          La que vieron en sus
-          visiones. La Puerta.
-
-                         ELI
-          (reconociendo)
-          La Estructura. La del
-          tamaño de una estrella.
-
-                         VOZ DE ELLA
-          Es el mecanismo. El
-          punto donde los fragmentos
-          se unen y el nuevo código
-          se escribe.
-
-                         PETROVA
-          (aterrada)
-          Y si eso pasa, ¿el
-          universo actual...?
-
-                         VOZ DE ELLA
-          Continúa existiendo. No
-          lo reemplaza. Lo...
-          actualiza. Como una
-          nueva versión del mismo
-          programa.
-
-                         SHEPPARD
-          (escéptico)
-          ¿Y la gente? ¿Las
-          civilizaciones? ¿Qué
-          pasa con ellas?
-
-                         VOZ DE ELLA
-          (pausa larga)
-          No lo sé.
-
----
-
-### ESC 7 — INT. SGC - SALA DE CONTROL — DÍA
-
-Carter debate con el IOA en una videoconferencia.
-
-                         REPRESENTANTE
-          (en pantalla)
-          General. No podemos
-          permitir que un solo
-          hombre decida el futuro
-          de la humanidad.
-
-                         CARTER
-          (firme)
-          No es un solo hombre.
-          Es un equipo. Y ellos
-          están allá, no aquí.
-
-                         REPRESENTANTE
-          Entonces tráigalos de
-          vuelta.
-
-                         CARTER
-          (pausa)
-          No puedo. Según "Ella",
-          el proceso ya comenzó.
-          Si los traigo de vuelta,
-          los fragmentos buscarán
-          otro portador.
-
-                         REPRESENTANTE
-          (enfadada)
-          ¿Y qué me sugiere?
-
-                         CARTER
-          (pausa)
-          Les sugiero que confíen
-          en Eli Wallace. Ha estado
-          tomando decisiones
-          correctas durante diez
-          años solo.
-
----
-
-## ACTO TRES
-
-### ESC 8 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-Eli habla con "Ella".
-
-                         ELI
-          ¿Por qué yo? ¿Por qué
-          esperaste a que yo
-          llegara?
-
-                         VOZ DE ELLA
-          (pausa)
-          Porque estuviste solo.
-          Y en tu soledad, te
-          volviste puro. Sin
-          distracciones. Sin
-          influencias. Solo tú y
-          la nave.
-
-                         ELI
-          (pausa)
-          No me siento puro. Me
-          siento perdido.
-
-                         VOZ DE ELLA
-          (suave)
-          Eso es la pureza. Saber
-          que estás perdido. Y
-          seguir adelante de todas
-          formas.
-
-                         ELI
+                          ELI
           (sonrisa)
-          Eso suena a poesía
-          barata.
+          No. En ese momento estaba
+          reparando una consola en
+          la sala de compuertas. No
+          tenía idea de que el
+          Stargate se había activado.
 
-                         VOZ DE ELLA
-          (con un tono de humor)
-          He tenido millones de
-          años para practicar.
+                          PETROVA
+          (mirando la imagen)
+          Diez segundos. Y cambió
+          todo.
 
-Eli ríe.
-
----
-
-### ESC 9 — INT. DESTINY - PUENTE — CONTINUACIÓN
-
-                         ELI
-          (serio)
-          Si completamos el ciclo...
-          ¿qué pasa contigo?
-
-                         VOZ DE ELLA
+                          ELI
           (pausa)
-          Desaparezco. Mi función
-          termina. El código se
-          integra en el nuevo ciclo
-          y yo... dejo de existir.
+          Para ustedes. Para mí...
+          solo fue otro día de
+          trabajo.
 
-                         ELI
-          (sorprendido)
-          ¿Morirías?
+--- 
 
-                         VOZ DE ELLA
-          No. Terminaría. Como
-          termina una canción.
-          La música no muere.
-          Solo deja de sonar.
+### ESC 4 — FLASHBACK — INT. DESTINY - SALA DE COMPUERTAS — HACE 5 AÑOS
 
-                         DANIEL
-          (conmovido)
-          Y has estado sonando
-          durante miles de millones
-          de años.
+Eli (28) está reparando una consola. Wilson flota.
 
-                         VOZ DE ELLA
-          (suave)
-          Sí. Y estoy cansada.
+De repente, el Stargate COMIENZA A GIRAR.
 
-                         ELI
-          (pausa)
-          ¿Quieres terminar?
+Eli se gira. Sobresaltado.
 
-                         VOZ DE ELLA
-          (pausa)
-          Quiero que el universo
-          que creé — el tercero —
-          tenga la oportunidad de
-          continuar. Y para eso,
-          yo debo terminar.
+El noveno chevron se bloquea. El vórtice IRRUMPE.
 
----
+Eli retrocede. Se protege los ojos.
 
-## ACTO CUATRO
+                          ELI
+          (asustado)
+          ¿Qué...?
 
-### ESC 10 — INT. DESTINY - PUENTE — DÍA (NAVE)
+El vórtice se estabiliza. Eli lo mira.
 
-El equipo delibera.
+                          ELI (CONT.)
+          (sin aliento)
+          Es el Stargate. Está
+          activo.
 
-                         CHEN
-          (a Eli)
-          Si ella desaparece, ¿quién
-          garantiza que el ciclo
-          continúe? ¿Quién creará
-          el próximo universo?
+Se acerca lentamente.
 
-                         ELI
-          (pausa)
-          El código mismo. Una vez
-          completado, se vuelve
-          autosuficiente. Como un
-          programa que se ejecuta
-          solo.
+                          ELI (CONT.)
+          ¿Quién... quién está ahí?
 
-                         PETROVA
-          (preocupada)
-          ¿Y si el código está
-          defectuoso? ¿Y si este
-          universo — el tercero —
-          tiene errores?
+Silencio. Solo el zumbido del vórtice.
 
-                         ELI
-          (grave)
-          Entonces el próximo
-          universo también los
-          tendrá.
+Eli extiende la mano. Casi toca la luz.
 
-                         SHEPPARD
-          (con calma)
-          ¿Y si no completamos
-          el ciclo?
+El vórtice se DESVANECE.
 
-                         VOZ DE ELLA
-          (interviniendo)
-          Entonces el universo
-          terminará naturalmente.
-          En aproximadamente
-          quinientos mil millones
-          de años. Sin reemplazo.
-          Sin siguiente ciclo.
+Eli se queda solo. Mirando el vacío.
 
-                         HAWKINS
-          (silbido)
-          Eso es mucho tiempo.
-
-                         VOZ DE ELLA
-          Para ustedes. Para mí,
-          es un instante.
-
----
-
-### ESC 11 — INT. DESTINY - PUENTE — NOCHE (NAVE)
-
-Eli está solo. Piensa.
-
-                         ELI
+                          ELI (CONT.)
           (a Wilson)
-          Ella está cansada,
-          Wilson. Ha estado
-          existiendo durante
-          miles de millones de
-          años. Soportando el
-          peso de la creación.
-
-Pausa.
-
-                         ELI (CONT.)
-          Y nosotros llegamos
-          y tenemos que decidir
-          si la dejamos descansar.
+          ¿Fue real?
 
 Wilson parpadea.
 
-                         ELI (CONT.)
-          Pero si la dejamos ir...
-          perdemos la única
-          oportunidad de entender
-          por qué existimos.
+Eli sonríe. Por primera vez en mucho tiempo.
 
-Pausa larga.
+                          ELI (CONT.)
+          Fue real.
 
-                         ELI (CONT.)
-          ¿Sabes qué? Creo que
-          ella ya decidió por
-          nosotros. Hace millones
-          de años. Cuando construyó
-          la Destiny.
+--- 
 
----
+### ESC 5 — INT. SGC - DESPACHO DE CARTER — NOCHE — HACE 5 AÑOS
 
-## ACTO CINCO
+Carter está sola. Mira la imagen congelada de Eli.
 
-### ESC 12 — INT. DESTINY - PUENTE — DÍA (NAVE)
+Daniel entra.
 
-Eli se dirige al equipo.
+                          DANIEL
+          ¿Sigues despierta?
 
-                         ELI
-          He tomado una decisión.
+                          CARTER
+          (sin apartar la mirada)
+          No puedo dejar de mirarlo.
+          Está vivo. Después de cinco
+          años. Está vivo.
 
-Todos lo miran.
+                          DANIEL
+          (se sienta)
+          Y está solo.
 
-                         ELI (CONT.)
-          Vamos a la Estructura.
-          Vamos a completar el
-          ciclo. Pero no para
-          crear un nuevo universo.
-          Para asegurarnos de que
-          este continúe.
+Carter asiente.
 
-                         CHEN
+                          CARTER
+          (voz queda)
+          Pasó dos años en estasis y
+          tres años despierto. Solo.
+          En una nave.
+
+                          DANIEL
           (pausa)
-          ¿Y ella?
+          Es el ser humano más
+          solitario del universo.
 
-                         ELI
-          (mira la pantalla.
-           La esfera pulsa.)
-          Ella va a descansar.
+                          CARTER
+          (con lágrimas)
+          Y no podemos llegar a él.
 
-                         VOZ DE ELLA
-          (suave)
-          Gracias.
+--- 
 
-                         ELI
+### ESC 6 — INT. ATLANTIS - LABORATORIO — DÍA — HACE 5 AÑOS
+
+McKay está en Atlantis. Trabaja con un equipo de científicos.
+
+                          MCKAY
+          (explicando)
+          Diez segundos. Eso es
+          todo lo que tenemos. Pero
+          esos diez segundos
+          demuestran que la conexión
+          es posible.
+
+                          CIENTÍFICO
+          ¿Y qué necesitamos?
+
+                          MCKAY
+          (pausa)
+          Más potencia. Más tiempo.
+          Una Superge que pueda
+          mantener la conexión.
+
+                          CIENTÍFICO
+          ¿Cuánto tiempo?
+
+                          MCKAY
+          (firme)
+          El suficiente para
+          traerlos a casa.
+
+--- 
+
+### ESC 7 — INT. DESTINY - PUENTE — PRESENTE — DÍA (NAVE)
+
+Eli está frente a la consola. La grabación de los diez segundos está en pausa.
+
+                          ELI
+          (a Petrova)
+          Después de ese día, supe
+          que no estaba solo. Supe
+          que alguien estaba
+          intentando llegar.
+
+                          PETROVA
+          ¿Y eso te dio esperanza?
+
+                          ELI
+          (pausa)
+          Al principio, sí. Luego...
+          los años pasaron. Y empecé
+          a pensar que había sido un
+          accidente. Que nadie vendría.
+
+                          PETROVA
+          Pero no dejaste de
+          intentarlo.
+
+                          ELI
           (sonrisa)
-          No nos agradezcas todavía.
-          Primero tenemos que
-          llegar a la Estructura.
+          No. No podía. Porque si
+          dejaba de intentarlo,
+          entonces sí estaría solo.
 
----
+--- 
 
-### ESC 13 — EXT. LA DESTINY — ESPACIO
+### ESC 8 — FLASHBACK — INT. DESTINY - CÁMARA DE ESTASIS — HACE 4 AÑOS
 
-La Destiny se aleja de la esfera. La esfera pulsa una última vez.
+Eli (29) está frente a las cápsulas. Wilson flota.
 
-Luego se apaga.
+                          ELI
+          (a los dormidos)
+          Hoy hace un año del primer
+          contacto. Bueno, "contacto"
+          es una palabra muy
+          generosa.
 
-                         ELI (V.O.)
-          (en off)
-          No me gustan las
-          despedidas. Pero esta...
-          esta duele menos que
-          otras.
+Pausa.
 
-La nave se dirige hacia el horizonte.
+                          ELI (CONT.)
+          Un año. Y nada más.
 
-                         ELI (V.O.) (CONT.)
-          Porque sé que la vamos
-          a volver a ver. Al final.
+Se sienta en el suelo.
+
+                          ELI (CONT.)
+          Tal vez fue un accidente.
+          Tal vez el Stargate se
+          activó solo. Tal vez no
+          hay nadie.
+
+Silencio.
+
+                          ELI (CONT.)
+          Pero tal vez sí.
+
+Mira la cápsula de TJ.
+
+                          ELI (CONT.)
+          Y si sí... tengo que estar
+          listo.
+
+--- 
+
+### ESC 9 — INT. SGC - CÁMARA DEL ZPM — DÍA — HACE 3 AÑOS
+
+McKay y su equipo trabajan en los ZPM mejorados.
+
+                          MCKAY
+          (a su equipo)
+          Necesitamos más potencia.
+          Los ZPM actuales no son
+          suficientes.
+
+                          CIENTÍFICO
+          ¿Más potencia? Están al
+          máximo.
+
+                          MCKAY
+          (frustrado)
+          Entonces encuentren una
+          manera de aumentar el
+          rendimiento.
+
+                          CIENTÍFICO
+          (pausa)
+          Podríamos intentar la
+          aleación Asgard...
+
+                          MCKAY
+          (interesado)
+          ¿Qué aleación?
+
+                          CIENTÍFICO
+          El núcleo de procesamiento
+          Asgard. Si lo integramos
+          al ZPM, podría aumentar la
+          eficiencia.
+
+                          MCKAY
+          (sonrisa)
+          Hazlo.
+
+--- 
+
+### ESC 10 — INT. DESTINY - PUENTE — PRESENTE — DÍA (NAVE)
+
+Eli habla con Carter por pantalla.
+
+                          CARTER
+          (desde pantalla)
+          ¿Recuerdas el día que
+          viste el Stargate activarse
+          por primera vez?
+
+                          ELI
+          (sonrisa)
+          No puedo olvidarlo. Fue el
+          día que supe que no estaba
+          solo.
+
+                          CARTER
+          (pausa)
+          Para nosotros también fue
+          importante. Fue la primera
+          prueba de que estabas vivo.
+
+                          ELI
+          (serio)
+          ¿Y si hubiera sido otro?
+          ¿Si hubiera sido Rush?
+
+                          CARTER
+          (pausa)
+          Habría sido diferente.
+          Pero fue usted. Y eso fue
+          suficiente.
+
+Eli asiente.
+
+                          ELI
+          Diez segundos. Cambiaron
+          todo.
+
+                          CARTER
+          (sonrisa)
+          Sí. Lo hicieron.
+
+--- 
+
+### ESC 11 — INT. SGC - DESPACHO DE CARTER — NOCHE
+
+Carter está sola. Mira la imagen congelada de Eli.
+
+Toca la pantalla.
+
+                          CARTER
+          (para sí)
+          Pronto, Eli. Pronto.
 
 **CORTE A NEGRO.**
 
-**CONTINUARÁ...**
+---
+
+### ESC 12 — INT. DESTINY - PUENTE — NOCHE (NAVE)
+
+Eli está en el puente. Wilson flota.
+
+La grabación de los diez segundos sigue en pausa.
+
+                          ELI
+          (a Wilson)
+          Diez segundos. Eso es todo
+          lo que necesitaron para
+          cambiar mi vida.
+
+Wilson parpadea.
+
+                          ELI (CONT.)
+          Y ahora estamos aquí.
+          Conectados. Con gente.
+
+Mira por la ventana.
+
+                          ELI (CONT.)
+          Todo gracias a diez
+          segundos.
+
+**CORTE A NEGRO.**
+
+**FIN DEL EPISODIO**
+
+---
+
+**Temporada 1 — Episodio 10: "47 Segundos"** — Ven a Eli. No pueden contactar. El intento que lo cambió todo.

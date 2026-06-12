@@ -2,104 +2,126 @@
 
 ## Estado del universo al inicio
 
-Han pasado 2 años desde el cierre del proyecto Destiny. La Tierra ha consolidado su posición como potencia intergaláctica. El Programa Stargate es aún secreto para la población general, aunque filtraciones controladas lo han hecho un "secreto a voces" en los círculos de poder.
+Han pasado **10 años** desde el cierre del proyecto Destiny. La Tierra ha consolidado su posición como potencia intergaláctica. El Programa Stargate sigue siendo secreto para la población general, aunque cada vez hay más filtraciones difíciles de ocultar.
 
-La flota BC-304 ha sido mejorada con tecnología Asgard de segunda generación. Atlantis está fondeada en la Tierra pero funcional. Se han establecido 12 mundos aliados con presencia permanente de la Tierra.
+La flota BC-304 ha sido mejorada con tecnología Asgard de segunda generación. Atlantis está fondeada en la Tierra pero funcional. Se han establecido 18 mundos aliados con presencia permanente de la Tierra.
 
-Sin embargo, la pérdida de la Destiny y su tripulación ha sido una herida abierta. Carter nunca dejó de buscar una forma de restablecer el contacto.
+Sin embargo, la pérdida de la Destiny y su tripulación fue una herida que nunca cerró del todo. **Carter nunca dejó de luchar por traerlos de vuelta.** Durante 10 años, fue su proyecto personal. Su obsesión silenciosa.
+
+---
 
 ## Reglas establecidas
 
 ### Tecnología / Habilidades
 
-- **Stargate de 9 chevrones**: Estabilizado permanentemente. El ZPM mejorado permite mantener el agujero de gusano abierto de forma continua. El consumo energético es monumental.
-- **Supergate artificial**: Nueva tecnología que combina naquadah, trinium y núcleo Asgard. Permite el paso de naves de tamaño medio. No tan grande como la Supergate Ori.
-- **Computación cuántica Ancient-Asgard**: Logran procesar los patrones de coordenadas de la novena chevron en tiempo real.
-- **Comunicación subespacial avanzada**: Los repetidores de la Destiny fueron mejorados. La comunicación es posible pero con latencia variable (minutos a horas según distancia).
-- **Estasis criogénica**: Las cámaras de la Destiny funcionan pero muestran desgaste. Eli evitó usarlas.
+- **Stargate de 9 chevrones**: Estabilizado permanentemente. El Super ZPM de McKay permite mantener el agujero de gusano abierto de forma continua desde la Tierra a la Destiny. El consumo energético es monumental — requiere toda la potencia de una central de naquadah dedicada.
+
+- **Supergate artificial**: Nueva tecnología que combina naquadah, trinium y núcleo Asgard. Permite el paso de personas y equipos. No naves enteras.
+
+- **Computación cuántica Ancient-Asgard**: Logran procesar los patrones de coordenadas del noveno chevron en tiempo real. Esto requirió una década de desarrollo.
+
+- **Comunicación subespacial avanzada**: Los repetidores de la Destiny fueron mejorados desde Tierra. La comunicación tiene latencia variable: minutos cuando la Destiny está "cerca" en términos de red de portales, horas cuando está en zonas muertas.
+
+- **Estasis criogénica**: Las cámaras de la Destiny funcionan pero con desgaste. La cápsula de Eli se dañó durante el primer intento de conexión de la Tierra. Por eso no pudo reingresar.
+
 - **Naves sembradoras**: Reutilizadas. Ya no fabrican stargates. Ahora cartografían y recolectan datos del patrón geométrico que cruza las galaxias.
+
+- **Los Kinós**: Pequeños drones de exploración. Eli reparó y modificó varios. El más importante es **Wilson** — su primer kino reparado, al que dotó de una personalidad simbólica.
+
+### Las interrupciones de FTL (regla clave)
+
+La Destiny no tiene hyperdrive tradicional. Su FTL es un sistema de pliegue espacial que debe recargarse en estrellas. Normalmente, la nave viaja en automático siguiendo el mapa de las sembradoras.
+
+**Pero cuando la Tierra intenta conectar el portal de 9 chevrones, la nave lo detecta.** La señal del portal interfiere con los sistemas de navegación de la Destiny. La nave interpreta la llamada como una coordenada de emergencia y sale de FTL para "escuchar".
+
+Cada vez que la Tierra intenta abrir el portal, la Destiny sale de FTL. Eli percibe esto como "temblores" o "fallos". **Él no sabe que son intentos de rescate hasta que la conexión se establece permanentemente.**
 
 ### Limitaciones narrativas
 
 - **Sin ascensión fácil**: No hay solución mágica Ancient.
-- **La Destiny no tiene hyperdrive**: Sigue siendo su limitación principal. Debe recargar en estrellas.
-- **Recursos finitos**: La nave se deteriora. No hay repuestos.
+- **La Destiny no tiene hyperdrive**: Sigue siendo su limitación principal. Debe recargar en estrellas. Y ahora, cada vez que hay un intento de conexión desde Tierra, la nave se desvía de su ruta.
+- **Recursos finitos**: La nave se deteriora. No hay repuestos. Eli pasó 8 años parcheándola con lo que encontraba.
 - **Los Curadores no son malvados**: Son guardianes. Cumplen un propósito. Dialogables pero inflexibles.
-- **Sin villanos humanos**: El conflicto interno viene de la tensión entre descubrir la verdad vs. proteger a la humanidad.
+- **Sin villanos humanos evidentes**: El conflicto interno viene de la tensión entre descubrir la verdad vs. proteger a la humanidad.
+- **La estasis no es eterna**: Las cámaras necesitan mantenimiento. Si fallan, los ocupantes mueren. Eli lo sabe. Es parte de su estrés constante.
+
+---
 
 ## Facciones
 
 ### Stargate Destiny Command (SG-D)
 
-- **Tipo**: Aliado / Protagonista
-- **Base**: Tierra (Complejo Stargate) + Destiny
-- **Comandante**: Samantha Carter
-- **Objetivos**: Explorar el origen del universo, proteger a la humanidad, mantener la conexión con la Destiny
-- **Tecnología**: Híbrida: Asgard, Ancient, Tau'ri
-- **Recursos**: Limitados. La operación Destiny compite por recursos con otras divisiones Stargate.
+| Atributo | Descripción |
+|----------|-------------|
+| **Tipo** | Aliado / Protagonista |
+| **Base** | Tierra (Complejo Stargate) + Destiny |
+| **Comandante** | General Samantha Carter |
+| **Objetivos** | Explorar el origen del universo, rescatar a la tripulación, mantener la conexión con la Destiny |
+| **Tecnología** | Híbrida: Asgard, Ancient, Tau'ri |
+| **Recursos** | Limitados. La operación Destiny compite por recursos con otras divisiones Stargate. Carter tuvo que luchar 1.5 años solo para conseguir presupuesto mínimo. |
+| **Personal fijo** | Equipo rotatorio de científicos, militares y personal de apoyo. El núcleo está en la Destiny. |
 
 ### Los Curadores (The Custodians)
 
-- **Tipo**: Antagonista / Neutral
-- **Edad**: Más antiguos que los Antiguos
-- **Naturaleza**: No son una raza biológica en el sentido tradicional. Son una inteligencia colectiva que habita el espacio entre galaxias. No tienen cuerpos físicos como los conocemos. Se manifiestan a través de constructores mecánicos/orgánicos.
-- **Filosofía**: "Algunas puertas no deben abrirse." Creen que el conocimiento del origen del universo destruiría la realidad tal como existe. No es malevolencia — es conservación cósmica.
-- **Métodos**: Borran civilizaciones enteras. No como castigo, sino como poda. Cuando una especie se acerca demasiado a la verdad, la eliminan. Lo han hecho durante eones.
-- **Evidencia de su existencia**: Zonas muertas en el universo observadas por los Antiguos. Ruinas inexplicables. Civilizaciones desaparecidas sin rastro.
-- **Responsabilidades conocidas**: La desaparición de los más antiguos constructores de stargates. La esterilización de ciertos cúmulos galácticos. La eliminación de las especies que descubrieron el código fuente.
-- **Referencia visual**: No tienen forma fija. Sus constructores recuerdan a insectos biomecánicos gigantes, con superficies que reflejan el espacio profundo. Luces frías. Movimiento lento, deliberado, inevitable.
+| Atributo | Descripción |
+|----------|-------------|
+| **Tipo** | Antagonista / Neutral |
+| **Edad** | Más antiguos que los Antiguos |
+| **Naturaleza** | No son una raza biológica en el sentido tradicional. Son una inteligencia colectiva que habita el espacio entre galaxias. No tienen cuerpos físicos como los conocemos. |
+| **Filosofía** | "Algunas puertas no deben abrirse." Creen que el conocimiento del origen del universo destruiría la realidad. No es malevolencia — es conservación cósmica. |
+| **Métodos** | Cuando una especie se acerca demasiado a la verdad, la eliminan. Lo han hecho durante eones. |
+| **Evidencia** | Zonas muertas en el universo. Ruinas inexplicables. Civilizaciones desaparecidas sin rastro. |
+| **División interna** | No todos los Curadores piensan igual. Una facción cree que ya es hora de que alguien sepa la verdad. Otra facción quiere eliminar a la humanidad antes de que llegue. |
 
 ### Tierra / Tau'ri
 
-- **Tipo**: Aliado / Base
-- **Tecnología**: Asgard + Ancient + propia
-- **Gobierno**: Stargate Command (militar) + IOA (civil)
-- **Objetivos**: Exploración, defensa, expansión controlada
-- **Líderes**: Presidente de los EE.UU. (figura política), General de División (mando Stargate), Comité IOA
-- **Estado**: Potencia intergaláctica emergente. 12 mundos aliados. Flota BC-304 mejorada.
+| Atributo | Descripción |
+|----------|-------------|
+| **Tipo** | Aliado / Base |
+| **Tecnología** | Asgard + Ancient + propia |
+| **Gobierno** | Stargate Command (militar) + IOA (civil) |
+| **Estado** | Potencia intergaláctica emergente. 18 mundos aliados. Flota BC-304 mejorada. |
+| **Relación con SG-D** | Tensa. El IOA ve el proyecto Destiny como un gasto injustificado. Carter debe justificar cada recurso. |
 
-### Los Antiguos (Alterans) [Histórico]
+### Los Antiguos (Histórico)
 
-- **Tipo**: Referencia / Legado
-- **Rol**: Constructores de la Destiny. Descubridores originales del patrón.
-- **Estado**: Ascendidos o desaparecidos
-- **Nota**: Sabían del código fuente cosmológico. Construyeron la Destiny para alcanzarlo. Nunca llegaron. Lo dejaron como legado.
+| Atributo | Descripción |
+|----------|-------------|
+| **Rol** | Referencia / Legado |
+| **Relación con el Código** | Sabían del código fuente cosmológico. Construyeron la Destiny para alcanzarlo. Pero **ellos nunca abandonaron su galaxia**. descubrieron algo que los hizo detenerse. Algo los asustó. Dejaron la Destin y siguieron adelante sin ella. La advertencia de los Antiguos está enterrada en la biblioteca de Atlantis. |
+
+---
 
 ## Mapa de locaciones
 
 ### Destiny
 
 - **Tipo**: Nave Ancient de exploración
-- **Descripción**: Gigantesca, desgastada, funcional. Millones de años de antigüedad. Interior: pasillos estrechos, iluminación anaranjada tenue, paneles de control con cristales líquidos. Gravedad artificial envejecida que falla en secciones.
-- **Secciones clave**: Puente, sala de compuertas, sala de estasis, dormitorios, comedor, sala de máquinas, bahía de naves (kino/seed ships), compartimentos de observación.
-- **Importancia**: Centro de operaciones de la serie. Hogar del equipo SG-D a bordo.
-- **Notas Blender**:
-  - Entorno industrial/alien: pasillos metálicos desgastados, cables expuestos
-  - Iluminación: Luces empotradas anaranjadas, zonas en penumbra, fluorescencias azules en sistemas activos
-  - Materiales: Metal cepillado oscuro, cristales translúcidos, paneles táctiles emitiendo luz
-  - Assets únicos: Sillón del puente, consolas Ancient, compuertas, cámaras de estasis
+- **Estado**: Envejecida. 10 años más de desgaste. Pero Eli la mantuvo funcionando.
+- **Secciones clave**: Puente, sala de compuertas, sala de estasis, dormitorios, comedor, sala de máquinas, bahía de naves, compartimentos de observación, **taller de Eli** (una sección que adaptó como su espacio personal).
+- **El taller de Eli**: Lleno de kinós reparados, piezas, cables, una litera improvisada, paredes cubiertas de notas y diagramas. Su hogar durante 8 años.
 
 ### Complejo Stargate (Tierra)
 
 - **Tipo**: Base militar subterránea
-- **Descripción**: El icónico SGC. Expandido con nuevas instalaciones para SG-D.
-- **Notas Blender**: Sets clásicos del SGC pero modernizados. Pantallas holográficas, nueva sala de control.
+- **Estado**: Expandido. Nueva ala dedicada al proyecto Destiny. Sala de control con el Super ZPM.
+
+### Atlantis
+
+- **Tipo**: Ciudad Ancient
+- **Importancia**: Aún funcional. **La biblioteca de Atlantis contiene archivos cifrados sobre la Destiny.** Daniel los encuentra durante la serie. Incluyen una advertencia.
 
 ### El Cúmulo Imposible
 
 - **Tipo**: Cúmulo estelar no cartografiado
-- **Descripción**: No aparece en ningún modelo cosmológico. Las leyes físicas se comportan de forma diferente. Gravedad distorsionada. El tiempo fluye irregular.
-- **Importancia**: Destino de la Destiny. Contiene el Stargate-Estrella.
+- **Importancia**: Destino de la Destiny. Contiene la Estructura.
 
 ### La Estructura (Stargate-Estrella)
 
 - **Tipo**: Megaestructura cultivada
-- **Descripción**: No construida — cultivada. Un stargate del tamaño de una estrella. Tejido orgánico-metálico. Crece como un coral cósmico. Miles de millones de años de antigüedad.
-- **Importancia**: La puerta al origen. El marcador final del camino.
-- **Notas Blender**: Escala masiva. Efectos de distorsión del espacio-tiempo. Colores imposibles. Movimiento orgánico.
+- **Descripción**: Un stargate del tamaño de una estrella. Tejido orgánico-metálico. Crece como coral cósmico. Miles de millones de años.
 
 ### Zonas Muertas
 
 - **Tipo**: Regiones del espacio estériles
-- **Descripción**: Áreas donde no hay vida. No hay señales. No hay nada. Los Curadores limpiaron estas zonas.
-- **Notas Blender**: Vacío absoluto. Sin estrellas de fondo. Oscuridad total salvo por la Destiny iluminada. Silencio.
+- **Descripción**: Áreas donde los Curadores eliminaron toda vida. Vacío absoluto. Sin estrellas de fondo.

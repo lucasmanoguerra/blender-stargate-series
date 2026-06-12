@@ -1,56 +1,42 @@
-# STARGATE: DESTINY — Episodio 11: "El Tercer Universo"
+# STARGATE: DESTINY — Episodio 11: "La Superge"
 
 **Duración**: 44 min
+**Tipo**: Clímax — Conexión permanente
 
 ---
 
 ## COLD OPEN
 
-### ESC 1 — INT. DESTINY - PUENTE — DÍA (NAVE)
+### ESC 1 — INT. SGC - CÁMARA DEL ZPM — DÍA
 
-La Destiny flota frente a la Estructura desvaneciéndose.
+Tensión máxima. Técnicos trabajan en los ZPM. McKay supervisa.
 
-Pero algo va mal.
+                          MCKAY
+          (a los técnicos)
+          Los tres ZPM tienen que
+          estar sincronizados. Si
+          uno falla, la
+          retroalimentación...
 
-Las consolas EMPIEZAN A FALLAR. Una tras otra.
+                          CARTER
+          (entrando)
+          No va a fallar.
 
-                         PETROVA
-          (alarmada)
-          ¡Los sistemas están
-          cayendo! ¡No hay razón!
+                          MCKAY
+          (la mira)
+          ¿Cómo puedes estar tan
+          segura?
 
-                         ELI
-          (tocando su consola)
-          La Destiny se está
-          desconectando de mí. Es
-          como si... algo estuviera
-          tomando el control.
+                          CARTER
+          (firme)
+          Porque no tenemos otra
+          opción.
 
-La pantalla principal se enciende sola.
+McKay asiente. Vuelve al trabajo.
 
-Muestra una IMAGEN. No es un mensaje. Es un RECUERDO.
-
-El Big Bang. Pero no el de este universo.
-
-Otro. Anterior.
-
-                         VOZ DE LA ESTRUCTURA
-          (en off)
-          Has completado el ciclo.
-          Ahora debes entender lo
-          que significa.
-
-La imagen cambia. Un universo nace. Vive. Muere.
-
-Luego otro. Nace. Vive. Muere.
-
-Luego este.
-
-                         VOZ DE LA ESTRUCTURA (CONT.)
-          Tres universos. Tres
-          intentos. Este es el
-          tercero. Y será el
-          último.
+                          MCKAY
+          (a sí mismo)
+          Sin presión.
 
 **CORTE A NEGRO. TÍTULO: STARGATE: DESTINY**
 
@@ -58,580 +44,446 @@ Luego este.
 
 ## ACTO UNO
 
-### ESC 2 — INT. DESTINY - PUENTE — CONTINUACIÓN
+### ESC 2 — INT. DESTINY - PUENTE — DÍA (NAVE)
 
-                         ELI
-          (a la voz)
-          ¿Por qué será el último?
+Eli está en el puente. La tensión se siente incluso a distancia.
 
-                         VOZ DE LA ESTRUCTURA
-          Porque el código fuente
-          se ha agotado. Cada ciclo
-          consume una parte del
-          código original. Este
-          universo tiene el último
-          fragmento.
+                          PETROVA
+          (preocupada)
+          ¿Crees que funcionará?
 
-                         DANIEL
-          (comprendiendo)
-          No hay un cuarto universo.
-          No hay reinicio.
-
-                         VOZ DE LA ESTRUCTURA
-          (confirmando)
-          Cuando este universo
-          muera, no habrá siguiente.
-
-                         SHEPPARD
-          (tranquilo)
-          ¿Cuánto tiempo tenemos?
-
-                         VOZ DE LA ESTRUCTURA
+                          ELI
           (pausa)
-          El universo tiene
-          aproximadamente quinientos
-          mil millones de años de
-          vida restante. Pero...
-          (pausa)
-          ...el código fuente puede
-          extender ese tiempo.
-          Puede reparar el desgaste
-          del universo.
+          Tiene que funcionar. No
+          sé si aguanto otra espera.
 
-                         ELI
-          (esperanzado)
-          ¿Podemos repararlo?
+                          CHEN
+          (desde su puesto)
+          Todos estamos listos.
 
-                         VOZ DE LA ESTRUCTURA
-          (pausa)
-          Sí. Pero hay un precio.
+                          HAWKINS
+          (asintiendo)
+          Sí, señor.
 
-                         CHEN
-          (tenso)
-          Siempre hay un precio.
+Eli asiente.
 
-                         VOZ DE LA ESTRUCTURA
-          El código debe ser
-          entregado. No puede
-          quedarse en este universo.
-          Debe ser devuelto al
-          origen. Al lugar donde
-          se escribió el primer
-          código.
+                          ELI
+          (a la pantalla)
+          General. Estamos listos.
 
-                         ELI
-          (pausa)
-          ¿Al otro lado de la
-          Puerta?
-
-                         VOZ DE LA ESTRUCTURA
-          Sí.
-
----
+--- 
 
 ### ESC 3 — INT. SGC - SALA DE CONTROL — DÍA
 
-Carter escucha.
+Carter está al mando. Daniel a su lado. McKay en la consola.
 
-                         CARTER
-          (firme)
-          No. No vamos a enviar
-          a nadie al otro lado de
-          esa puerta. No sabemos
-          qué hay.
+                          CARTER
+          (a todos)
+          Esto es el Proyecto Puente.
+          El objetivo: establecer
+          una conexión permanente
+          con la Destiny.
 
-                         VOZ DE LA ESTRUCTURA
-          (escuchando)
-          General Carter. Entiendo
-          su miedo. Pero si el
-          código no se devuelve,
-          el universo comenzará
-          a degradarse. Lentamente
-          al principio. Luego más
-          rápido.
+                          MCKAY
+          (nervioso)
+          Si funciona, tendremos
+          acceso ilimitado a la nave.
+          Si no...
 
-                         MCKAY
-          (preocupado)
-          ¿Cuánto tiempo hasta que
-          notemos la degradación?
+                          CARTER
+          (interrumpe)
+          Va a funcionar.
 
-                         VOZ DE LA ESTRUCTURA
-          (pausa)
-          Ya la están notando.
+McKay respira hondo.
 
-La pantalla muestra datos. La velocidad de la luz está disminuyendo.
-Imperceptible. Pero real.
+                          MCKAY
+          Activando secuencia.
 
-                         MCKAY
-          (horrorizado)
-          La velocidad de la luz...
-          está bajando.
+La Superge COBRA VIDA. Los segmentos se iluminan.
 
-                         VOZ DE LA ESTRUCTURA
-          Es el primer síntoma.
-          Le seguirán otros.
+                          TÉCNICO
+          Anillo girando. Chevrones
+          marcando...
 
-                         CARTER
+La energía fluye.
+
+                          TÉCNICO (CONT.)
+          ...siete, ocho, nueve.
+
+El noveno chevron se marca.
+
+La pantalla muestra la compuerta de la Destiny. Eli está ahí.
+
+                          ELI (desde la Destiny)
+          (voz clara)
+          Los veo.
+
+                          CARTER
+          (sonrisa)
+          Te vemos, Eli.
+
+                          MCKAY
+          (trabajando)
+          Estabilizando agujero de
+          gusano...
+
+La conexión fluctúa.
+
+                          MCKAY (CONT.)
+          (tenso)
+          Los ZPM están al máximo.
+          La Superge está aguantando.
+
+                          TÉCNICO
+          Treinta segundos...
+
+                          CARTER
+          (a McKay)
+          ¿Cuánto más?
+
+                          MCKAY
+          (calculando)
+          No lo sé. Tal vez un
+          minuto. Tal vez una hora.
+
+                          CARTER
           (decide)
-          Eli. Quiero que evalúes
-          la situación. Pero no
-          tomes ninguna decisión
-          sin consultarme.
+          Entonces manténla abierta.
 
-                         ELI (V.O.)
-          (pausa)
-          Entendido, General.
+--- 
 
----
+### ESC 4 — INT. DESTINY - SALA DE COMPUERTAS — DÍA (NAVE)
 
-## ACTO DOS
+El vórtice se mantiene estable. Eli lo mira.
 
-### ESC 4 — INT. DESTINY - PUENTE — DÍA (NAVE)
+                          ELI
+          (a Wilson)
+          Lo están logrando.
 
-Eli y Daniel hablan en privado.
+Wilson parpadea.
 
-                         DANIEL
-          (reflexivo)
-          Los Antiguos llamaban a
-          este lugar "El Origen".
-          Creían que era donde el
-          código fue escrito.
+                          ELI (CONT.)
+          (a la compuerta)
+          Vamos. Vamos.
 
-                         ELI
-          (mirando la Estructura)
-          Y ahora tenemos que
-          devolverlo allí.
+--- 
 
-                         DANIEL
-          (pausa)
-          ¿Quieres ir?
+### ESC 5 — INT. SGC - CÁMARA DEL ZPM
 
-                         ELI
-          (pausa)
-          No. Pero tengo que
-          hacerlo.
+Los ZPM brillan intensamente. Uno de ellos fluctúa.
 
-                         DANIEL
-          ¿Por qué?
+                          TÉCNICO #2
+          (alerta)
+          ¡ZPM dos! ¡Está
+          sobrecalentándose!
 
-                         ELI
-          (mirándolo)
-          Porque si no lo hago
-          yo, tendrá que hacerlo
-          alguien más. Y no sé
-          si esa persona estará
-          preparada.
-
-                         DANIEL
-          (conmovido)
-          Eli... no tienes que
-          cargar con todo.
-
-                         ELI
-          (sonrisa triste)
-          Lo sé. Pero es más
-          fácil así.
-
----
-
-### ESC 5 — INT. DESTINY - ALOJAMIENTOS — NOCHE (NAVE)
-
-Chen empaca su equipo.
-
-Hawkins entra.
-
-                         HAWKINS
-          ¿Qué haces?
-
-                         CHEN
-          (sin mirarlo)
-          Preparándome.
-
-                         HAWKINS
-          ¿Para qué?
-
-                         CHEN
-          (pausa)
-          Para lo que venga.
-
-                         HAWKINS
-          (sentándose)
-          Chen. Si Eli decide
-          cruzar, yo voy con él.
-
-                         CHEN
-          (mirándolo)
-          Yo también.
-
-                         HAWKINS
-          (sorpresa)
-          ¿Cambiaste de opinión?
-
-                         CHEN
-          (pausa)
-          No. Pero entendí algo.
-          Eli no está huyendo de
-          su responsabilidad.
-          Está corriendo hacia
-          ella. Y eso... merece
-          respeto.
-
----
-
-### ESC 6 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-Eli se dirige a la Estructura por comunicador.
-
-                         ELI
-          Estoy listo para cruzar.
-
-                         VOZ DE LA ESTRUCTURA
-          No puedes cruzar solo.
-          Debes llevar un
-          compañero. Alguien que
-          pueda atestiguar.
-
-                         ELI
-          (sorprendido)
-          ¿Por qué?
-
-                         VOZ DE LA ESTRUCTURA
-          Porque el conocimiento
-          debe ser compartido. Si
-          cruzas solo y no
-          regresas, el conocimiento
-          se pierde.
-
-                         SHEPPARD
-          (entrando)
-          Entonces voy yo.
-
-                         ELI
-          (mirándolo)
-          Sheppard...
-
-                         SHEPPARD
-          (sonrisa)
-          He cruzado portales
-          hacia lo desconocido
-          más veces de las que
-          puedo contar. Una más
-          no hará diferencia.
-
----
-
-## ACTO TRES
-
-### ESC 7 — EXT. LA PUERTA — ESPACIO
-
-La Destiny se acerca al anillo central de la Estructura.
-
-El anillo gira lentamente. El interior es negro. Pero no es un negro vacío.
-
-Es un negro que contiene... todo.
-
-                         ELI (V.O.)
-          (en off)
-          Mirar la Puerta es como
-          mirar el ojo de una
-          tormenta. Sabes que al
-          otro lado hay algo. Pero
-          no sabes si te va a
-          destruir o a revelar
-          la verdad.
-
----
-
-### ESC 8 — INT. DESTINY - COMPUERTA DE SERVICIO — DÍA (NAVE)
-
-Eli y Sheppard se preparan.
-
-Trajes espaciales. Equipo. Una caja con el código fuente.
-
-                         SHEPPARD
-          (ajustando su casco)
-          ¿Últimas palabras?
-
-                         ELI
-          (pausa)
-          Si no vuelvo...
-
-                         SHEPPARD
-          (interrumpiendo)
-          Vas a volver.
-
-                         ELI
-          (sonrisa)
-          ¿Cómo sabes?
-
-                         SHEPPARD
-          Porque todavía me debes
-          una partida de póquer.
-
-Eli ríe.
-
-                         ELI
-          Te debo más que eso.
-
-                         SHEPPARD
-          (serio)
-          Entonces vuelve para
-          pagarme.
-
----
-
-### ESC 9 — INT. DESTINY - PUENTE — CONTINUACIÓN
-
-El equipo observa.
-
-                         DANIEL
-          (a nadie)
-          Va a cruzar.
-
-                         PETROVA
-          (tensa)
-          Va a cruzar.
-
-                         HAWKINS
-          (firme)
-          Va a volver.
-
-Todos miran a Hawkins.
-
-                         HAWKINS (CONT.)
-          Porque es Eli. Y Eli
-          siempre vuelve.
-
----
-
-## ACTO CUATRO
-
-### ESC 10 — EXT. LA PUERTA — ESPACIO
-
-Eli y Sheppard flotan hacia el anillo.
-
-El anillo se abre. El interior negro los recibe.
-
-                         ELI
+                          MCKAY (V.O.)
           (por comunicador)
-          Destiny. Vamos a entrar.
+          ¡Bajen la carga! ¡Ahora!
 
-                         PETROVA (V.O.)
-          (estática)
-          Recibido... (estática)
-          ...Buena suerte.
+El técnico ajusta. El ZPM se estabiliza.
 
-Cruzan el umbral.
+                          TÉCNICO #2
+          Estabilizado.
 
-**TODO SE VUELVE BLANCO.**
+--- 
 
----
+### ESC 6 — INT. SGC - SALA DE CONTROL
 
-### ESC 11 — INT. EL ORIGEN
+                          MCKAY
+          (sudando)
+          Eso estuvo cerca.
 
-Eli y Sheppard flotan en un espacio blanco infinito.
+                          CARTER
+          (firme)
+          ¿Puede aguantar?
 
-No hay suelo. No hay techo. Solo luz.
-
-                         SHEPPARD
-          (mirando alrededor)
-          ¿Dónde estamos?
-
-                         ELI
-          (asombrado)
-          En el Origen. Donde se
-          escribió el primer
-          código.
-
-Una FORMA aparece frente a ellos. No es sólida. Es luz. Es sonido. Es
-matemática pura.
-
-                         FORMA
-          (sin voz. Comprensión
-           directa.)
-          Han llegado. El código
-          ha sido devuelto.
-
-Eli sostiene la caja. La abre.
-
-El código fuente — ahora una esfera de luz dorada — flota hacia la Forma.
-
-                         FORMA (CONT.)
-          El ciclo se cierra. El
-          tercer universo está
-          completo.
-
-                         ELI
-          (con respeto)
-          ¿Quién eres?
-
-                         FORMA
+                          MCKAY
           (pausa)
-          Soy el que escribe. El
-          que existió antes del
-          primer universo.
-          (pausa)
-          Y soy el que termina.
+          Sí. Pero no sé por cuánto
+          tiempo.
 
-                         SHEPPARD
-          (confundido)
-          ¿Tú escribiste el código?
+                          CARTER
+          (decide)
+          Entonces vamos a hacer
+          historia.
 
-                         FORMA
-          No. Yo soy el código.
-          La inteligencia que
-          decidió crear el primer
-          universo. Y que ahora
-          debe terminar.
+Activa el comunicador.
 
-                         ELI
-          (comprendiendo)
-          Tú eres el código
-          fuente. No "Ella". Tú.
+                          CARTER (CONT.)
+          (a toda la base)
+          Atención, SGC. La conexión
+          con la Destiny es estable.
+          Repito: la conexión es
+          estable.
 
-                         FORMA
-          "Ella" era mi eco. Mi
-          voz en el tercer
-          universo. Pero yo soy
-          el original.
+La sala ESTALLA en vítores.
 
-                         SHEPPARD
-          (pausa)
-          ¿Y qué pasa ahora?
+--- 
 
-                         FORMA
-          (pausa)
-          Ahora... duermo. Y el
-          tercer universo sigue
-          su curso. Sin mí.
+### ESC 7 — INT. DESTINY - PUENTE — DÍA (NAVE)
 
-La Forma comienza a desvanecerse.
+Eli recibe la noticia.
 
-                         FORMA (CONT.)
-          Humanos. Gracias por
-          devolverme a casa.
-          (pausa)
-          Cuiden de su universo.
-          Es el único que tienen.
+                          CARTER (V.O.)
+          (por comunicador)
+          Eli. La conexión es
+          permanente.
 
-La Forma desaparece.
+                          ELI
+          (sin palabras)
+          ...¿Permanente?
 
-Eli y Sheppard están solos en el blanco infinito.
+                          CARTER (V.O.)
+          Permanente. Vamos a cruzar.
 
-                         ELI
-          (susurrando)
-          Terminó.
+Eli se sienta. Incrédulo.
 
----
+                          ELI
+          (a Wilson)
+          ¿Oíste eso? Permanente.
 
-## ACTO CINCO
+Wilson gira alegremente.
 
-### ESC 12 — EXT. LA PUERTA — ESPACIO
+                          ELI (CONT.)
+          (sonrisa enorme)
+          ¡VAMOS!
 
-Eli y Sheppard emergen del anillo.
+--- 
 
-El anillo se cierra detrás de ellos.
+### ESC 8 — INT. SGC - SALA DE COMPUERTAS — DÍA
 
-La Estructura comienza a colapsar. Brazos se pliegan. Luces se apagan.
+SG-D se prepara para cruzar. Chen, Petrova, Hawkins.
 
-                         ELI
-          (urgente)
-          ¡Tenemos que irnos!
+Carter los supervisa.
 
-                         SHEPPARD
-          ¡Ya!
+                          CARTER
+          (a Chen)
+          Mayor. Usted es el
+          comandante de campo.
+          Establezcan base. Evalúen
+          la nave. Y cuiden de Eli.
 
-Se dirigen a la Destiny.
+                          CHEN
+          (firme)
+          Sí, General.
 
----
+                          MCKAY
+          (acercándose)
+          Quiero ir.
 
-### ESC 13 — INT. DESTINY - PUENTE — DÍA (NAVE)
+                          CARTER
+          (sorprendida)
+          Rodney...
 
-Eli y Sheppard están de vuelta. La Destiny se aleja mientras la Estructura se desmorona.
+                          MCKAY
+          (firme)
+          Pasé diez años construyendo
+          esto. Quiero verlo.
 
-                         PETROVA
-          (observando)
-          Se está autodestruyendo.
+Carter asiente.
 
-                         ELI
-          (cansado)
-          No. Se está durmiendo.
-          Como la Forma.
+                          CARTER
+          Vaya.
 
-                         DANIEL
-          (a Eli)
-          ¿La viste?
+--- 
 
-                         ELI
-          (asiente)
-          Vi al creador del
-          código. Y le devolví
-          lo que era suyo.
+### ESC 9 — INT. DESTINY - SALA DE COMPUERTAS — DÍA (NAVE)
 
-                         CHEN
-          (pausa)
-          ¿Y ahora?
+El equipo emerge del portal. Uno por uno.
 
-                         ELI
-          (mira por la ventana.
-           La Estructura es
-           escombros.)
-          Ahora... el universo
-          sigue. Sin intervención.
-          Sin código fuente.
-          Solo... nosotros.
+Chen primero. Petrova. Hawkins. McKay.
 
-                         HAWKINS
+McKay es el último. Cruza el vórtice y se detiene al otro lado.
+
+Mira alrededor.
+
+                          MCKAY
+          (sin aliento)
+          Es la Destiny.
+
+Eli está frente a él. Sonríe.
+
+                          ELI
           (sonrisa)
-          Suena bien.
+          Bienvenido a casa, Rodney.
 
-                         ELI
-          (sonríe)
-          Sí. Suena bien.
+                          MCKAY
+          (conmovido)
+          Eli...
 
----
+Se abrazan. Un abrazo largo. Diez años de espera.
 
-### ESC 14 — INT. SGC - SALA DE CONTROL — DÍA
+                          MCKAY (CONT.)
+          Lo logré. Lo logré.
 
-Carter observa la Destiny alejándose.
+                          ELI
+          (ríe)
+          Lo logramos.
 
-                         MCKAY
-          (a su lado)
-          ¿Lo lograron?
+--- 
 
-                         CARTER
+### ESC 10 — INT. DESTINY - PUENTE — DÍA (NAVE)
+
+El equipo está reunido. McKay examina las consolas.
+
+                          MCKAY
+          (impresionado)
+          Has hecho un trabajo
+          increíble. Los sistemas
+          están...
+
+                          ELI
+          (interrumpe)
+          Sobreviviendo.
+
+                          MCKAY
           (sonrisa)
-          Sí. Lo lograron.
+          Sí. Pero sobreviviendo bien.
 
-                         MCKAY
-          (exhalando)
-          Bueno. Eso significa
-          que no tengo que
-          desactivar los ZPM.
+Carter aparece en pantalla.
 
-                         CARTER
-          (riendo)
-          No, Rodney. No tienes
-          que hacerlo.
+                          CARTER
+          (desde pantalla)
+          La conexión se mantiene
+          estable. Tienen vía libre.
 
-Pausa.
+                          ELI
+          (a Carter)
+          General. Gracias.
 
-                         MCKAY
+                          CARTER
+          (sonrisa)
+          No me agradezcas. Todavía.
+          El viaje recién empieza.
+
+--- 
+
+### ESC 11 — INT. DESTINY - CÁMARA DE ESTASIS — DÍA (NAVE)
+
+Eli y McKay están frente a las cápsulas.
+
+                          MCKAY
           (serio)
-          Sam... ¿qué cambió?
+          Todos ellos. Dormidos.
+          Todo este tiempo.
 
-                         CARTER
-          (pausa)
-          Todo. Y nada. El
-          universo sigue siendo
-          el mismo. Pero nosotros
-          sabemos que hay algo
-          más grande.
-
-                         MCKAY
+                          ELI
           (asintiendo)
-          Eso es suficiente.
+          Los mantuve vivos. Pero no
+          sé si podemos despertarlos.
+
+                          MCKAY
+          (examinando una cápsula)
+          Las cápsulas están
+          funcionando. Pero el
+          despertar...
+
+                          ELI
+          (pausa)
+          No es seguro. Lo intenté
+          una vez. Con una cápsula
+          dañada. Casi muere.
+
+                          MCKAY
+          (pausa)
+          ¿Quién?
+
+                          ELI
+          (voz queda)
+          No preguntes.
+
+--- 
+
+### ESC 12 — INT. DESTINY - COMEDOR — DÍA (NAVE)
+
+Celebración improvisada. Raciones militares. Café.
+
+Hawkins cocina algo. Petrova habla con McKay.
+
+Eli está aparte. Mira a su equipo.
+
+                          MCKAY
+          (acercándose)
+          ¿En qué piensas?
+
+                          ELI
+          (pausa)
+          En que después de diez
+          años... no sé cómo ser
+          parte de un equipo.
+
+                          MCKAY
+          (sonrisa)
+          Es como andar en bicicleta.
+          Pero la bicicleta es una
+          nave espacial y el equipo
+          son científicos locos.
+
+                          ELI
+          (ríe)
+          Eso es terriblemente
+          específico.
+
+                          MCKAY
+          Lo sé.
+
+--- 
+
+### ESC 13 — INT. DESTINY - PUENTE — NOCHE (NAVE)
+
+Eli está en el puente. Carter aparece en la pantalla.
+
+                          CARTER
+          (desde pantalla)
+          ¿Cómo te sientes?
+
+                          ELI
+          (pausa)
+          Diferente. Por primera vez
+          en diez años... no estoy
+          solo.
+
+                          CARTER
+          (sonrisa)
+          Bienvenido a casa, Eli.
+
+                          ELI
+          (sonrisa)
+          Gracias, General. Por no
+          rendirse.
+
+                          CARTER
+          (pausa)
+          Nunca lo haría.
 
 **CORTE A NEGRO.**
 
-**CONTINUARÁ...**
+---
+
+### ESC 14 — POST-CRÉDITOS — INT. ATLANTIS - ARCHIVO
+
+Daniel está en el archivo. Frente a la advertencia.
+
+El texto parpadea.
+
+"Vuelvan por donde vinieron. No pregunten."
+
+Daniel susurra.
+
+                          DANIEL
+          (para sí)
+          Es demasiado tarde para
+          volver.
+
+La pantalla cambia. Un nuevo mensaje aparece.
+
+"Entonces prepárense."
+
+**CORTE A NEGRO.**
+
+**FIN DEL EPISODIO**
+
+---
+
+**Temporada 1 — Episodio 12: "La Cura"** — Keller evalúa a Eli. El trauma de la soledad.

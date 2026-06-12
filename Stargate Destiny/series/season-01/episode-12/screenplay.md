@@ -1,33 +1,42 @@
-# STARGATE: DESTINY — Episodio 12: "La Puerta"
+# STARGATE: DESTINY — Episodio 12: "La Cura"
 
 **Duración**: 44 min
+**Tipo**: Personaje — Keller evalúa a Eli
 
 ---
 
 ## COLD OPEN
 
-### ESC 1 — EXT. ESCOMBROS DE LA ESTRUCTURA — ESPACIO
+### ESC 1 — INT. DESTINY - ENFERMERÍA — DÍA (NAVE)
 
-La Estructura ha colapsado. Solo quedan fragmentos. Polvo.
+La enfermería de la Destiny. Polvo. Equipos antiguos.
 
-Pero en el centro de los escombros: ALGO BRILLA.
+La DRA. JENNIFER KELLER (40, mirada cálida, bata blanca) está instalando equipo médico portátil.
 
-Un objeto pequeño. Intenso.
+Eli está sentado en una camilla. Incómodo.
 
-La Destiny se acerca.
+                          KELLER
+          (sin mirar)
+          ¿Cuándo fue la última vez
+          que te hiciste un chequeo?
 
-                         ELI (V.O.)
-          (en off)
-          Creímos que había
-          terminado. Pero el
-          universo siempre tiene
-          una última sorpresa.
+                          ELI
+          (pausa)
+          Antes de subir a la
+          Destiny.
 
-El objeto emite un PULSO.
+                          KELLER
+          (lo mira)
+          ¿Hace diez años?
 
-                         ELI (V.O.) (CONT.)
-          La Puerta no era el
-          final. Era el principio.
+                          ELI
+          (asintiendo)
+          Más o menos.
+
+                          KELLER
+          (sonrisa profesional)
+          Bueno. Vamos a ver cómo
+          estás.
 
 **CORTE A NEGRO. TÍTULO: STARGATE: DESTINY**
 
@@ -35,628 +44,497 @@ El objeto emite un PULSO.
 
 ## ACTO UNO
 
-### ESC 2 — INT. DESTINY - PUENTE — DÍA (NAVE)
+### ESC 2 — INT. DESTINY - ENFERMERÍA — CONTINUACIÓN
 
-                         PETROVA
-          (analizando)
-          Es un fragmento de la
-          Estructura. Pero... está
-          activo.
+Keller toma signos vitales. Escanea a Eli con un dispositivo médico.
 
-                         ELI
-          (sorprendido)
-          Debería estar muerto.
-          Como el resto.
+                          KELLER
+          (leyendo)
+          Frecuencia cardíaca:
+          normal. Presión: un poco
+          alta. Niveles de estrés:
+          elevados.
 
-                         DANIEL
-          (observando la pantalla)
-          No está muerto. Está...
-          esperando.
+                          ELI
+          (irónico)
+          ¿Diez años solo en el
+          espacio? Quién lo diría.
 
-                         SHEPPARD
-          (con calma)
-          ¿Esperando qué?
+Keller sonríe. Sigue examinando.
 
-                         DANIEL
-          (pausa)
-          A nosotros.
+                          KELLER
+          ¿Has tenido dolores de
+          cabeza?
 
----
-
-### ESC 3 — INT. DESTINY - PUENTE — CONTINUACIÓN
-
-Eli decide investigar.
-
-                         ELI
-          Voy a salir. Necesito
-          verlo de cerca.
-
-                         CHEN
-          (firme)
-          Voy contigo.
-
-                         ELI
-          (asintiendo)
+                          ELI
           Sí.
 
-Se preparan.
+                          KELLER
+          ¿Problemas para dormir?
 
----
-
-### ESC 4 — EXT. FRAGMENTO — ESPACIO
-
-Eli y Chen flotan hacia el fragmento.
-
-Es pequeño. Del tamaño de una persona. Una forma geométrica perfecta.
-
-                         ELI
-          (por comunicador)
-          No emite calor. No
-          emite radiación. Solo...
-          luz.
-
-Toca el fragmento.
-
-INMEDIATAMENTE, una VISIÓN lo golpea.
-
-Ve la Tierra. Pero no la Tierra actual. Una Tierra FUTURA. Miles de años
-en el futuro.
-
-Ve ciudades. Naves. Gente.
-
-Y luego, ve algo más. Una amenaza. Oscuridad. Devorando estrellas.
-
-                         ELI (CONT.)
-          (jadeando)
-          Vi... vi el futuro. Algo
-          viene. Algo que va a
-          devorar todo.
-
-                         CHEN
-          (preocupado)
-          ¿Qué?
-
-                         ELI
+                          ELI
           (pausa)
-          No lo sé. Pero viene.
-          Y no tenemos tiempo.
+          No duermo. No desde que
+          desperté.
 
----
+Keller lo mira. Deja el dispositivo.
 
-### ESC 5 — INT. DESTINY - PUENTE — DÍA (NAVE)
+                          KELLER
+          (seria)
+          ¿Nada?
 
-Eli explica.
-
-                         ELI
-          El fragmento no es parte
-          de la Estructura. Es un
-          mensaje. De la Forma.
-          Una advertencia.
-
-                         DANIEL
-          (grave)
-          ¿Sobre qué?
-
-                         ELI
+                          ELI
           (pausa)
-          Hay algo en el espacio
-          intergaláctico. Algo que
-          está viajando hacia
-          nosotros. Devorando
-          todo a su paso.
+          Duermo en intervalos.
+          Una hora aquí. Dos allá.
+          Mi cerebro no se apaga.
 
-                         PETROVA
-          (horrorizada)
-          ¿Como una onda de
-          destrucción?
-
-                         ELI
+                          KELLER
           (asiente)
-          La Forma lo sabía. Por
-          eso selló el código.
-          No solo para proteger
-          el ciclo. Para protegernos
-          de eso.
+          Es comprensible. Tu cuerpo
+          estuvo en modo de
+          supervivencia durante ocho
+          años.
 
-                         SHEPPARD
-          (con calma)
-          ¿Y ahora que el código
-          está libre?
+                          ELI
+          (sonrisa amarga)
+          Y ahora que hay gente, mi
+          cuerpo no sabe cómo
+          relajarse.
 
-                         ELI
+--- 
+
+### ESC 3 — INT. DESTINY - ENFERMERÍA — MÁS TARDE
+
+Keller termina el examen.
+
+                          KELLER
+          Físicamente, estás bien.
+          Desnutrición leve.
+          Deficiencia de vitaminas.
+          Pero nada grave.
+
+                          ELI
+          ¿Y mentalmente?
+
+Keller pausa.
+
+                          KELLER
+          (sincera)
+          No soy psiquiatra. Pero
+          sé reconocer los síntomas
+          de estrés postraumático.
+
+                          ELI
           (pausa)
-          Ahora no hay nada que
-          nos proteja.
+          ¿Tengo eso?
 
----
+                          KELLER
+          (suave)
+          Creo que sería extraño si
+          no lo tuvieras.
 
-## ACTO DOS
+Eli asiente. No hay negación.
 
-### ESC 6 — INT. SGC - SALA DE BRIEFING — DÍA
+                          KELLER (CONT.)
+          ¿Quieres hablar de ello?
 
-Carter, McKay, Daniel (por pantalla).
+                          ELI
+          (pausa larga)
+          No sé por dónde empezar.
 
-                         CARTER
-          ¿Una amenaza interestelar?
+--- 
 
-                         ELI (V.O.)
-          Algo que devora estrellas.
-          La Forma nos mostró el
-          futuro. En cien años,
-          alcanzará la Vía Láctea.
+### ESC 4 — INT. DESTINY - SALA DE ESTASIS — DÍA (NAVE)
 
-                         MCKAY
-          (calculando)
-          Cien años no es mucho
-          tiempo cósmico.
+Eli y Keller caminan entre las cápsulas.
 
-                         CARTER
-          (decidiendo)
-          Tenemos que prepararnos.
-          Pero primero, necesito
-          saber más.
+                          ELI
+          (señalando)
+          Ahí está TJ. La doctora.
+          Era la única razón por la
+          que estábamos vivos al
+          principio.
 
-                         ELI (V.O.)
+                          KELLER
+          (mirando la cápsula)
+          La Dra. Johansen.
+
+                          ELI
+          (asintiendo)
+          Ella me habría ayudado.
+          Si hubiera estado
+          despierta.
+
+                          KELLER
           (pausa)
-          Hay una manera. El
-          fragmento contiene datos.
-          Pero para acceder a
-          ellos... alguien debe
-          conectarse directamente.
+          ¿Y tú? ¿Quién te ayudó?
 
-                         CARTER
-          (negando)
-          No. Es demasiado
-          peligroso.
+                          ELI
+          (señala a Wilson que
+           flota cerca)
+          Él.
 
-                         ELI (V.O.)
-          General. Si no lo
-          hacemos, no sabremos
-          qué viene. Y no podremos
-          prepararnos.
+Keller mira a Wilson.
 
-                         DANIEL
-          (interviniendo)
-          Yo lo haré.
-
-                         ELI (V.O.)
-          (sorprendido)
-          Daniel...
-
-                         DANIEL
-          He estado en contacto
-          con suficiente tecnología
-          Ancient como para saber
-          cómo manejar esto. Déjame
-          intentarlo.
-
-                         CARTER
-          (pausa)
-          ¿Estás seguro?
-
-                         DANIEL
+                          KELLER
           (sonrisa)
-          No. Pero desde cuándo
-          eso me ha detenido?
+          Wilson.
 
----
-
-### ESC 7 — EXT. FRAGMENTO — ESPACIO
-
-Daniel flota frente al fragmento.
-
-                         DANIEL
-          (por comunicador)
-          Allá voy.
-
-                         ELI (V.O.)
-          (nervioso)
-          Si sientes algo extraño,
-          desconéctate.
-
-                         DANIEL
+                          ELI
           (sonrisa)
-          Siempre siento algo
-          extraño, Eli. Es parte
-          de ser arqueólogo.
+          Sí. Wilson me escuchaba.
+          Nunca me juzgaba.
 
-Toca el fragmento.
+                          KELLER
+          (suave)
+          Pero no podía responderte.
 
----
-
-### ESC 8 — INT. VISIÓN — DANIEL
-
-Daniel ve lo que Eli vio. Pero ve más.
-
-Ve el origen de la amenaza.
-
-No es natural. No es un fenómeno cósmico.
-
-Es INTELIGENTE. Una conciencia que viaja entre galaxias, devorando
-civilizaciones.
-
-                         DANIEL (V.O.)
-          (en off)
-          No es un evento. Es una
-          entidad. Algo que ha
-          estado viajando desde
-          antes del primer universo.
-
-Ve cómo destruye.
-
-Y ve cómo DETENERLA.
-
-                         DANIEL (V.O.) (CONT.)
-          (susurrando)
-          El código. El código
-          fuente puede detenerla.
-          Pero no desde aquí.
-          Desde el Origen.
-
-Abre los ojos.
-
-                         DANIEL (CONT.)
-          (a Eli)
-          Tenemos que devolver el
-          código. No para proteger
-          el universo. Para
-          protegerlo de ELLA.
-
----
-
-## ACTO TRES
-
-### ESC 9 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-                         ELI
-          (procesando)
-          ¿El código fuente es un
-          arma?
-
-                         DANIEL
-          No un arma. Una llave.
-          El Origen tiene un
-          mecanismo de defensa.
-          Algo que los creadores
-          del código instalaron
-          por si algo como esto
-          pasaba.
-
-                         SHEPPARD
-          (con calma)
-          ¿Y tenemos que volver
-          al Origen?
-
-                         DANIEL
+                          ELI
           (pausa)
-          Sí.
+          No. Pero a veces...
+          imaginaba que sí.
 
-                         PETROVA
-          (desesperada)
-          ¡La Puerta se destruyó!
-          No podemos volver.
+--- 
 
-                         DANIEL
-          (mirando el fragmento)
-          La Puerta se destruyó.
-          Pero el fragmento...
-          el fragmento es una
-          llave. Puede abrir una
-          nueva Puerta.
+### ESC 5 — INT. DESTINY - COMEDOR — DÍA (NAVE)
 
-                         ELI
-          (comprendiendo)
-          Podemos crear un nuevo
-          portal. Desde aquí.
-          Usando el fragmento
-          como ancla.
+Keller y Eli están sentados con café.
 
-                         CHEN
-          (preocupado)
-          ¿Hacia dónde?
+                          KELLER
+          ¿Cómo fue el primer año?
 
-                         DANIEL
+                          ELI
+          (mira la taza)
+          El peor. Desperté solo.
+          Todos dormidos. Sin saber
+          si la nave aguantaría.
+
+                          KELLER
+          ¿Qué hiciste?
+
+                          ELI
           (pausa)
-          Hacia la amenaza. Para
-          enfrentarla.
+          Grité. Lloré. Golpeé
+          paredes. Luego... empecé
+          a trabajar.
 
----
+                          KELLER
+          ¿El trabajo te salvó?
 
-### ESC 10 — INT. DESTINY - PUENTE — CONTINUACIÓN
+                          ELI
+          (piensa)
+          El trabajo y Wilson.
+          Necesitaba un propósito.
+          Y lo encontré.
 
-                         ELI
-          (decidiendo)
-          Vamos a hacerlo. Vamos
-          a abrir una nueva Puerta.
+                          KELLER
+          ¿Cuál?
 
-                         HAWKINS
-          (firme)
-          Todos vamos.
+                          ELI
+          (mira alrededor)
+          Mantenerlos vivos. Todos
+          ellos.
 
-                         ELI
-          (negando)
-          No. Esta vez voy solo.
+--- 
 
-                         SHEPPARD
-          (firme)
-          Ni hablar.
+### ESC 6 — INT. DESTINY - TALLER — DÍA (NAVE)
 
-                         ELI
-          (a Sheppard)
-          John. Si algo sale mal,
-          alguien tiene que quedar
-          para contarlo. Para
-          advertir a la Tierra.
+Keller explora el taller de Eli. Piezas. Herramientas. Proyectos.
 
-                         SHEPPARD
-          (pausa)
-          No me gusta.
+                          KELLER
+          (impresionada)
+          Hiciste todo esto solo.
 
-                         ELI
+                          ELI
+          (corrige)
+          Con ayuda de Wilson.
+
+                          KELLER
           (sonrisa)
-          A mí tampoco. Pero es
-          lo correcto.
+          Por supuesto.
 
----
+Pausa. Keller recoge un objeto.
 
-## ACTO CUATRO
+                          KELLER (CONT.)
+          ¿Qué es esto?
 
-### ESC 11 — INT. DESTINY — PREPARATIVOS
+                          ELI
+          (mirando)
+          Un intento de
+          comunicador. Fallido.
 
-Eli se prepara. Equipo. El fragmento como ancla. Un kino adicional.
+                          KELLER
+          ¿Cuántas veces intentaste
+          contactar?
+
+                          ELI
+          (pausa)
+          No sé. Muchas. Siempre
+          fallaba.
+
+                          KELLER
+          ¿Y eso cómo te hacía
+          sentir?
+
+                          ELI
+          (sincero)
+          Como si estuviera
+          gritando en el vacío.
+
+--- 
+
+### ESC 7 — INT. DESTINY - ENFERMERÍA — DÍA (NAVE)
+
+Keller prepara un tratamiento.
+
+                          KELLER
+          Te voy a dar algo para
+          dormir. No es una
+          solución. Pero te ayudará
+          a descansar.
+
+                          ELI
+          (reacio)
+          No me gusta perder el
+          control.
+
+                          KELLER
+          (suave)
+          Lo sé. Pero tu cuerpo
+          necesita descanso. Ocho
+          años sin dormir bien...
+
+                          ELI
+          (interrumpe)
+          No fueron ocho años sin
+          dormir. Fueron ocho años
+          durmiendo mal. Es
+          diferente.
+
+                          KELLER
+          (asiente)
+          Lo sé. Pero el resultado
+          es el mismo: estás agotado.
+
+Eli toma la medicación.
+
+                          ELI
+          (pausa)
+          ¿Cuánto tiempo hasta que
+          haga efecto?
+
+                          KELLER
+          (sonrisa)
+          Una hora. Relájate.
+
+--- 
+
+### ESC 8 — INT. DESTINY - PUENTE — NOCHE (NAVE)
+
+Eli está en el puente. La medicación empieza a hacer efecto.
+
+Sus ojos se cierran.
 
 Wilson flota cerca.
 
-                         ELI
-          (a Wilson)
-          Tú te quedas también.
-          Cuida de ellos.
+                          ELI
+          (a Wilson, somnoliento)
+          Voy a dormir. De verdad.
 
-Wilson parpadea. No se mueve.
+Wilson parpadea.
 
-                         ELI (CONT.)
+                          ELI (CONT.)
           (sonrisa)
-          Esta vez es en serio.
-          Quédate.
+          Cuida de la nave.
 
-Wilson parpadea lentamente. Una vez. Como un "sí".
+Wilson emite un pitido suave.
 
----
+Eli se recuesta en el sillón del capitán.
 
-### ESC 12 — EXT. NUEVA PUERTA — ESPACIO
+Por primera vez en años... CIERRA LOS OJOS.
 
-El fragmento se activa. Genera un anillo de luz. No es tan grande como
-la Puerta original. Es pequeño. Suficiente para una persona.
+**CORTE A:**
 
-Eli flota frente a él.
+--- 
 
-                         ELI
-          (por comunicador)
-          Destiny. Abriendo
-          portal.
+### ESC 9 — INT. DESTINY - PUENTE — VARIAS HORAS DESPUÉS — AMANECER (NAVE)
 
-                         PETROVA (V.O.)
-          (emocional)
-          Recibido, Eli.
+Eli abre los ojos.
 
-                         CHEN (V.O.)
-          Vuelve.
+No sabe cuánto tiempo ha pasado. Pero se siente diferente.
 
-                         ELI
+Keller está cerca. Revisando datos.
+
+                          ELI
+          (voz ronca)
+          ¿Cuánto tiempo...?
+
+                          KELLER
           (sonrisa)
-          Siempre vuelvo.
+          Seis horas.
 
-                         DANIEL (V.O.)
-          Eli. Recuerda: la
-          amenaza no es un ser.
-          Es una entidad. No
-          intentes comunicarte.
-          Solo entrega el código
-          y vete.
+                          ELI
+          (sorprendido)
+          ¿Seis horas seguidas?
 
-                         ELI
+                          KELLER
           (asintiendo)
-          Entendido.
+          Seis horas. Sin
+          interrupciones.
 
-                         CARTER (V.O.)
-          (desde Tierra)
-          Eli. Esto es más grande
-          que cualquiera de
-          nosotros. Confío en ti.
+Eli se sienta. Se estira.
 
-                         ELI
-          (conmovido)
-          Gracias, General.
-
-                         SHEPPARD (V.O.)
-          Oye.
-
-                         ELI
-          (escuchando)
-
-                         SHEPPARD (V.O.)
-          Cuando vuelvas, te
-          enseño a jugar al
-          póquer de verdad.
-
-                         ELI
-          (riendo)
-          Trato hecho.
-
-Eli cruza el portal.
-
----
-
-### ESC 13 — INT. EL ORIGEN — SEGUNDA VISITA
-
-Eli está de vuelta en el espacio blanco.
-
-Pero ahora está DIFERENTE. Hay SOMBRAS. Manchas oscuras en la luz.
-
-                         ELI
-          (mirando alrededor)
-          ¿Forma? ¿Estás aquí?
-
-Silencio.
-
-Luego, una VOZ. No es la Forma. Es más fría.
-
-                         VOZ OSCURA
-          Finalmente.
-
-Eli se gira. Detrás de él: UNA FORMA OSCURA. La amenaza.
-
-                         ELI
-          (sin miedo)
-          Tú eres la que devora
-          galaxias.
-
-                         VOZ OSCURA
-          Soy la que equilibra.
-          Cuando un universo ha
-          cumplido su ciclo, yo
-          lo recojo.
-
-                         ELI
-          (firme)
-          Este universo no ha
-          cumplido su ciclo.
-
-                         VOZ OSCURA
+                          ELI
+          (incrédulo)
+          No me sentía así desde...
           (pausa)
-          Lo sé. Por eso estoy
-          aquí. Para terminarlo.
+          ...desde antes de la
+          Destiny.
 
-                         ELI
-          (sosteniendo el código)
-          No voy a dejarte.
+                          KELLER
+          (suave)
+          Eso es una buena señal.
 
-                         VOZ OSCURA
-          (con curiosidad)
-          ¿Y qué vas a hacer?
-          ¿Detenerme?
+--- 
 
-                         ELI
+### ESC 10 — INT. DESTINY - COMEDOR — DÍA (NAVE)
+
+Eli come. Con apetito. Keller lo observa desde lejos.
+
+Petrova se sienta con Keller.
+
+                          PETROVA
+          ¿Cómo está?
+
+                          KELLER
+          (mirando a Eli)
+          Físicamente, bien.
+          Mentalmente... va a tomar
+          tiempo.
+
+                          PETROVA
           (pausa)
-          Voy a entregar el
-          código. Y tú vas a
-          irte.
+          Ocho años solo. No se
+          supera así nomás.
 
-                         VOZ OSCURA
-          (pausa)
-          El código no puede
-          detenerme. El código es
-          mi origen.
-
-                         ELI
-          (sonrisa)
-          Lo sé. Pero no voy a
-          usarlo contra ti. Voy
-          a usarlo para sanar
-          el universo. Para que
-          no necesites venir.
-
-La Forma Oscura lo mira. Eli no retrocede.
-
-                         VOZ OSCURA
-          (finalmente)
-          Eres interesante,
-          humano. Muy interesante.
-
----
-
-## ACTO CINCO
-
-### ESC 14 — INT. EL ORIGEN — CONTINUACIÓN
-
-Eli entrega el código. La luz del Origen se intensifica.
-
-Las sombras retroceden.
-
-                         VOZ OSCURA
-          (alejándose)
-          Por ahora... me retiro.
-          Pero el ciclo siempre
-          vuelve. Y cuando vuelva,
-          espero que estés listo.
-
-                         ELI
-          (firme)
-          Lo estaré.
-
-La Oscuridad se desvanece.
-
-Eli está solo en la luz.
-
-                         ELI (CONT.)
-          (susurrando)
-          Lo estaré.
-
----
-
-### ESC 15 — EXT. NUEVA PUERTA — ESPACIO
-
-Eli emerge del portal.
-
-El equipo lo recibe en la compuerta de servicio.
-
-                         SHEPPARD
-          (sonrisa)
-          Tardaste.
-
-                         ELI
-          (sonrisa)
-          El tráfico era terrible.
-
-Todos ríen. Eli abraza a Wilson, que ha venido a recibirlo.
-
-                         ELI (CONT.)
-          (a Wilson)
-          Te extrañé.
-
-Wilson parpadea feliz.
-
----
-
-### ESC 16 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-Eli informa a Carter.
-
-                         ELI
-          La amenaza se retiró.
-          Pero volverá.
-
-                         CARTER
-          (desde la pantalla)
-          ¿Cuánto tiempo tenemos?
-
-                         ELI
-          (pausa)
-          No lo sé. Años. Décadas.
-          Tal vez siglos. Pero
-          ahora sabemos que existe.
-          Y podemos prepararnos.
-
-                         CARTER
+                          KELLER
           (asintiendo)
-          Entonces preparémonos.
+          No. Pero es fuerte. Y
+          tiene apoyo ahora.
 
-                         ELI
-          (mirando por la ventana)
-          General. La Destiny...
-          todavía tiene un largo
-          viaje por delante.
+Petrova mira a Eli.
 
-                         CARTER
+                          PETROVA
           (sonrisa)
-          Lo sé. Y estaremos aquí,
-          en la Tierra, esperándolos.
+          Sí. Ahora tiene apoyo.
 
-                         ELI
+--- 
+
+### ESC 11 — INT. DESTINY - PUENTE — DÍA (NAVE)
+
+Eli está en su consola. Keller entra.
+
+                          KELLER
+          ¿Cómo te sientes?
+
+                          ELI
+          (sin mirar)
+          Diferente. Como si
+          hubiera vuelto de algún
+          lugar.
+
+                          KELLER
+          (se acerca)
+          ¿Has vuelto?
+
+                          ELI
+          (pausa)
+          No lo sé. Pero al menos
+          sé que hay un camino de
+          regreso.
+
+                          KELLER
           (sonrisa)
-          Nosotros también los
-          esperamos a ustedes.
+          Eso es más de lo que
+          tenías ayer.
+
+Eli asiente.
+
+                          ELI
+          (mira a Keller)
+          Gracias, doctora.
+
+                          KELLER
+          (sonrisa)
+          Llámame Jennifer.
+
+--- 
+
+### ESC 12 — INT. DESTINY - ENFERMERÍA — DÍA (NAVE)
+
+Keller empaca su equipo. Eli está en la puerta.
+
+                          ELI
+          ¿Te vas?
+
+                          KELLER
+          (asintiendo)
+          Mi trabajo aquí está
+          hecho. Vuelvo a la
+          Tierra. Pero volveré.
+
+                          ELI
+          (pausa)
+          Gracias. Por...
+          (busca palabras)
+          ...por recordarme que
+          soy humano.
+
+Keller sonríe.
+
+                          KELLER
+          (suave)
+          Nunca dejaste de serlo,
+          Eli. Solo lo olvidaste.
 
 **CORTE A NEGRO.**
 
-**CONTINUARÁ...**
+---
+
+### ESC 13 — INT. DESTINY - PUENTE — NOCHE (NAVE)
+
+Eli está en el puente. Wilson flota.
+
+                          ELI
+          (a Wilson)
+          Dijo que nunca dejé de
+          ser humano.
+
+Wilson parpadea.
+
+                          ELI (CONT.)
+          (sonrisa)
+          Tal vez tenga razón.
+
+Mira por la ventana. Las estrellas pasan.
+
+                          ELI (CONT.)
+          Pero todavía me siento
+          como si estuviera
+          aprendiendo a serlo de
+          nuevo.
+
+Wilson flota más cerca.
+
+                          ELI (CONT.)
+          (a Wilson)
+          Pero voy a intentarlo.
+
+**CORTE A NEGRO.**
+
+**FIN DEL EPISODIO**
+
+---
+
+**Temporada 1 — Episodio 13: "El Mapa"** — Finale. Bifurcación. Zona muerta. Curadores. El camino por delante.

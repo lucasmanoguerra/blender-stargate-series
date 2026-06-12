@@ -1,577 +1,557 @@
-# STARGATE: DESTINY — Episodio 5: "Tres Opciones"
+# STARGATE: DESTINY — Episodio 5: "Proyecto Fénix"
 
 **Duración estimada**: 44 min
+**Tipo**: Flashback Carter — 10 años de lucha con el IOA
 
 ---
 
 ## COLD OPEN
 
-### ESC 1 — INT. SGC - DESPACHO DEL IOA — DÍA
+### ESC 1 — INT. SGC - DESPACHO DE CARTER — DÍA — HACE 10 AÑOS
 
-Una sala de juntas elegante. Banderas. Trajes. Gente seria.
+El despacho de Carter. Más pequeño. Menos tecnología. Fotos del SG-1 original en la pared.
 
-Al frente de la mesa: la REPRESENTANTE DEL IOA, una mujer de 60 años, mirada dura.
+Carter (45, recién ascendida a General) está al teléfono. Su rostro es de piedra.
 
-Carter está sentada frente a ella. Daniel y McKay están detrás, de pie.
+                          CARTER
+          (al teléfono)
+          No. No voy a cerrar el
+          proyecto. No después de lo
+          que hemos invertido.
 
-                         REPRESENTANTE
-          General Carter. Tengo un
-          informe aquí que dice que
-          su gente cruzó una zona
-          del espacio donde las leyes
-          de la física no aplican,
-          abordó una estructura
-          alienígena hostil, y ahora
-          está en una región del
-          universo que no aparece en
-          ningún mapa.
+Pausa. Escucha.
 
-                         CARTER
-          (calmada)
-          Correcto.
+                          CARTER (CONT.)
+          Con todo respeto, señor,
+          no entiende. Hay gente ahí
+          fuera. Gente de la Tierra.
+          No los voy a abandonar.
 
-                         REPRESENTANTE
-          ¿Y no se le ocurrió
-          consultar antes de
-          proceder?
+Pausa.
 
-                         CARTER
-          No había comunicación
-          disponible en la zona
-          muerta. Y la ventana de
-          oportunidad era limitada.
+                          CARTER (CONT.)
+          Entonces encontrará mi
+          renuncia sobre su mesa
+          mañana.
 
-                         REPRESENTANTE
-          (pausa. Mira papeles.)
-          El proyecto Destiny ha
-          costado miles de millones.
-          Hemos perdido dos ZPM.
-          Hemos desviado recursos
-          de la defensa de la Tierra.
+Cuelga.
 
-                         CARTER
-          Y hemos encontrado evidencia
-          de una red de información
-          que cruza el universo.
-          Hemos establecido contacto
-          con una inteligencia
-          anterior a los Antiguos.
-          Y estamos siguiendo un mapa
-          hacia el origen de la
-          realidad.
-
-La Representante la mira.
-
-                         REPRESENTANTE
-          Y por eso tengo tres
-          opciones para usted.
+Respira hondo.
 
 **CORTE A NEGRO. TÍTULO: STARGATE: DESTINY**
 
 ---
 
-## ACTO UNO
+## ACTO UNO — AÑO 1
 
-### ESC 2 — INT. SGC - DESPACHO DEL IOA — CONTINUACIÓN
+### ESC 2 — INT. SGC - SALA DE JUNTAS DEL IOA — DÍA — HACE 10 AÑOS
 
-                         REPRESENTANTE
-          Opción uno: continúan la
-          misión con recursos
-          limitados. Sin nuevos ZPM.
-          Sin refuerzos. Sin apoyo
-          adicional. Si algo sale
-          mal, están solos.
+Sala elegante. Banderas. Trajes.
 
-                         CARTER
-          (asiente)
-          ¿Opción dos?
+LA REPRESENTANTE DEL IOA (60, mirada dura) preside. Carter está al otro lado de la mesa.
 
-                         REPRESENTANTE
-          Opción dos: regresan.
-          Establecen la Destiny en
-          una órbita segura, mantienen
-          la conexión como puesto de
-          avanzada, pero cesan la
-          exploración activa.
+                          REPRESENTANTE
+          General Carter. El Proyecto
+          Destiny ha costado
+          setecientos millones de
+          dólares. No tenemos
+          resultados.
 
-                         CARTER
+                          CARTER
+          Tenemos una nave. Una nave
+          Ancient en el borde del
+          universo conocido.
+
+                          REPRESENTANTE
+          Que no podemos contactar.
+          Que no podemos controlar.
+          Y que nos costó la novena
+          chevron.
+
+                          CARTER
+          (firme)
+          Vamos a lograrlo.
+          Necesitamos tiempo.
+
+                          REPRESENTANTE
           (pausa)
-          ¿Y la tercera?
+          Tiene seis meses.
 
-                         REPRESENTANTE
-          (pausa larga)
-          Opción tres: entregamos el
-          proyecto a control civil
-          internacional. Usted es
-          relevada. Un comité toma
-          las decisiones.
+Carter asiente. No hay opción.
 
-                         MCKAY
-          (sin poder contenerse)
-          ¿Un comité? ¿Gente que no
-          ha pisado una nave en su
-          vida va a decidir hacia
-          dónde vamos?
+--- 
 
-                         REPRESENTANTE
-          (fría)
-          Doctor McKay. Si vuelve a
-          interrumpirme, lo sacan de
-          esta reunión.
+### ESC 3 — INT. SGC - LABORATORIO DE MCKAY — DÍA — HACE 9 AÑOS
 
-McKay se calla. Carter lo mira, luego mira a la Representante.
+McKay está frente a una pizarra llena de ecuaciones. Carter entra.
 
-                         CARTER
-          ¿Cuándo necesita mi
-          respuesta?
+                          MCKAY
+          (sin mirar)
+          Si has venido a preguntar
+          si estoy cerca, la respuesta
+          es no.
 
-                         REPRESENTANTE
-          Tiene 48 horas.
+                          CARTER
+          Necesito buenas noticias,
+          Rodney.
 
----
+                          MCKAY
+          (se gira)
+          Buenas noticias: la
+          estabilización del agujero
+          de gusano es teóricamente
+          posible. Malas noticias:
+          necesitamos una fuente de
+          energía del tamaño de una
+          estrella.
 
-### ESC 3 — INT. SGC - SALA DE CONTROL — DÍA
-
-Carter baja las escaleras. Daniel y McKay la siguen.
-
-                         DANIEL
-          Va a elegir la opción uno.
-          ¿Verdad?
-
-                         CARTER
-          (sin detenerse)
-          No lo sé.
-
-                         MCKAY
-          ¿Cómo que no lo sabes?
-          Sam, si entregamos esto
-          a un comité, en seis meses
-          estarán decidiendo qué
-          color de uniforme usar.
-
-                         CARTER
-          (deteniéndose)
-          Rodney. Tengo que pensar
-          en la seguridad de todos.
-          Si sigo adelante y algo
-          sale mal, la culpa será
-          mía. Si vuelvo atrás,
-          habré desperdiciado todo.
-          Si entrego el control...
+                          CARTER
           (pausa)
-          No sé qué es peor.
+          ¿Y los ZPM?
 
-                         DANIEL
-          (suave)
-          Habla con Eli. Él ha estado
-          tomando decisiones solo
-          durante diez años. Tal vez
-          tenga perspectiva.
+                          MCKAY
+          Tres ZPM nos darían
+          cuarenta y siete segundos.
+          Tal vez un minuto.
 
-Carter asiente.
+                          CARTER
+          (decide)
+          Entonces consigue tres ZPM.
+          Yo me encargo del resto.
 
----
+--- 
 
-### ESC 4 — INT. DESTINY - PUENTE — DÍA (NAVE)
+### ESC 4 — INT. SGC - DESPACHO DE CARTER — NOCHE — HACE 8 AÑOS
 
-Carter aparece en la pantalla. Explica las opciones.
+Carter está sola. Mira fotos de la tripulación de la Destiny.
 
-Eli escucha sin interrumpir.
+Eli. Rush. Young. Scott. Chloe. Greer. TJ.
 
-                         ELI
-          (cuando termina)
-          Usted ya tomó la decisión,
-          General.
+Toca la foto de Eli.
 
-                         CARTER
-          (sorprendida)
-          ¿Cómo sabes?
+                          CARTER
+          (para sí)
+          Lo siento, Eli. Todavía
+          no.
 
-                         ELI
-          Porque yo también la tomé
-          hace diez años. Cuando me
-          quedé solo.
+La puerta se abre. DANIEL entra.
 
-Pausa.
+                          DANIEL
+          ¿Sigues despierta?
 
-                         ELI (CONT.)
-          La opción uno no es "seguir
-          adelante". Es "seguir
-          adelante sabiendo que
-          puede ser un error". La
-          dos es rendirse. La tres
-          es dejar que otros tomen
-          la culpa.
+                          CARTER
+          (sonrisa cansada)
+          No puedo dormir.
 
-                         CARTER
+                          DANIEL
+          (se sienta)
+          ¿El IOA otra vez?
+
+                          CARTER
+          Quieren cerrar el proyecto.
+          Dicen que es un sumidero
+          de recursos.
+
+                          DANIEL
+          ¿Y qué les dices?
+
+                          CARTER
+          Que hay gente ahí fuera.
+          Que no los vamos a dejar.
+
+                          DANIEL
           (pausa)
-          Y si elijo la uno...
+          ¿Crees que están vivos?
 
-                         ELI
-          Entonces será responsable.
-          Pero también será la que
-          llegó hasta el final.
+                          CARTER
+          (pausa más larga)
+          Tengo que creerlo. Si no,
+          ¿para qué sigo?
 
----
+--- 
 
-## ACTO DOS
+### ESC 5 — INT. SGC - CÁMARA DEL ZPM — DÍA — HACE 7 AÑOS
 
-### ESC 5 — INT. SGC - DESPACHO DE CARTER — NOCHE
+Primer intento. McKay ajusta los ZPM. Carter observa.
 
-Carter está sentada sola. Mira fotos en su escritorio. Su familia. Su equipo.
+                          MCKAY
+          (nervioso)
+          Primera vez. Si explota
+          todo, fue un placer.
 
-Llama a la Destiny.
+                          CARTER
+          Rodney.
 
-                         CARTER
-          (a la pantalla)
-          SG-D. Reúnan al equipo.
-          Tengo una respuesta.
-
----
-
-### ESC 6 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-El equipo está reunido. Carter en la pantalla.
-
-                         CARTER
-          He tomado una decisión.
-          Vamos a continuar. Opción
-          uno. Recursos limitados,
-          sin refuerzos, sin apoyo.
-
-                         CHEN
-          (asiente)
-          Entendido, General.
-
-                         CARTER
-          Pero con una condición.
-
-                         ELI
-          (interesado)
-          ¿Cuál?
-
-                         CARTER
-          Si en algún momento la
-          misión pone en riesgo la
-          seguridad de la Tierra...
-          si hay una amenaza directa...
-          regresan. Sin discusión.
-
-                         ELI
+                          MCKAY
+          Es broma. Es broma.
           (pausa)
-          Aceptado.
+          Más o menos.
 
-                         CARTER
-          (a todo el equipo)
-          Tienen libertad para
-          explorar, para investigar,
-          para llegar al final del
-          mapa. Pero son mi gente.
-          Y quiero que vuelvan a
-          casa.
+El ZPM se activa. La energía fluye.
 
-                         HAWKINS
-          (sonrisa)
-          Sí, señora.
+La pantalla muestra la compuerta de la Destiny. Vacía. Polvo.
 
-                         CARTER
-          (mirando el mapa)
-          Ahora. Muéstrenme qué
-          encontraron.
+                          TÉCNICO
+          ¡Conexión estable! Siete
+          segundos...
 
----
+La imagen se desvanece.
 
-### ESC 7 — INT. DESTINY - PUENTE — CONTINUACIÓN
+                          MCKAY
+          (frustrado)
+          Siete segundos. Siete
+          miserables segundos.
 
-Eli muestra el nuevo mapa.
+                          CARTER
+          (conteniendo la emoción)
+          Siete segundos más que
+          ayer. Lo logramos.
 
-                         ELI
-          Desde que cruzamos el
-          pliegue, el patrón se ha
-          vuelto más claro. Las
-          sembradoras nos están
-          guiando activamente.
+                          MCKAY
+          (la mira)
+          ¿Siete segundos te parece
+          un logro?
 
-La pantalla muestra un CAMINO. Claro. Definido. Con escalas.
+                          CARTER
+          (firme)
+          Es un comienzo.
 
-                         ELI (CONT.)
-          Hay ocho paradas antes
-          del punto final. Ocho
-          nodos. Como estaciones.
+--- 
 
-                         PETROVA
-          Cada nodo parece contener
-          información. Datos que las
-          sembradoras han recolectado.
+### ESC 6 — INT. IOA - AUDIENCIA — DÍA — HACE 6 AÑOS
 
-                         ELI
-          Es como una escalera.
-          Subimos un escalón, obtenemos
-          más información, podemos
-          acceder al siguiente.
+Carter está frente a un panel de cinco representantes.
 
-                         CHEN
-          ¿Y al final?
+                          REPRESENTANTE #2
+          General, siete segundos no
+          justifican el gasto.
 
-                         ELI
+                          CARTER
+          Siete segundos demuestran
+          que es posible. Que la
+          conexión existe. Que la
+          nave sigue ahí.
+
+                          REPRESENTANTE #3
+          Y la tripulación?
+
+                          CARTER
           (pausa)
-          Al final está lo que la
-          Presencia llamó "el origen".
-          Y lo que los Curadores
-          protegen.
+          No lo sabemos.
 
----
+                          REPRESENTANTE #2
+          Entonces no sabemos si hay
+          alguien que rescatar.
 
-### ESC 8 — INT. DESTINY — ALOOK EN LA NAVE
+                          CARTER
+          (firme)
+          Pero sabemos que hay una
+          nave que investigar.
+          Tecnología Ancient. Datos
+          del borde del universo.
+          El conocimiento que
+          contiene...
 
-Escenas breves de la vida en la Destiny.
+                          REPRESENTANTE #2
+          (interrumpe)
+          No es prioridad del IOA.
 
-Petrova en su "laboratorio", analizando datos. Chen entrenando en un pasillo vacío. Hawkins leyendo poesía en su litera. Eli en el puente, mirando las estrellas.
-
-Wilson flota de un lado a otro, como supervisando.
-
-Eli sonríe.
-
-                         ELI
-          (a Wilson)
-          ¿Sabes? Por primera vez en
-          diez años... no estoy solo.
-
-Wilson parpadea.
-
-                         ELI (CONT.)
-          Es extraño. Pero... me
-          gusta.
-
----
-
-## ACTO TRES
-
-### ESC 9 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-La consola emite una alerta.
-
-                         ELI
-          (mirando)
-          Algo se acerca.
-
-                         CHEN
-          (alerta)
-          ¿Qué?
-
-                         ELI
-          (procesando)
-          No lo sé. Es... grande.
-          Muy grande.
-
-La pantalla muestra una FORMA. Oscura. Masiva.
-
-                         ELI (CONT.)
-          (horrorizado)
-          Es una nave de los
-          Curadores.
-
----
-
-### ESC 10 — EXT. NAVE DE LOS CURADORES — ESPACIO
-
-La nave emerge de una distorsión. Es orgánica. Inmensa. Brazos que se extienden como tentáculos de una criatura marina. Luces frías pulsan a lo largo de su superficie.
-
-Es más grande que la Destiny. Mucho más grande.
-
-[BLENDER] Nave Curadora: diseño biomecánico. Superficie texturizada como caparazón. Luces frías (azul/violeta). Brazos/tentáculos que se mueven lentamente. Escala imponente comparada con la Destiny.
-
----
-
-### ESC 11 — INT. DESTINY - PUENTE — CONTINUACIÓN
-
-                         HAWKINS
-          (preparando armas)
-          ¿Hostil?
-
-                         ELI
-          (observando)
-          No lo sé. No ha hecho
-          ningún movimiento ofensivo.
-          Solo... está ahí.
-
-La nave emite una SEÑAL. La consola la recibe.
-
-                         ELI (CONT.)
-          Es un mensaje.
-
-                         PETROVA
-          (leyendo)
-          No está en Ancient. Es...
-          (pausa)
-          Es un idioma que no conozco.
-
-                         ELI
-          (analizando)
-          Pero la nave lo está
-          traduciendo. La Destiny
-          conoce este idioma.
-
-La pantalla muestra texto:
-
-          "DETÉNGANSE. ESTE NO ES SU CAMINO."
-
-                         CHEN
-          (tenso)
-          Una advertencia.
-
-                         ELI
-          No. Una oportunidad.
-
-                         CHEN
-          ¿Cómo?
-
-                         ELI
-          (sonrisa)
-          Si nos estuvieran
-          advirtiendo, no se habrían
-          molestado en aparecer. Nos
-          están evaluando. Como la
-          Presencia.
-
----
-
-### ESC 12 — INT. SGC - SALA DE CONTROL — DÍA
-
-Carter observa la transmisión.
-
-                         CARTER
-          (por comunicador)
-          Eli. No te acerques.
-          No sabemos qué puede hacer.
-
-                         ELI (V.O.)
-          (estática)
-          ...entiendo, General.
-          Pero...
-          (estática)
-          ...creo que deberíamos...
-
-La comunicación se corta.
-
-                         CARTER
-          ¡Eli!
+                          CARTER
+          (pausa. Mira a cada uno.)
+          Entonces díganme: ¿cuál es
+          la prioridad? Porque si
+          abandonamos a nuestra gente
+          en el espacio, ¿qué nos
+          diferencia de los Goa'uld?
 
 Silencio.
 
----
+--- 
 
-## ACTO CUATRO
+### ESC 7 — INT. SGC - LABORATORIO — NOCHE — HACE 5 AÑOS
 
-### ESC 13 — INT. DESTINY - PUENTE — CONTINUACIÓN
+McKay trabaja solo. Carteles de ecuaciones por todas partes.
 
-La nave de los Curadores emite una segunda señal.
+Carter entra con café.
 
-La pantalla muestra:
+                          CARTER
+          (ofreciendo la taza)
+          Llevas tres días aquí.
 
-          "TIENEN UNA ELECCIÓN.
-           RENDIRSE. REGRESAR. O SER ELIMINADOS."
+                          MCKAY
+          (toma el café)
+          He tenido una idea. Llevo
+          tres días desarrollándola.
+          Y creo que...
 
-                         ELI
-          (sin dudar)
-          Destiny. Responde: "Ni
-          lo uno ni lo otro. Vamos
-          a pasar."
+                          CARTER
+          ¿Qué?
 
-                         PETROVA
-          (alarmada)
-          ¡Eli!
+                          MCKAY
+          La Superge. Podemos usar
+          la Superge Ori. No la
+          destruimos del todo.
+          Podemos reconstruirla.
 
-                         ELI
-          Si nos movemos, sabrán
-          que no tenemos miedo. Si
-          nos detenemos, habremos
-          perdido.
+                          CARTER
+          (procesa)
+          El consumo energético...
 
-                         CHEN
-          (a Hawkins)
-          Prepara motores. Si se
-          mueven, salimos de aquí.
+                          MCKAY
+          ...sería masivo. Pero la
+          Superge puede manejar más
+          energía que un Stargate
+          normal. Podríamos mantener
+          la conexión más tiempo.
 
-La Destiny AVANZA lentamente hacia la nave Curadora.
+                          CARTER
+          (sonrisa)
+          Eso es genial, Rodney.
 
----
+                          MCKAY
+          (sorprendido)
+          ¿Lo es?
 
-### ESC 14 — EXT. DESTINY Y NAVE CURADORA — ESPACIO
+                          CARTER
+          Sí. Pero necesito que me
+          digas cuánto tiempo.
 
-La Destiny avanza. La nave Curadora no se mueve.
+                          MCKAY
+          (calcula)
+          Con tres ZPM mejorados...
+          cuarenta y siete segundos.
 
-Se cruzan. La Destiny pasa junto a la nave masiva.
-
-No ocurre nada.
-
-La Destiny continúa.
-
-La nave Curadora se desvanece en una distorsión.
-
-                         ELI (V.O.)
-          (en off)
-          Nos dejaron pasar.
-
----
-
-### ESC 15 — INT. DESTINY - PUENTE — CONTINUACIÓN
-
-Todos exhalan.
-
-                         ELI
-          (tranquilo)
-          Lo sabía.
-
-                         CHEN
-          (dejando el arma)
-          ¿Cómo?
-
-                         ELI
-          Porque si quisieran
-          eliminarnos, lo habrían
-          hecho. No mandan advertencias.
-          La advertencia era la prueba.
-          Y pasamos.
-
-                         HAWKINS
-          (sentándose)
-          ¿Qué pasa ahora?
-
-                         ELI
-          (mirando el mapa)
-          Ahora llegamos al primer
-          nodo real. Donde empieza
-          el camino.
-
-                         PETROVA
-          ¿Y qué hay ahí?
-
-                         ELI
+                          CARTER
           (pausa)
-          El primer fragmento del
-          código fuente.
+          Empieza a construirla.
 
----
+--- 
 
-### ESC 16 — EXT. PRIMER NODO — ESPACIO
+### ESC 8 — INT. SGC - DESPACHO DE CARTER — NOCHE — HACE 4 AÑOS
 
-Una estructura flota frente a la Destiny. Pequeña. Compacta.
+Carter habla por comunicador con alguien.
 
-En el centro: UN CRISTAL. Púrpura. Pulsante.
+                          CARTER
+          (al comunicador)
+          ¿Estás segura?
 
-                         ELI (V.O.)
-          (en off)
-          Esto es solo el primero.
-          Ocho fragmentos. Ocho
-          estaciones.
+                          VOZ (V.O.)
+          (mujer, mayor)
+          Los planos están en los
+          archivos de Atlantis. La
+          Superge es viable.
 
-La Destiny se acerca al cristal.
+Carter procesa.
 
-                         ELI (V.O.) (CONT.)
-          Y al final... el código
-          completo.
+                          CARTER
+          Gracias, Elizabeth. Tu
+          ayuda significa mucho.
+
+                          VOZ (V.O.)
+          (pausa)
+          Tráelos a casa, Sam.
+
+Carter asiente. Corta.
+
+(Elizabeth Weir — comunicación desde Atlantis.)
+
+--- 
+
+### ESC 9 — INT. SGC - CONSTRUCCIÓN DE LA SUPERGATE — DÍA — HACE 3 AÑOS
+
+Carter observa la construcción de la Superge. McKay supervisa.
+
+Trabajadores. Ingenieros. Una estructura colosal.
+
+                          MCKAY
+          (orgulloso)
+          ¿Ves? Te dije que se podía
+          hacer.
+
+                          CARTER
+          (mirando la estructura)
+          ¿Cuánto falta?
+
+                          MCKAY
+          Seis meses. Tal vez ocho.
+          Depende de si los chinos
+          entregan los segmentos a
+          tiempo.
+
+                          CARTER
+          (sonrisa)
+          Hablaré con ellos.
+
+--- 
+
+### ESC 10 — INT. IOA - AUDIENCIA — DÍA — HACE 2 AÑOS
+
+Carter presenta el Proyecto Fénix.
+
+                          CARTER
+          El Proyecto Fénix es la
+          culminación de ocho años de
+          trabajo. La Superge, tres
+          ZPM mejorados, y un equipo
+          listo para cruzar.
+
+                          REPRESENTANTE
+          ¿Y si falla?
+
+                          CARTER
+          (pausa)
+          Si falla, lo intentaremos
+          de nuevo.
+
+                          REPRESENTANTE
+          ¿A qué costo?
+
+                          CARTER
+          (firme)
+          El costo de dejar a nuestra
+          gente atrás es más alto.
+
+Silencio. La representante asiente lentamente.
+
+                          REPRESENTANTE
+          Aprobado.
+
+--- 
+
+### ESC 11 — INT. SGC - SALA DE CONTROL — DÍA — EL INTENTO FINAL
+
+Carter, McKay, Daniel y el equipo SG-D en posición.
+
+La Superge se activa.
+
+                          TÉCNICO
+          ¡Conexión estable! Diez
+          segundos... veinte...
+          treinta...
+
+La pantalla muestra la Destiny. La compuerta. Polvo.
+
+Y entonces: UNA FIGURA. Moviéndose en la oscuridad.
+
+                          MCKAY
+          (sin aliento)
+          ¿Hay alguien ahí?
+
+La figura se acerca. Se detiene frente a la compuerta.
+
+Es Eli. Mirando directamente a la cámara.
+
+Carter se queda paralizada.
+
+                          CARTER
+          (susurrando)
+          Eli.
+
+La conexión se mantiene. Cuarenta y siete segundos.
+
+Eli sonríe. Dice algo. No hay audio.
+
+                          TÉCNICO
+          ¡Cuarenta y siete segundos!
+
+La imagen se desvanece.
+
+Carter está temblando.
+
+                          CARTER
+          (voz quebrada)
+          Está vivo. Eli está vivo.
+
+--- 
+
+### ESC 12 — INT. SGC - DESPACHO DE CARTER — NOCHE — PRESENTE
+
+Carter está en su despacho. Mira la foto de Eli.
+
+Daniel entra. Trae dos tazas de café.
+
+                          DANIEL
+          (dando una taza)
+          ¿Pensando?
+
+                          CARTER
+          (toma el café)
+          Diez años. Diez años para
+          llegar a él. Y cuando lo
+          hicimos... sonreía.
+
+                          DANIEL
+          (sonrisa)
+          Es muy Eli.
+
+                          CARTER
+          (pausa)
+          Pasó ocho años solo. Ocho
+          años sin saber si íbamos a
+          volver. Y cuando abrimos el
+          portal, estaba ahí.
+          Sonriendo.
+
+                          DANIEL
+          Porque confiaba en ti.
+
+Carter lo mira. Lágrimas en sus ojos.
+
+                          CARTER
+          (voz queda)
+          No merezco esa confianza.
+          Tardé diez años.
+
+                          DANIEL
+          (firme)
+          Pero llegaste. Eso es lo
+          que importa.
+
+--- 
+
+### ESC 13 — INT. DESTINY - PUENTE — PRESENTE — DÍA (NAVE)
+
+Eli está en el puente. Carter aparece en pantalla.
+
+                          CARTER
+          Eli. Quiero que sepas algo.
+
+                          ELI
+          (atento)
+          Dígame.
+
+                          CARTER
+          (pausa. Sincera.)
+          Nunca me rendí. Hubo
+          momentos en que quise
+          hacerlo. Momentos en que
+          todos me decían que lo
+          dejara. Pero no pude.
+
+                          ELI
+          (pausa)
+          ¿Por qué?
+
+                          CARTER
+          Porque había gente ahí
+          fuera. Gente que confiaba
+          en mí. Gente que merecía
+          volver a casa.
+
+                          ELI
+          (sonrisa)
+          Y yo que pensaba que solo
+          era un programador.
+
+                          CARTER
+          (sonrisa)
+          Eres más que eso, Eli.
+          Siempre lo fuiste.
 
 **CORTE A NEGRO.**
 
-**CONTINUARÁ...**
+**FIN DEL EPISODIO**
+
+---
+
+**Temporada 1 — Episodio 6: "La Teoría de McKay"** — La década de fracasos de McKay. La noche que todo cambió.

@@ -1,701 +1,553 @@
-# STARGATE: DESTINY — Episodio 6: "El Coro"
+# STARGATE: DESTINY — Episodio 6: "La Teoría de McKay"
 
 **Duración estimada**: 44 min
+**Tipo**: Flashback McKay — Década de fracasos
 
 ---
 
 ## COLD OPEN
 
-### ESC 1 — INT. DESTINY - PUENTE — DÍA (NAVE)
+### ESC 1 — INT. SGC - LABORATORIO DE MCKAY — NOCHE — HACE 10 AÑOS
 
-Eli está acoplado al CRISTAL PÚRPURA del primer nodo. Una interfaz de luz conecta su frente al cristal.
+El laboratorio de McKay. Caos organizado. Pizarras llenas. Tazas de café por todas partes.
 
-Sus ojos se mueven rápidamente. Procesando. Absorbiendo.
+McKay (45) está frente a una pizarra. Ecuaciones. Diagramas. Tachaduras.
 
-                         ELI (V.O.)
-          (en off, superpuesto)
-          El código fuente no es un
-          mensaje. No es un idioma.
-          Es... una firma. La huella
-          digital de lo que creó el
-          universo.
+                          MCKAY
+          (para sí)
+          No funciona. No funciona.
+          No funciona.
 
-Abre los ojos. Se desconecta.
+Borra furiosamente.
 
-                         ELI
-          (sin aliento)
-          Es hermoso.
+                          MCKAY (CONT.)
+          ¿Por qué no funciona?
 
-                         PETROVA
-          ¿Qué viste?
+Carter entra.
 
-                         ELI
-          (pausa. Buscando palabras.)
-          Vi el momento antes del
-          Big Bang. Vi... una
-          intención. Algo que decidió
-          que el universo existiera.
+                          CARTER
+          Rodney. Son las tres de
+          la mañana.
 
-                         CHEN
-          (incrédulo)
-          ¿Dios?
+                          MCKAY
+          (sin mirar)
+          El tiempo es relativo,
+          Sam. Especialmente cuando
+          estás tratando de violar
+          las leyes de la física.
 
-                         ELI
-          (niega lentamente)
-          No. No un dios. Una
-          función. Un proceso. Como
-          una semilla que contiene
-          el árbol entero.
+                          CARTER
+          (se acerca)
+          ¿En qué estás trabajando?
 
-De repente, la LUZ DEL PUENTE CAMBIA. De ámbar a violeta.
+                          MCKAY
+          (se gira, agitado)
+          En la teoría de cuerdas
+          aplicada a agujeros de
+          gusano. Específicamente,
+          cómo crear un agujero de
+          gusano que atraviese...
+          (pausa)
+          ...no sé. Todo.
 
-                         ELI (CONT.)
-          (mirando alrededor)
-          Eso no es normal.
+                          CARTER
+          Explícamelo.
 
-Una VOZ emerge de los altavoces. No es Eli. No es nadie del equipo.
+                          MCKAY
+          (respira hondo)
+          La novena chevron no marca
+          un punto en el espacio.
+          Marca un punto en el
+          espacio-tiempo que se
+          mueve. Una nave viajando
+          a velocidades relativistas.
+          Para conectarnos,
+          necesitamos estabilizar el
+          agujero de gusano en un
+          blanco móvil.
 
-                         VOZ
-          (muchas voces, en coro)
-          Has visto el primer
-          fragmento. Ahora entiendes
-          por qué estamos aquí.
+                          CARTER
+          ¿Y?
 
-                         HAWKINS
-          (levantando el arma)
-          ¿Quién habla?
-
-                         VOZ
-          (El Coro)
-          Somos los que protegen.
-          Los que guardan el camino.
-          Los que borran a los que
-          no deben ver.
-
-                         ELI
-          (tranquilo)
-          Los Curadores.
-
-                         VOZ
-          No. Somos más que eso.
-          Somos el sistema inmune
-          del universo. Y ustedes
-          son una infección.
+                          MCKAY
+          (derrotado)
+          Y no sé cómo.
 
 **CORTE A NEGRO. TÍTULO: STARGATE: DESTINY**
 
 ---
 
-## ACTO UNO
+## ACTO UNO — AÑOS DE FRACASOS
 
-### ESC 2 — INT. DESTINY - PUENTE — CONTINUACIÓN
+### ESC 2 — INT. SGC - LABORATORIO — DÍA — HACE 9 AÑOS
 
-Las luces siguen en violeta. La voz no se va.
+McKay y su equipo (jóvenes científicos) trabajan.
 
-                         CHEN
-          (a Hawkins)
-          Busca la fuente. Podría
-          ser un sistema de la nave.
+                          MCKAY
+          ¡No! ¡Otra vez no!
 
-                         VOZ
-          No busques. Estoy en
-          todas partes. Soy la
-          nave. Soy el vacío. Soy
-          el espacio entre las
-          estrellas.
+La consola humea. El experimento ha fallado.
 
-                         ELI
-          (fascinado)
-          Estás en los sistemas de
-          la nave. Te infiltraste
-          cuando tocamos el cristal.
+                          CIENTÍFICO #1
+          Dr. McKay, la
+          retroalimentación de
+          energía...
 
-                         VOZ
-          El cristal es una puerta.
-          Y ustedes la abrieron.
+                          MCKAY
+          (interrumpe)
+          Lo sé. Lo sé. Fue mi error.
+          Mi ecuación estaba mal.
 
-                         PETROVA
-          (a Eli)
-          ¿Puedes cerrarla?
+Borra la pizarra. Empieza de nuevo.
 
-                         ELI
+                          CIENTÍFICO #2
+          (tímido)
+          Tal vez deberíamos
+          reconsiderar el enfoque...
+
+                          MCKAY
+          (mira fijamente)
+          ¿Reconsiderar? He pasado
+          un año en esto. No voy a
+          reconsiderar nada.
+
+--- 
+
+### ESC 3 — INT. SGC - CAFETERÍA — NOCHE — HACE 9 AÑOS
+
+McKay está solo con una taza de café frío.
+
+Daniel se sienta.
+
+                          DANIEL
+          ¿Puedo?
+
+                          MCKAY
+          (resignado)
+          Ya estás aquí.
+
+                          DANIEL
+          He oído que el experimento
+          no funcionó.
+
+                          MCKAY
+          (amargo)
+          No funcionó. Como los
+          últimos quince intentos.
+          Como los próximos
+          quince.
+
+                          DANIEL
           (pausa)
-          No. Y no estoy seguro
-          de que debamos hacerlo.
-
-                         CHEN
-          ¿Qué?
-
-                         ELI
-          (a la voz)
-          ¿Qué quieres?
-
-                         VOZ
-          (pausa)
-          Quiero que entiendan lo
-          que están a punto de
-          despertar.
-
----
-
-### ESC 3 — INT. DESTINY - PUENTE — CONTINUACIÓN
-
-La voz les cuenta una HISTORIA. Mientras habla, imágenes aparecen en la pantalla.
-
-                         VOZ
-          Hace millones de años,
-          una civilización descubrió
-          el código fuente. No eran
-          como ustedes. Eran...
-          puros. Su única motivación
-          era el conocimiento.
-
-En la pantalla: una civilización alienígena. Pacífica. Avanzada.
-
-                         VOZ (CONT.)
-          Encontraron el código.
-          Lo descifraron. Y al
-          hacerlo, descubrieron que
-          el universo no es real.
-
-La imagen cambia. La civilización... comienza a desintegrarse.
-
-                         VOZ (CONT.)
-          El conocimiento las
-          destruyó. No físicamente.
-          Existencialmente. Dejaron
-          de tener propósito. Dejaron
-          de existir.
-
-                         ELI
-          (horrorizado)
-          ¿El código fuente es un
-          veneno?
-
-                         VOZ
-          El código fuente es la
-          verdad. Y la verdad, para
-          algunas especies, es
-          mortal.
-
----
-
-### ESC 4 — INT. SGC - SALA DE CONTROL — DÍA
-
-Carter recibe la transmisión.
-
-                         CARTER
-          (a Daniel)
-          ¿Puede ser cierto?
-
-                         DANIEL
-          (sombrío)
-          Los Antiguos tenían una
-          advertencia similar: "El
-          conocimiento sin preparación
-          destruye." Tal vez no era
-          una metáfora.
-
-                         MCKAY
-          (nervioso)
-          ¿Entonces qué hacemos?
-          ¿Dejamos de investigar?
-
-                         DANIEL
-          (pausa)
-          No podemos. Pero tal vez
-          necesitamos... prepararnos.
-          Entender qué estamos
-          buscando antes de buscarlo.
-
-                         CARTER
-          (a la consola)
-          Eli. No toques más
-          fragmentos sin consultar.
-          Quiero entender primero
-          qué es esto.
-
----
-
-## ACTO DOS
-
-### ESC 5 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-La voz de El Coro sigue presente.
-
-                         VOZ
-          Su comandante tiene razón.
-          Deben entender antes de
-          continuar. Pero el tiempo
-          se agota.
-
-                         ELI
-          (cansado)
-          ¿Por qué nos ayudas?
-          Pensé que querías
-          detenernos.
-
-                         VOZ
-          Quiero protegerlos. Pero
-          también quiero que alguien
-          finalmente complete el
-          viaje. Hemos estado solos
-          durante eones. Sin propósito.
-          Sin dirección.
-
-                         PETROVA
-          (sorprendida)
-          ¿Los Curadores quieren
-          que alguien llegue al final?
-
-                         VOZ
-          No todos. Hay una división
-          entre nosotros. Algunos
-          creen que nadie debe
-          encontrar el código. Otros...
-          otros queremos que alguien
-          lo haga. Para que nuestro
-          sacrificio tenga sentido.
-
-                         ELI
-          (conectando)
-          Por eso nos dejaron pasar.
-          Por eso la Presencia nos
-          ayudó. Hay facciones.
-
-                         VOZ
-          (confirmando)
-          Y la facción que quiere
-          detenerlos se está
-          acercando.
-
----
-
-### ESC 6 — INT. DESTINY - PUENTE — CONTINUACIÓN
-
-La voz de El Coro se debilita.
-
-                         VOZ
-          Me están silenciando. No
-          tengo mucho tiempo. Escuchen:
-          el segundo fragmento está
-          en un sistema a tres días
-          de aquí. Pero no vayan
-          directamente. Hay una
-          trampa.
-
-                         ELI
-          (alertado)
-          ¿Qué clase de trampa?
-
-                         VOZ
-          La facción contraria sabe
-          que irán allí. Han
-          preparado un... recibimiento.
-          Pero hay una ruta alternativa.
-          Un camino que solo las
-          sembradoras conocen.
-
-La consola recibe coordenadas.
-
-                         VOZ (CONT.)
-          Confíen en las sembradoras.
-          Ellas recuerdan el camino
-          original. Antes de que
-          nos dividiéramos.
-
-La voz se desvanece.
-
-                         VOZ (CONT.)
-          (débil)
-          Y cuidado con el silencio.
-          No todo lo que calla
-          está vacío.
-
-Silencio. Las luces vuelven a la normalidad.
-
-                         ELI
-          (mirando las coordenadas)
-          Bueno. Tenemos una ruta.
-
-                         CHEN
-          ¿Confías en ella?
-
-                         ELI
-          (pausa)
-          No. Pero confío en las
-          sembradoras. Y la ruta
-          tiene sentido.
-
----
-
-## ACTO TRES
-
-### ESC 7 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-La Destiny sigue la ruta alternativa. Atraviesa un campo de asteroides. Navegación complicada.
-
-                         ELI
-          Aquí. La ruta nos lleva
-          a través de este cinturón.
-          Las sembradoras lo
-          cartografiaron.
-
-                         HAWKINS
-          (mirando la pantalla)
-          Está lleno de rocas.
-          Un error y...
-
-                         ELI
-          No habrá error.
-
-Eli maniobra. La Destiny se desliza entre los asteroides con precisión.
-
-                         PETROVA
-          (asombrada)
-          ¿Cómo sabes exactamente
-          por dónde ir?
-
-                         ELI
-          (sonrisa)
-          La nave lo sabe. Solo
-          tengo que escucharla.
-
----
-
-### ESC 8 — INT. DESTINY — INTERIOR — CONTINUACIÓN
-
-La nave vibra. Un impacto menor.
-
-                         CHEN
-          (alerta)
-          ¿Qué fue eso?
-
-                         ELI
-          (concentrado)
-          Nada. Solo un roce.
-          Seguimos.
-
-La Destiny emerge del cinturón. Frente a ellos: UN PLANETA.
-
-Pequeño. Rocoso. Con una atmósfera delgada.
-
-Y en la superficie: UNA ESTRUCTURA. Similar al primer nodo.
-
-                         ELI (CONT.)
-          (sonrisa)
-          Segundo fragmento.
-
----
-
-### ESC 9 — INT. SGC - SALA DE CONTROL — DÍA
-
-Carter observa.
-
-                         CARTER
-          (por comunicador)
-          Eli. Recuerda lo que dijo
-          El Coro. No toques el
-          fragmento sin preparación.
-
-                         ELI (V.O.)
-          Lo recuerdo, General.
-          Pero no sé cómo
-          "prepararme" para esto.
-
-                         DANIEL
-          (interviniendo)
-          Tal vez yo debería ir.
-
-                         CARTER
-          (sorprendida)
-          ¿A la Destiny?
-
-                         DANIEL
-          Soy el que más sabe de
-          los Antiguos. Si alguien
-          puede interpretar el
-          código fuente sin...
-          desintegrarse... soy yo.
-
-                         CARTER
-          (pausa)
-          Es peligroso.
-
-                         DANIEL
-          (sonrisa)
-          Desde cuándo eso me ha
-          detenido?
-
----
-
-## ACTO CUATRO
-
-### ESC 10 — INT. DESTINY - SALA DE COMPUERTAS — DÍA (NAVE)
-
-Daniel CRUZA el portal. Lleva su mochila, su cámara, sus cuadernos.
-
-Eli lo recibe.
-
-                         ELI
-          Dr. Jackson. Bienvenido
-          a la Destiny.
-
-                         DANIEL
-          (mirando alrededor)
-          Es más... antigua de lo
-          que imaginaba.
-
-                         ELI
-          (sonrisa)
-          Eso es porque es más
-          antigua de lo que imagina.
-
-                         DANIEL
-          (devolviendo la sonrisa)
-          Toqué.
-
----
-
-### ESC 11 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-Daniel estudia el mapa, el patrón, los datos.
-
-                         DANIEL
-          (fascinado)
-          Es matemática pura. Pero
-          no es matemática humana.
-          Es... música. El universo
-          tiene una frecuencia
-          fundamental.
-
-                         ELI
-          ¿Como una nota?
-
-                         DANIEL
-          Como una sinfonía. Y el
-          código fuente es la
-          partitura.
-
-                         PETROVA
-          (interesada)
-          ¿Se puede "leer" la
-          partitura?
-
-                         DANIEL
-          (pausa)
-          Tal vez. Pero no con los
-          ojos. Con la intuición.
-          Con algo más profundo.
-
-                         ELI
-          (mirando el segundo nodo)
-          Eso es lo que El Coro
-          dijo. Que el conocimiento
-          sin preparación destruye.
-          Tal vez la preparación
-          es... entender que no
-          puedes entenderlo todo.
-
-                         DANIEL
-          (asintiendo)
-          Sabiduría. No conocimiento.
-          Sabiduría.
-
----
-
-### ESC 12 — INT. SEGUNDO NODO — INTERIOR
-
-Eli, Daniel y Chen entran en la estructura del segundo nodo.
-
-Es diferente al primero. Más orgánico. Paredes que respiran.
-
-En el centro: OTRO CRISTAL. Pero este es DIFERENTE. Tiene grietas. Como si estuviera roto.
-
-                         DANIEL
-          (acercándose)
-          Este fragmento está dañado.
-
-                         ELI
-          (preocupado)
-          ¿Por qué?
-
-                         DANIEL
-          (examinando)
-          Alguien llegó antes que
-          nosotros. Alguien intentó
-          romperlo.
-
-                         CHEN
-          (alerta)
-          ¿Los Curadores?
-
-                         DANIEL
-          (negando)
-          Los Curadores no rompen.
-          Borran. Esto fue...
-          alguien más.
-
-                         ELI
-          (tocando el cristal)
-          Todavía funciona. Está
-          incompleto, pero... puedo
-          sentir algo.
-
-                         DANIEL
-          (poniendo una mano sobre
-           la de Eli)
-          Juntos. Tal vez juntos
-          podamos leer lo que queda.
-
-Cierran los ojos.
-
-Visión fragmentada:
-
-- Una guerra. Civilizaciones luchando.
-- Los Curadores divididos. Unos protegiendo, otros destruyendo.
-- Una figura. Oscura. Rodeada de luz negra.
-- Un mensaje: "ELLA ESTÁ DESPERTANDO."
-
-Eli y Daniel abren los ojos al mismo tiempo.
-
-                         ELI
-          (sin aliento)
-          ¿Viste eso?
-
-                         DANIEL
-          (pálido)
-          Vi a alguien. Alguien que
-          no es un Curador. Alguien
-          que está... atrapado. O
-          durmiendo.
-
-                         ELI
-          "Ella está despertando."
-          ¿Quién es "ella"?
-
-                         DANIEL
-          (grave)
-          No lo sé. Pero creo que
-          es a quien los Curadores
-          están protegiendo.
-
----
-
-## ACTO CINCO
-
-### ESC 13 — INT. DESTINY - PUENTE — DÍA (NAVE)
-
-De vuelta. Eli procesa los datos del segundo fragmento.
-
-                         ELI
-          El fragmento está dañado,
-          pero pude extraer algo.
-          Coordenadas. No de un
-          lugar. De un evento.
-
-                         PETROVA
-          ¿Qué tipo de evento?
-
-                         ELI
-          (pausa)
-          El momento en que los
-          Curadores se dividieron.
-          Hace millones de años.
-          Una guerra entre ellos.
-
-                         CHEN
-          ¿Los Curadores tuvieron
-          una guerra civil?
-
-                         ELI
+          ¿Por qué sigues?
+
+                          MCKAY
+          (mira a Daniel)
+          Porque hay gente ahí fuera.
+          Gente que conoces. Y si no
+          lo intento... ¿quién va a
+          hacerlo?
+
+                          DANIEL
           (asiente)
-          Y el bando perdedor...
-          no fue eliminado. Fue
-          sellado. En un lugar
-          llamado "El Vacio".
+          Eso mismo le digo a Sam
+          cuando se quiere rendir.
 
-                         DANIEL
-          (conectando)
-          El vacío. La zona muerta.
-          No es un lugar que ellos
-          borraron. Es una prisión.
+                          MCKAY
+          (sorprendido)
+          ¿Carter quiere rendirse?
 
-                         ELI
-          (mirándolo)
-          Y "Ella" es lo que está
-          prisionero ahí.
+                          DANIEL
+          No. Pero a veces necesita
+          oír que no debe hacerlo.
 
----
+McKay asiente. Toma su café.
 
-### ESC 14 — INT. SGC - SALA DE BRIEFING — DÍA
+--- 
 
-Carter procesa la información.
+### ESC 4 — INT. SGC - LABORATORIO — DÍA — HACE 8 AÑOS
 
-                         CARTER
-          ¿Entonces los Curadores
-          no son el enemigo? ¿El
-          enemigo es algo que ellos
-          mismos encarcelaron?
+McKay ha rediseñado el sistema. Nueva ecuación en la pizarra.
 
-                         DANIEL
+                          MCKAY
+          (a su equipo)
+          Esta vez es diferente. He
+          encontrado una solución
+          para la estabilización del
+          agujero de gusano.
+
+                          CIENTÍFICO #1
+          ¿Usando qué?
+
+                          MCKAY
+          (sonrisa)
+          Usando la física de
+          partículas del Big Bang.
+          Específicamente, la
+          radiación de fondo de
+          microondas como ancla.
+
+                          CIENTÍFICO #2
+          (impresionado)
+          Eso es... brillante.
+
+                          MCKAY
+          Lo sé. Pongan en marcha
+          el experimento.
+
+--- 
+
+### ESC 5 — INT. SGC - CÁMARA DE PRUEBAS — DÍA — HACE 8 AÑOS
+
+El experimento se activa. Energía fluye.
+
+La pantalla muestra un agujero de gusano inestable.
+
+                          MCKAY
+          (expectante)
+          Vamos... vamos...
+
+El agujero de gusano se estabiliza. Cinco segundos.
+
+                          MCKAY (CONT.)
+          (gritando)
+          ¡Cinco segundos! ¡Cinco
+          segundos!
+
+El equipo aplaude. McKay sonríe por primera vez en meses.
+
+                          MCKAY (CONT.)
+          (a nadie)
+          Toma esa, física cuántica.
+
+--- 
+
+### ESC 6 — INT. SGC - LABORATORIO — NOCHE — HACE 7 AÑOS
+
+McKay está solo. La puerta se abre. Entra CARSON BECKETT.
+
+                          CARSON
+          (acento escocés)
+          Rodney. He oído que has
+          tenido éxito.
+
+                          MCKAY
+          (sin mirar)
+          Éxito parcial. Cinco
+          segundos. Necesito una
+          conexión permanente.
+
+                          CARSON
+          (se sienta)
+          ¿Cómo estás?
+
+                          MCKAY
+          (pausa, se gira)
+          ¿Cómo crees que estoy?
+          Llevo tres años intentando
+          lo imposible. Todos me
+          miran como si fuera la
+          única esperanza. Y lo peor
+          es que... lo soy.
+
+                          CARSON
+          (calmado)
+          No tienes que cargar con
+          todo tú solo.
+
+                          MCKAY
+          (amargo)
+          ¿Quién más va a hacerlo?
+          ¿Carter? Ya tiene suficiente
+          con el IOA. ¿Daniel?
+          Está buscando respuestas
+          en piedras. Soy yo, Carson.
+          Siempre soy yo.
+
+                          CARSON
+          (pausa)
+          Por eso viniste a verme,
+          ¿no?
+
+McKay lo mira. No responde.
+
+--- 
+
+### ESC 7 — INT. SGC - LABORATORIO — DÍA — HACE 6 AÑOS
+
+McKay trabaja en un nuevo diseño. Más grande. Más complejo.
+
+Carter entra.
+
+                          CARTER
+          Rodney. He oído que estás
+          construyendo algo nuevo.
+
+                          MCKAY
+          (emocionado)
+          Es un potenciador de
+          agujero de gusano. Usa la
+          tecnología Asgard para
+          estabilizar la conexión.
+
+                          CARTER
+          ¿Va a funcionar?
+
+                          MCKAY
+          (pausa)
+          No lo sé. Pero es lo único
+          que se me ocurre.
+
+--- 
+
+### ESC 8 — INT. SGC - CÁMARA DE PRUEBAS — DÍA — HACE 6 AÑOS
+
+El potenciador se activa. La energía fluye.
+
+Diez segundos. Veinte. Treinta.
+
+                          MCKAY
+          (incrédulo)
+          ¡Treinta segundos! ¡Está
+          funcionando!
+
+De repente, el potenciador se SOBRECARGA. Explota.
+
+McKay sale volando. Cae al suelo.
+
+                          CARTER
+          (corriendo)
+          ¡Rodney!
+
+McKay está en el suelo. Aturdido. Sangra de la frente.
+
+                          MCKAY
+          (aturdido)
+          ¿Funcionó?
+
+                          CARTER
+          (ayudándolo)
+          Funcionó durante treinta
+          segundos. Luego explotó.
+
+                          MCKAY
+          (sonrisa débil)
+          Treinta segundos. Es mejor
+          que cinco.
+
+--- 
+
+### ESC 9 — INT. SGC - LABORATORIO — NOCHE — HACE 5 AÑOS
+
+McKay tiene un vendaje en la cabeza. Trabaja en una nueva ecuación.
+
+Carter entra.
+
+                          CARTER
+          Deberías estar descansando.
+
+                          MCKAY
+          (sin mirar)
+          No puedo. Tuve una idea.
+          La Superge.
+
+                          CARTER
+          (sorprendida)
+          ¿La Superge Ori?
+
+                          MCKAY
+          (emocionado)
+          Exacto. La Superge puede
+          manejar más energía que un
+          Stargate normal. Si la
+          reconstruimos...
+
+                          CARTER
+          (completa)
+          ...podríamos mantener la
+          conexión el tiempo
+          suficiente.
+
+                          MCKAY
+          (sonrisa)
+          Exacto.
+
+                          CARTER
+          (pausa. Decisión.)
+          Hazlo. Consigue todo lo
+          que necesites.
+
+--- 
+
+### ESC 10 — INT. SGC - CONSTRUCCIÓN — MONTAJE — HACE 4-3 AÑOS
+
+Montaje de la construcción de la Superge:
+
+- McKay supervisa la instalación de segmentos.
+- McKay discute con ingenieros.
+- McKay duerme en su escritorio.
+- McKay come pizza mientras revisa planos.
+- McKay y Carter observan el anillo completado.
+
+                          MCKAY
+          (mirando la Superge)
+          Es hermosa.
+
+                          CARTER
+          (sonrisa)
+          Es una máquina.
+
+                          MCKAY
+          Las máquinas también
+          pueden ser hermosas.
+
+--- 
+
+### ESC 11 — INT. SGC - CÁMARA DEL ZPM — DÍA — HACE 2 AÑOS
+
+McKay prepara los ZPM mejorados.
+
+                          MCKAY
+          (a Carter)
+          Tres ZPM. Potencia máxima.
+          Si esto no funciona...
+
+                          CARTER
+          Funcionará.
+
+                          MCKAY
+          (pausa)
+          ¿Cómo puedes estar tan
+          segura?
+
+                          CARTER
+          (firme)
+          Porque tú lo hiciste.
+          Porque no te rendiste.
+
+McKay la mira. Asiente.
+
+--- 
+
+### ESC 12 — INT. SGC - SALA DE CONTROL — DÍA — EL PRIMER CONTACTO
+
+La Superge se activa. La energía fluye.
+
+La pantalla muestra la Destiny. Vacía. Polvo.
+
+                          TECHNICO
+          Diez segundos... veinte...
+
+De repente: UNA FIGURA. Moviéndose.
+
+                          MCKAY
+          (sin aliento)
+          ¿Hay alguien ahí?
+
+La figura se acerca. Es Eli. Mirando.
+
+                          MCKAY (CONT.)
+          (voz quebrada)
+          Eli... es Eli.
+
+La conexión se mantiene. Cuarenta y siete segundos.
+
+Eli dice algo. Sin audio.
+
+La imagen se desvanece.
+
+McKay está temblando.
+
+                          MCKAY (CONT.)
+          (susurrando)
+          Lo logré. Lo logré.
+
+Carter lo abraza.
+
+                          CARTER
+          Lo lograste, Rodney.
+
+--- 
+
+### ESC 13 — INT. SGC - LABORATORIO DE MCKAY — PRESENTE — DÍA
+
+McKay está en su laboratorio. Solo. Mira la pizarra con ecuaciones.
+
+Carter entra.
+
+                          CARTER
+          ¿Todo bien?
+
+                          MCKAY
+          (pausa)
+          Sabes, pasé diez años
+          intentando resolver un
+          problema. Diez años.
+          Ciento diecisiete
+          intentos.
+
+                          CARTER
+          (se sienta)
+          Lo sé.
+
+                          MCKAY
+          Y cuando finalmente lo
+          logré... cuando vi su
+          cara... pensé: "Valió la
+          pena."
+
+                          CARTER
+          (sonrisa)
+          ¿Incluso las explosiones?
+
+                          MCKAY
+          (sonrisa)
+          Incluso las explosiones.
+          Aunque la del año seis
+          dolió bastante.
+
+--- 
+
+### ESC 14 — INT. DESTINY - PUENTE — PRESENTE — DÍA (NAVE)
+
+Eli y McKay están en videollamada.
+
+                          ELI
           (desde la pantalla)
-          Exacto. Dividieron su
-          propia especie para
-          contener algo. La facción
-          que perdió... era la que
-          quería usar el código
-          fuente.
+          Así que pasaste diez años
+          tratando de contactarme.
 
-                         MCKAY
-          ¿Usarlo para qué?
+                          MCKAY
+          (desde la pantalla)
+          Técnicamente, fue un
+          desafío científico sin
+          precedentes que resolví
+          con ingenio y perseverancia.
 
-                         DANIEL
-          (pausa)
-          Para reescribir la
-          realidad.
+                          ELI
+          (sonrisa)
+          Traducción: fallaste
+          ciento diecisiete veces.
 
-                         CARTER
-          (sombría)
-          Y nosotros estamos
-          siguiendo el mismo camino.
+                          MCKAY
+          (fingiendo ofensa)
+          Fallé CIENTO DIECISÉIS
+          veces. La ciento
+          diecisiete fue un éxito.
 
----
+                          ELI
+          (riendo)
+          Te he extrañado, Rodney.
 
-### ESC 15 — EXT. LA DESTINY EN EL ESPACIO — NOCHE (NAVE)
-
-La Destiny navega. El equipo está en silencio.
-
-Eli mira por la ventana.
-
-                         ELI
-          (a Wilson)
-          ¿Sabes qué es lo peor?
-          Que si "Ella" está
-          despertando, tal vez
-          nosotros somos la razón.
-          Porque empezamos a seguir
-          el mapa. Porque tocamos
-          los fragmentos.
-
-Pausa.
-
-                         ELI (CONT.)
-          Tal vez no somos los que
-          van a encontrar el código
-          fuente. Tal vez somos los
-          que van a liberar a algo
-          que nunca debió ser libre.
-
-Wilson parpadea.
-
-                         ELI (CONT.)
-          Pero no podemos parar
-          ahora. Porque si no lo
-          hacemos nosotros...
-          (pausa)
-          ...nadie lo hará.
+                          MCKAY
+          (pausa. Sincero.)
+          Yo también, Eli. Yo
+          también.
 
 **CORTE A NEGRO.**
 
-**CONTINUARÁ...**
+**FIN DEL EPISODIO**
+
+---
+
+**Temporada 1 — Episodio 7: "Atlantis - La Advertencia"** — Daniel encuentra archivos ocultos en Atlantis. "Vuelvan por donde vinieron."
